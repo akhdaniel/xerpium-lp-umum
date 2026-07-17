@@ -1,0 +1,822 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Partner Network Locations | Xerpium Partner Map</title>
+    <meta
+      name="description"
+      content="Temukan partner Xerpium di seluruh Indonesia dan regional. Cari partner terdekat di berbagai kota dan negara."
+    />
+    <link rel="icon" type="image/svg+xml" href="./images/xerpium-logo-mark.svg" />
+    <link rel="preload" href="./styles.css" as="style" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      .locations-hero {
+        min-height: 720px;
+        padding: 120px 34px 34px;
+        border-radius: 0 0 40px 40px;
+        overflow: hidden;
+        background:
+          linear-gradient(135deg, rgba(10, 18, 30, 0.72) 0%, rgba(10, 18, 30, 0.84) 50%, rgba(10, 18, 30, 0.92) 100%),
+          linear-gradient(180deg, rgba(14, 165, 168, 0.18) 0%, transparent 60%),
+          radial-gradient(circle at 80% 20%, rgba(14, 165, 168, 0.25), transparent 40%);
+        box-shadow: 0 30px 80px rgba(8, 23, 39, 0.18);
+      }
+
+      .locations-hero h1 {
+        font-size: clamp(2.6rem, 5.2vw, 4.8rem);
+        line-height: 0.96;
+        color: #fff;
+        max-width: 14ch;
+        text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+      }
+
+      .locations-hero h1 span {
+        color: var(--accent);
+      }
+
+      .locations-hero .eyebrow {
+        color: #7adfe4;
+      }
+
+      .locations-hero p {
+        color: rgba(255,255,255,0.82);
+        max-width: 52ch;
+        line-height: 1.72;
+        margin: 20px 0 28px;
+        font-size: 1.08rem;
+      }
+
+      .location-stats {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 14px;
+        margin-top: 32px;
+      }
+
+      .location-stat {
+        padding: 20px;
+        border-radius: 22px;
+        border: 1px solid rgba(255,255,255,0.12);
+        background: linear-gradient(180deg, rgba(255,255,255,0.10), rgba(255,255,255,0.06));
+        backdrop-filter: blur(12px);
+        text-align: center;
+        transition: transform 0.2s ease;
+      }
+
+      .location-stat:hover {
+        transform: translateY(-3px);
+      }
+
+      .location-stat-number {
+        font-size: 2.4rem;
+        font-weight: 700;
+        color: #fff;
+        font-family: "Space Grotesk","IBM Plex Sans",sans-serif;
+        margin-bottom: 4px;
+      }
+
+      .location-stat-label {
+        font-size: 0.9rem;
+        color: rgba(255,255,255,0.72);
+      }
+
+      .location-map-container {
+        margin-top: 40px;
+        position: relative;
+      }
+
+      .country-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        margin-top: 20px;
+      }
+
+      @media (max-width: 1080px) {
+        .country-grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+        .location-stats {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media (max-width: 720px) {
+        .country-grid {
+          grid-template-columns: 1fr;
+        }
+        .location-stats {
+          grid-template-columns: repeat(2, 1fr);
+        }
+        .locations-hero {
+          min-height: auto;
+          padding: 26px 20px 20px;
+        }
+      }
+
+      .country-card {
+        background: var(--bg-card);
+        border-radius: 26px;
+        border: 1px solid rgba(215,225,236,0.82);
+        backdrop-filter: blur(12px) saturate(140%);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .country-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 24px 60px rgba(8,23,39,0.2);
+      }
+
+      .country-header {
+        padding: 24px 22px;
+        background: linear-gradient(180deg, rgba(14,165,168,0.04), rgba(255,255,255,0.96));
+        border-bottom: 1px solid rgba(215,225,236,0.82);
+      }
+
+      .country-flag {
+        width: 40px;
+        height: 30px;
+        margin-bottom: 12px;
+        border-radius: 4px;
+        object-fit: cover;
+      }
+
+      .country-name {
+        font-size: 1.4rem;
+        font-family: "Space Grotesk","IBM Plex Sans",sans-serif;
+        margin-bottom: 6px;
+        color: var(--text);
+        font-weight: 700;
+      }
+
+      .country-stats {
+        display: flex;
+        gap: 14px;
+        font-size: 0.88rem;
+        color: var(--text-muted);
+      }
+
+      .country-stats strong {
+        color: var(--accent-strong);
+        font-weight: 600;
+      }
+
+      .cities-accordion {
+        padding: 0 22px;
+      }
+
+      .city-toggle {
+        width: 100%;
+        text-align: left;
+        padding: 18px 0;
+        border: none;
+        background: none;
+        border-bottom: 1px solid rgba(215,225,236,0.8);
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--text);
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        transition: color 0.2s ease;
+        font-family: inherit;
+      }
+
+      .city-toggle:hover {
+        color: var(--accent-strong);
+      }
+
+      .city-toggle span {
+        font-weight: 400;
+        color: var(--text-muted);
+        font-size: 0.95rem;
+      }
+
+      .city-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+        padding: 0;
+      }
+
+      .city-content.active {
+        max-height: 500px;
+        padding: 18px 0;
+      }
+
+      .city-grid {
+        display: grid;
+        gap: 12px;
+      }
+
+      .city-card {
+        padding: 16px 18px;
+        background: rgba(255,255,255,0.8);
+        border-radius: 16px;
+        border: 1px solid var(--border);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .city-card:hover {
+        transform: translateX(6px);
+        background: #fff;
+        box-shadow: 0 8px 24px rgba(8,23,39,0.12);
+      }
+
+      .city-name {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 6px;
+        color: var(--navy);
+      }
+
+      .city-partners {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .partner-badge {
+        background: var(--accent-soft);
+        color: var(--accent-strong);
+        padding: 4px 10px;
+        border-radius: 999px;
+        font-size: 0.82rem;
+        font-weight: 600;
+        border: 1px solid rgba(14,165,168,0.18);
+      }
+
+      .partner-logos {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-top: 10px;
+        flex-wrap: wrap;
+      }
+
+      .partner-logo {
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 2px solid var(--accent-soft);
+        background: #fff;
+        padding: 2px;
+      }
+
+      .city-more {
+        font-size: 0.88rem;
+        color: var(--text-muted);
+        margin-top: 8px;
+        font-style: italic;
+      }
+
+      .become-partner {
+        margin-top: 50px;
+        padding: 50px 0;
+        background:
+          radial-gradient(circle at top center, rgba(14,165,168,0.12), transparent 28%),
+          linear-gradient(180deg, rgba(255,255,255,0.98), rgba(244,248,252,0.96));
+      }
+
+      .become-partner-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+        align-items: center;
+        margin-top: 28px;
+      }
+
+      .become-partner h2 {
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        margin-bottom: 20px;
+      }
+
+      .become-partner p {
+        color: var(--text-muted);
+        line-height: 1.72;
+        margin-bottom: 22px;
+        font-size: 1.02rem;
+      }
+
+      .benefits-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 18px;
+        margin-top: 22px;
+      }
+
+      .benefit-card {
+        background: rgba(14,165,168,0.06);
+        border-radius: 20px;
+        border: 1px solid rgba(14,165,168,0.18);
+        padding: 22px 18px;
+        transition: transform 0.2s ease;
+      }
+
+      .benefit-card:hover {
+        transform: translateY(-4px);
+      }
+
+      .benefit-icon {
+        width: 32px;
+        height: 32px;
+        background: var(--accent-strong);
+        color: #fff;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        margin-bottom: 14px;
+      }
+
+      .benefit-title {
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 6px;
+        color: var(--accent-strong);
+      }
+
+      .benefit-desc {
+        font-size: 0.92rem;
+        color: var(--text-muted);
+        line-height: 1.65;
+      }
+
+      .become-partner .button {
+        margin-top: 24px;
+        align-self: start;
+      }
+
+      @media (max-width: 1080px) {
+        .become-partner-grid {
+          grid-template-columns: 1fr;
+        }
+        .benefits-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
+      @media (max-width: 720px) {
+        .become-partner {
+          padding: 30px 0;
+        }
+        .become-partner-grid {
+          grid-template-columns: 1fr;
+        }
+        .benefits-grid {
+          grid-template-columns: 1fr;
+        }
+        .country-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./index.html" aria-label="Xerpium">
+          <span class="brand-mark">
+            <img src="./images/logo%20full%20copy.jpg" alt="" loading="lazy" />
+          </span>
+          <span class="brand-copy">
+            <span class="brand-text">xerpium</span>
+            <span class="brand-tagline">Lokasi Partner</span>
+          </span>
+        </a>
+        <div class="header-actions">
+          <nav class="nav-links" aria-label="Navigasi utama">
+            <a href="./index.html#advantage">Advantage</a>
+            <a href="./index.html#onboarding">Onboarding</a>
+            <a href="./index.html#cta">Free Trial</a>
+            <a href="./index-locations.html">Locations</a>
+          </nav>
+          <div class="lang-switch" aria-label="Language switch">
+            <a class="lang-link is-active" href="./index-locations.html" aria-current="page">ID</a>
+            <a class="lang-link" href="./index-locations-en.html">EN</a>
+          </div>
+          <a
+            class="social-link social-link-whatsapp"
+            href="https://wa.me/6281809182752?text=kak%20mau%20tanya%20tentang%20xerpium%20dong"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="WhatsApp Xerpium"
+            title="WhatsApp Xerpium"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20.5 3.5A11.8 11.8 0 0 0 1.9 17.7L.5 23.5l6-1.3A11.8 11.8 0 1 0 20.5 3.5Zm-8.7 18a9.8 9.8 0 0 1-5-1.4l-.4-.2-3.5.8.8-3.4-.2-.4a9.8 9.8 0 1 1 8.3 4.6Zm5.4-7.3c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1l-.6.8c-.2.2-.4.2-.7.1a8 8 0 0 1-2.3-1.4 8.8 8.8 0 0 1-1.6-2c-.2-.3 0-.5.1-.7l.5-.6.3-.5a.6.6 0 0 0 0-.6c-.1-.1-.7-1.6-1-2.2-.2-.5-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.5-.3.3-1.1 1-1.1 2.5s1.1 3 1.2 3.2c.2.2 2.2 3.3 5.3 4.6.8.4 1.4.6 1.8.7.8.2 1.5.2 2.1.1.7-.1 1.8-.8 2-1.5.3-.7.3-1.4.2-1.5-.1-.1-.3-.2-.6-.3Z"></path>
+            </svg>
+          </a>
+          <a
+            class="social-link social-link-email"
+            href="mailto:halo@xerpium.com"
+            aria-label="Email Xerpium"
+            title="Email Xerpium"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M3 5.5A2.5 2.5 0 0 1 5.5 3h13A2.5 2.5 0 0 1 21 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 18.5v-13Zm2.1-.5L12 10.1 18.9 5H5.1ZM19 6.2l-6.4 4.7a1 1 0 0 1-1.2 0L5 6.2v12.3c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5V6.2Z"></path>
+            </svg>
+          </a>
+          <a
+            class="social-link"
+            href="https://www.youtube.com/@xerpium_id"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="YouTube Xerpium"
+            title="YouTube Xerpium"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.6 3.6 12 3.6 12 3.6s-7.6 0-9.4.5A3 3 0 0 0 .5 6.2 31.2 31.2 0 0 0 0 12a31.2 31.2 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.8.5 9.4.5 9.4.5s7.6 0 9.4-.5a3 3 0 0 0 2.1-2.1A31.2 31.2 0 0 0 24 12a31.2 31.2 0 0 0-.5-5.8ZM9.6 15.6V8.4l6.2 3.6-6.2 3.6Z"></path>
+            </svg>
+          </a>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="locations-hero">
+          <p class="eyebrow">Direktori Mitra</p>
+          <h1>Mitra Xerpium di <span>Setiap Kota</span></h1>
+          <p>
+            Temukan partner Xerpium terdekat di seluruh wilayah Indonesia.
+            Pilih kota dan provinsi untuk menemukan mitra yang melayani wilayah Anda.
+          </p>
+
+          <div class="location-stats">
+            <div class="location-stat">
+              <div class="location-stat-number">127</div>
+              <div class="location-stat-label">Total Partner</div>
+            </div>
+            <div class="location-stat">
+              <div class="location-stat-number">42</div>
+              <div class="location-stat-label">Kabupaten/Kota</div>
+            </div>
+            <div class="location-stat">
+              <div class="location-stat-number">17</div>
+              <div class="location-stat-label">Provinsi</div>
+            </div>
+            <div class="location-stat">
+              <div class="location-stat-number">3</div>
+              <div class="location-stat-label">Wilayah Internasional</div>
+            </div>
+          </div>
+
+          <div class="location-map-container">
+            <input
+              type="text"
+              placeholder="Cari kota atau provinsi..."
+              style="width: 100%; max-width: 500px; margin: 30px auto; display: block; padding: 14px 18px; border-radius: 12px; border: 1px solid var(--border); font-size: 1rem;"
+              onfocus="this.style.borderColor='var(--accent)'; this.style.outline='none'"
+              onblur="this.style.borderColor='var(--border)'"
+            />
+          </div>
+        </section>
+
+        <section class="feature-strip" style="margin-top: 22px;">
+          <article>
+            <p class="feature-label">Regional Presence</p>
+            <h3>Navigasi Mitra Lokal</h3>
+            <p>
+              Setiap mitra lokal memiliki keahlian dan pengalaman implementasi ERP
+              yang disesuaikan dengan kebutuhan bisnis regional dan industri spesifik di wilayah tersebut.
+            </p>
+          </article>
+          <article>
+            <p class="feature-label">Konsultasi Daring/Mandang</p>
+            <h3>Layanan di Seluruh Negeri</h3>
+            <p>
+              Temukan mitra kami dari pulau Sumatera hingga Papua.
+              Ketersediaan partner all-region memungkinkan implementasi tanpa batas wilayah.
+            </p>
+          </article>
+          <article>
+            <p class="feature-label">Koneksi Partner</p>
+            <h3>Dukungan di Mana Saja</h3>
+            <p>
+              Temukan partner Xerpium yang siap membantu Anda, dimanapun di Indonesia.
+              Tim ahli lokal siap membantu Anda sukses.
+            </p>
+          </article>
+        </section>
+
+        <div class="country-grid">
+          <div class="country-card">
+            <div class="country-header">
+              <img class="country-flag" src="https://flagcdn.com/w40/id.png" alt="Indonesia" />
+              <div class="country-name">Indonesia</div>
+              <div class="country-stats">
+                <span>Partner: <strong>127</strong></span>
+                <span>Kota: <strong>42</strong></span>
+              </div>
+            </div>
+            <div class="cities-accordion">
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Jawa Timur
+                <span>(28 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Surabaya</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">XPN Authorized</span>
+                      <span class="partner-badge">Silver Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 2" />
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 3" />
+                    </div>
+                    <div class="city-more">+ 5 partner lainnya</div>
+                  </div>
+                  <div class="city-card">
+                    <div class="city-name">Jakarta</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Gold Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 2" />
+                    </div>
+                    <div class="city-more">+ 12 partner lainnya</div>
+                  </div>
+                </div>
+              </div>
+
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Jawa Barat
+                <span>(15 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Bandung</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Silver Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Sumatera
+                <span>(12 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Medan</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Authorized Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                  <div class="city-card">
+                    <div class="city-name">Palembang</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Authorized Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="country-card">
+            <div class="country-header">
+              <img class="country-flag" src="https://flagcdn.com/w40/my.png" alt="Malaysia" />
+              <div class="country-name">Malaysia</div>
+              <div class="country-stats">
+                <span>Partner: <strong>8</strong></span>
+                <span>Kota: <strong>3</strong></span>
+              </div>
+            </div>
+            <div class="cities-accordion">
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Kuala Lumpur
+                <span>(3 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Kuala Lumpur</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Gold Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Johor Bahru
+                <span>(2 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Johor Bahru</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Silver Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Penang
+                <span>(3 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Penang</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Authorized Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="country-card">
+            <div class="country-header">
+              <img class="country-flag" src="https://flagcdn.com/w40/sg.png" alt="Singapore" />
+              <div class="country-name">Singapore</div>
+              <div class="country-stats">
+                <span>Partner: <strong>5</strong></span>
+                <span>Kota: <strong>2</strong></span>
+              </div>
+            </div>
+            <div class="cities-accordion">
+              <button class="city-toggle" onclick="toggleCity(this)">
+                Singapore
+                <span>(5 partner)</span>
+              </button>
+              <div class="city-content">
+                <div class="city-grid">
+                  <div class="city-card">
+                    <div class="city-name">Singapore</div>
+                    <div class="city-partners">
+                      <span class="partner-badge">Platinum Partner</span>
+                    </div>
+                    <div class="partner-logos">
+                      <img class="partner-logo" src="images/logo full copy.jpg" alt="Partner 1" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <section class="become-partner" id="become-partner">
+        <div class="page-shell">
+          <div class="section-heading">
+            <p class="eyebrow">Bagaimana Menjadi Mitra</p>
+            <h2>Memperluas bisnis ERP Anda bersama ekosistem Xerpium.</h2>
+            <p>
+              Apakah Anda seorang konsultan bisnis, software house, atau system integrator?
+              Bergabunglah dengan lebih dari 127 mitra XPN untuk membangun revenue recurring yang berkelanjutan.
+            </p>
+          </div>
+
+          <div class="become-partner-grid">
+            <div>
+              <h3 style="font-size:1.4rem;margin-bottom:18px;">Keuntungan Menjadi Mitra</h3>
+              <div class="benefits-grid">
+                <div class="benefit-card">
+                  <div class="benefit-icon">1</div>
+                  <div class="benefit-title">Commission Marketing</div>
+                  <div class="benefit-desc">Komisi 20% tahun pertama dan 10% renewal dari setiap lisensi.</div>
+                </div>
+                <div class="benefit-card">
+                  <div class="benefit-icon">2</div>
+                  <div class="benefit-title">Jasa Implementasi</div>
+                  <div class="benefit-desc">Assessment, konfigurasi, training, dan support - 100% pendapatan mitra.</div>
+                </div>
+                <div class="benefit-card">
+                  <div class="benefit-icon">3</div>
+                  <div class="benefit-title">Dukungan Utama</div>
+                  <div class="benefit-desc">Marketing assist, demo support, dan co-marketing dari Xerpium.</div>
+                </div>
+                <div class="benefit-card">
+                  <div class="benefit-icon">4</div>
+                  <div class="benefit-title">Regional Exclusivity</div>
+                  <div class="benefit-desc">Potensi exclusive regions berdasarkan performa dan volume penjualan.</div>
+                </div>
+                <div class="benefit-card">
+                  <div class="benefit-icon">5</div>
+                  <div class="benefit-title">Technical Support</div>
+                  <div class="benefit-desc">Akses API, dokumentasi teknis, dan konsultasi dari tim ahli.</div>
+                </div>
+                <div class="benefit-card">
+                  <div class="benefit-icon">6</div>
+                  <div class="benefit-title">Branding Tools</div>
+                  <div class="benefit-desc">Lokasi branding, co-branded marketing, dan Collateral materi.</div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <h3 style="font-size:1.4rem;margin-bottom:18px;">Proses Bergabung</h3>
+              <p>
+                Bergabung dengan Xerpium Partner Network hanya membutuhkan 3 langkah mudah.
+              </p>
+              <div style="margin:24px 0; padding-left:28px; border-left:2px solid var(--accent-strong);">
+                <div style="margin-bottom:20px;">
+                  <strong style="color:var(--accent-strong); font-size:1.1rem;">1. Isi Form Pendaftaran</strong><br>
+                  <span style="font-size:0.95rem; color:var(--text-muted);">
+                    Isi formulir di bawah untuk memulai proses aplikasi.
+                  </span>
+                </div>
+                <div style="margin-bottom:20px;">
+                  <strong style="color:var(--accent-strong); font-size:1.1rem;">2. Verifikasi & Onboarding</strong><br>
+                  <span style="font-size:0.95rem; color:var(--text-muted);">
+                    Tim kami akan meninjau dan mengonfirmasi kelengkapan dokumen yang diperlukan.
+                  </span>
+                </div>
+                <div>
+                  <strong style="color:var(--accent-strong); font-size:1.1rem;">3. Aktivasi Partner</strong><br>
+                  <span style="font-size:0.95rem; color:var(--text-muted);">
+                    Terima credential partner, sertifikasi, dan materials pemasaran.
+                  </span>
+                </div>
+              </div>
+              <div style="margin-top:28px;">
+                <a class="button button-primary" href="./index-partner.html">
+                  Lihat Program Partner
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="floating-cta" id="floatingCta">
+        <a class="button button-primary" href="#become-partner">Cari Mitra</a>
+      </div>
+    </div>
+
+    <script>
+      function toggleCity(button) {
+        const content = button.nextElementSibling;
+        const isActive = content.classList.contains('active');
+
+        document.querySelectorAll('.city-content').forEach(c => c.classList.remove('active'));
+        document.querySelectorAll('.city-toggle').forEach(t => t.classList.toggle('active', t === button && !isActive));
+
+        if (!isActive) {
+          content.classList.add('active');
+        }
+      }
+
+      (function() {
+        const cta = document.getElementById('floatingCta');
+        const becomePartner = document.getElementById('become-partner');
+        if (!cta || !becomePartner) return;
+
+        const observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              cta.classList.remove('is-visible');
+            } else {
+              cta.classList.add('is-visible');
+            }
+          });
+        }, { threshold: 0.1 });
+
+        observer.observe(becomePartner);
+      })();
+    </script>
+  </body>
+</html>
