@@ -14,6 +14,8 @@
       href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap"
       rel="stylesheet"
     />
+    <link rel="icon" type="image/svg+xml" href="./images/xerpium-logo-mark.svg" />
+    <link rel="preload" href="./styles.css" as="style" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
@@ -21,7 +23,7 @@
       <header class="site-header">
         <a class="brand" href="#top" aria-label="Xerpium">
           <span class="brand-mark">
-            <img src="./images/logo%20full%20copy.jpg" alt="" />
+            <img src="./images/logo%20full%20copy.jpg" alt="" loading="lazy" />
           </span>
           <span class="brand-copy">
             <span class="brand-text">xerpium</span>
@@ -32,6 +34,7 @@
           <nav class="nav-links" aria-label="Main navigation">
             <a href="#advantage">Advantage</a>
             <a href="#onboarding">Onboarding</a>
+            <a href="./index-partner-en.html">Partner</a>
             <a href="#cta">Free Trial</a>
           </nav>
           <div class="lang-switch" aria-label="Language switch">
@@ -87,7 +90,7 @@
             <p class="eyebrow">Full ERP. AI-Native. Super Fast.</p>
             <div class="hero-main">
               <div class="hero-heading">
-                <h1>Everything you expect from a modular enterprise ERP, now runs faster with Xerpium.</h1>
+                <h1>Enterprise ERP. Full AI. Zero wait.</h1>
               </div>
               <div class="hero-aside">
                 <p class="hero-text">
@@ -114,14 +117,29 @@
 
             <div class="hero-metrics" aria-label="Key highlights">
               <article>
+                <div class="metric-icon metric-icon-speed" aria-hidden="true">
+                  <svg viewBox="0 0 24 24">
+                    <path d="M12 4a10 10 0 1 0 10 10A10 10 0 0 0 12 4Zm0 2a8 8 0 0 1 7.7 5.8h-2.3A6 6 0 0 0 12 8Zm-1 4h2v5.2l3.2 1.9-1 1.7L11 16.3Z"></path>
+                  </svg>
+                </div>
                 <strong>High-speed processing</strong>
                 <span>Reports, payroll, and confirmation flows without long waits.</span>
               </article>
               <article>
+                <div class="metric-icon metric-icon-ai" aria-hidden="true">
+                  <svg viewBox="0 0 24 24">
+                    <path d="M11 2h2v3.1a6.9 6.9 0 0 1 3.3 1.4l2.2-2.2 1.4 1.4-2.2 2.2A6.9 6.9 0 0 1 18.9 11H22v2h-3.1a6.9 6.9 0 0 1-1.4 3.3l2.2 2.2-1.4 1.4-2.2-2.2A6.9 6.9 0 0 1 13 18.9V22h-2v-3.1a6.9 6.9 0 0 1-3.3-1.4l-2.2 2.2-1.4-1.4 2.2-2.2A6.9 6.9 0 0 1 5.1 13H2v-2h3.1a6.9 6.9 0 0 1 1.4-3.3L4.3 5.5l1.4-1.4 2.2 2.2A6.9 6.9 0 0 1 11 5.1Zm1 5a5 5 0 1 0 5 5 5 5 0 0 0-5-5Zm-2 3h4v4h-4Z"></path>
+                  </svg>
+                </div>
                 <strong>Built-in AI assistants</strong>
                 <span>For business analysis, operational automation, and daily development work.</span>
               </article>
               <article>
+                <div class="metric-icon metric-icon-cloud" aria-hidden="true">
+                  <svg viewBox="0 0 24 24">
+                    <path d="M7 18a4 4 0 0 1-.4-8 5.5 5.5 0 0 1 10.6-1.7A4.5 4.5 0 1 1 17.5 18H14v-3h2.2L12 10.8 7.8 15H10v3Z"></path>
+                  </svg>
+                </div>
                 <strong>Offline + SaaS</strong>
                 <span>Comfortable on desktop and mobile, without the burden of local installation.</span>
               </article>
@@ -168,23 +186,14 @@
         </section>
 
         <section class="punch-section" aria-label="Xerpium product showcase">
-          <div class="section-heading">
-            <p class="eyebrow">AI Showcase</p>
-            <h2>See Xerpium AI assistance working directly inside the operating flow.</h2>
-            <p>
-              Beyond the reporting visual already featured in the hero, this view
-              shows how the AI assistant sits inside the dashboard and helps turn
-              business data into practical insight.
-            </p>
-          </div>
-
           <div class="punch-grid punch-grid-single">
             <figure class="punch-card punch-card-front">
-              <img src="./images/xerpium-punch-ai.png" alt="Xerpium dashboard with AI copilot and financial summary panel on laptop" />
               <figcaption>
-                <strong>AI assistance embedded in the daily workflow</strong>
-                <span>Insight, analysis, and daily operational support appear in one practical flow.</span>
+                <p class="punch-badge">AI Showcase</p>
+                <strong>See Xerpium AI assistance working directly inside the operating flow.</strong>
+                <span>Beyond the reporting visual already featured in the hero, this view shows how the AI assistant sits inside the dashboard and helps turn business data into practical insight.</span>
               </figcaption>
+              <img src="./images/xerpium-punch-ai.png" alt="Xerpium dashboard with AI copilot and financial summary panel on laptop" loading="lazy" />
             </figure>
           </div>
         </section>
@@ -405,6 +414,31 @@
           </div>
         </section>
       </main>
+
+      <div class="floating-cta" id="floatingCta">
+        <a class="button button-primary" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">
+          Start Trial
+        </a>
+      </div>
     </div>
+    <script>
+      (function() {
+        var cta = document.getElementById('floatingCta');
+        var heroSection = document.querySelector('.hero-section');
+        if (!cta || !heroSection) return;
+        
+        var observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              cta.classList.remove('is-visible');
+            } else {
+              cta.classList.add('is-visible');
+            }
+          });
+        }, { threshold: 0.1 });
+        
+        observer.observe(heroSection);
+      })();
+    </script>
   </body>
 </html>

@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Xerpium Partner Network (XPN) | Xerpium Official Partner</title>
+    <meta
+      name="description"
+      content="Join the Xerpium Partner Network. Build a sustainable ERP business with license commissions, implementation services, and a global partner ecosystem."
+    />
+    <link rel="icon" type="image/svg+xml" href="./images/xerpium-logo-mark.svg" />
+    <link rel="preload" href="./styles.css" as="style" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      .partner-hero {
+        min-height: 720px;
+        padding: 120px 34px 34px;
+        border-radius: 0 0 40px 40px;
+        overflow: hidden;
+        background:
+          linear-gradient(135deg, rgba(10, 18, 30, 0.72) 0%, rgba(10, 18, 30, 0.84) 50%, rgba(10, 18, 30, 0.92) 100%),
+          linear-gradient(180deg, rgba(14, 165, 168, 0.18) 0%, transparent 60%),
+          radial-gradient(circle at 80% 20%, rgba(14, 165, 168, 0.25), transparent 40%);
+        box-shadow: 0 30px 80px rgba(8, 23, 39, 0.18);
+      }
+
+      .partner-hero h1 {
+        font-size: clamp(2.6rem, 5.2vw, 4.8rem);
+        line-height: 0.96;
+        color: #fff;
+        max-width: 16ch;
+        text-shadow: 0 2px 12px rgba(0,0,0,0.3);
+      }
+
+      .partner-hero h1 span {
+        color: var(--accent);
+      }
+
+      .partner-hero .eyebrow {
+        color: #7adfe4;
+      }
+
+      .partner-hero .hero-text {
+        color: rgba(255,255,255,0.82);
+        max-width: 48ch;
+      }
+
+      .partner-hero .hero-metrics {
+        margin-top: 40px;
+      }
+
+      .partner-hero .hero-metrics article {
+        padding: 22px;
+        border-color: rgba(255,255,255,0.10);
+        background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0.04));
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.08);
+      }
+
+      .partner-hero .hero-metrics strong {
+        color: #fff;
+        font-size: 1.2rem;
+      }
+
+      .partner-hero .hero-metrics span {
+        color: rgba(255,255,255,0.7);
+        font-size: 0.92rem;
+      }
+
+      .partner-intro {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+        margin-top: 22px;
+      }
+
+      .partner-intro article {
+        padding: 28px;
+        border-radius: 26px;
+        border: 1px solid rgba(215,225,236,0.82);
+        background: var(--bg-card);
+        backdrop-filter: blur(12px) saturate(140%);
+        box-shadow: var(--shadow);
+      }
+
+      .partner-intro h3 {
+        font-size: 1.35rem;
+        line-height: 1.1;
+        margin-bottom: 12px;
+      }
+
+      .partner-intro p {
+        color: var(--text-muted);
+        line-height: 1.72;
+        font-size: 0.95rem;
+        margin: 0;
+      }
+
+      .partner-tier-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 16px;
+        margin-top: 20px;
+      }
+
+      .partner-tier-card {
+        padding: 28px 22px;
+        border-radius: 26px;
+        border: 1px solid rgba(215,225,236,0.82);
+        background: var(--bg-card);
+        backdrop-filter: blur(12px) saturate(140%);
+        box-shadow: var(--shadow);
+        display: flex;
+        flex-direction: column;
+      }
+
+      .partner-tier-card h3 {
+        font-size: 1.3rem;
+        line-height: 1.1;
+        margin-bottom: 4px;
+      }
+
+      .partner-tier-tag {
+        display: inline-flex;
+        align-items: center;
+        min-height: 28px;
+        padding: 0 10px;
+        border-radius: 999px;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin: 8px 0 16px;
+        width: fit-content;
+      }
+
+      .partner-tier-tag.authorized { background: rgba(14,165,168,0.1); color: var(--accent-strong); border: 1px solid rgba(14,165,168,0.18); }
+      .partner-tier-tag.silver { background: rgba(100,116,139,0.1); color: #475569; border: 1px solid rgba(100,116,139,0.18); }
+      .partner-tier-tag.gold { background: rgba(234,179,8,0.1); color: #a16207; border: 1px solid rgba(234,179,8,0.18); }
+      .partner-tier-tag.platinum { background: rgba(99,102,241,0.1); color: #4338ca; border: 1px solid rgba(99,102,241,0.18); }
+
+      .partner-tier-price {
+        font-size: 1.8rem;
+        font-weight: 700;
+        line-height: 1;
+        margin-bottom: 4px;
+        font-family: "Space Grotesk","IBM Plex Sans",sans-serif;
+      }
+
+      .partner-tier-price-sub {
+        font-size: 0.85rem;
+        color: var(--text-muted);
+        margin-bottom: 16px;
+      }
+
+      .partner-tier-detail {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 20px;
+        flex: 1;
+      }
+
+      .partner-tier-detail li {
+        padding: 6px 0;
+        font-size: 0.92rem;
+        line-height: 1.5;
+        color: var(--text-muted);
+        position: relative;
+        padding-left: 20px;
+      }
+
+      .partner-tier-detail li::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 14px;
+        width: 8px;
+        height: 8px;
+        border-radius: 999px;
+        background: var(--accent);
+        opacity: 0.5;
+      }
+
+      .partner-tier-target {
+        font-size: 0.88rem;
+        color: var(--text-muted);
+        padding-top: 12px;
+        border-top: 1px solid var(--border);
+      }
+
+      .partner-tier-target strong {
+        color: var(--text);
+      }
+
+      .partner-tier-card .button {
+        margin-top: 14px;
+      }
+
+      .partner-revenue {
+        margin-top: 22px;
+        padding: 30px;
+        border-radius: 30px;
+        border: 1px solid rgba(215,225,236,0.82);
+        background:
+          radial-gradient(circle at top left, rgba(14,165,168,0.08), transparent 28%),
+          linear-gradient(180deg, rgba(255,255,255,0.96), rgba(244,248,252,0.94));
+        box-shadow: var(--shadow);
+      }
+
+      .partner-revenue-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 24px;
+        align-items: start;
+        margin-top: 18px;
+      }
+
+      .partner-revenue h2 {
+        font-size: clamp(1.8rem, 3vw, 2.6rem);
+        line-height: 1.02;
+      }
+
+      .partner-revenue-num {
+        font-size: 3.2rem;
+        font-weight: 700;
+        font-family: "Space Grotesk","IBM Plex Sans",sans-serif;
+        line-height: 1;
+        color: var(--accent-strong);
+      }
+
+      .partner-revenue-detail {
+        padding: 20px;
+        border-radius: 20px;
+        border: 1px solid var(--border);
+        background: linear-gradient(180deg, rgba(255,255,255,0.92), rgba(247,250,252,0.92));
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.92);
+      }
+
+      .partner-revenue-comm {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        margin-top: 14px;
+      }
+
+      .partner-revenue-comm div {
+        padding: 14px;
+        border-radius: 14px;
+        border: 1px solid var(--border);
+        background: rgba(255,255,255,0.8);
+      }
+
+      .partner-revenue-comm strong {
+        display: block;
+        font-size: 1.3rem;
+        color: var(--accent-strong);
+      }
+
+      .partner-revenue-comm span {
+        font-size: 0.82rem;
+        color: var(--text-muted);
+      }
+
+      .partner-cert {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      @media (max-width: 1080px) {
+        .partner-tier-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .partner-intro {
+          grid-template-columns: 1fr;
+        }
+        .partner-revenue-grid {
+          grid-template-columns: 1fr;
+        }
+        .partner-cert {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 720px) {
+        .partner-hero {
+          min-height: auto;
+          padding: 26px 20px 20px;
+          border-radius: 0 0 30px 30px;
+        }
+        .partner-tier-grid {
+          grid-template-columns: 1fr;
+        }
+        .partner-revenue-grid {
+          grid-template-columns: 1fr;
+        }
+        .partner-revenue-comm {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./index-en.html" aria-label="Xerpium">
+          <span class="brand-mark">
+            <img src="./images/logo%20full%20copy.jpg" alt="" loading="lazy" />
+          </span>
+          <span class="brand-copy">
+            <span class="brand-text">xerpium</span>
+            <span class="brand-tagline">Partner Network</span>
+          </span>
+        </a>
+        <div class="header-actions">
+          <nav class="nav-links" aria-label="Main navigation">
+            <a href="#tiers">Partner Tiers</a>
+            <a href="#revenue">Revenue</a>
+            <a href="#join">Join</a>
+          </nav>
+          <div class="lang-switch" aria-label="Language switch">
+            <a class="lang-link" href="./index-partner.html">ID</a>
+            <a class="lang-link is-active" href="./index-partner-en.html" aria-current="page">EN</a>
+          </div>
+          <a
+            class="social-link social-link-whatsapp"
+            href="https://wa.me/6281809182752?text=Hi%2C%20I%20want%20to%20ask%20about%20Xerpium%20Partner%20Network"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="WhatsApp Xerpium"
+            title="WhatsApp Xerpium"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20.5 3.5A11.8 11.8 0 0 0 1.9 17.7L.5 23.5l6-1.3A11.8 11.8 0 1 0 20.5 3.5Zm-8.7 18a9.8 9.8 0 0 1-5-1.4l-.4-.2-3.5.8.8-3.4-.2-.4a9.8 9.8 0 1 1 8.3 4.6Zm5.4-7.3c-.3-.1-1.8-.9-2-1-.3-.1-.5-.1-.7.1l-.6.8c-.2.2-.4.2-.7.1a8 8 0 0 1-2.3-1.4 8.8 8.8 0 0 1-1.6-2c-.2-.3 0-.5.1-.7l.5-.6.3-.5a.6.6 0 0 0 0-.6c-.1-.1-.7-1.6-1-2.2-.2-.5-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.5-.3.3-1.1 1-1.1 2.5s1.1 3 1.2 3.2c.2.2 2.2 3.3 5.3 4.6.8.4 1.4.6 1.8.7.8.2 1.5.2 2.1.1.7-.1 1.8-.8 2-1.5.3-.7.3-1.4.2-1.5-.1-.1-.3-.2-.6-.3Z"></path>
+            </svg>
+          </a>
+          <a
+            class="social-link social-link-email"
+            href="mailto:halo@xerpium.com"
+            aria-label="Email Xerpium"
+            title="Email Xerpium"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M3 5.5A2.5 2.5 0 0 1 5.5 3h13A2.5 2.5 0 0 1 21 5.5v13a2.5 2.5 0 0 1-2.5 2.5h-13A2.5 2.5 0 0 1 3 18.5v-13Zm2.1-.5L12 10.1 18.9 5H5.1ZM19 6.2l-6.4 4.7a1 1 0 0 1-1.2 0L5 6.2v12.3c0 .3.2.5.5.5h13c.3 0 .5-.2.5-.5V6.2Z"></path>
+            </svg>
+          </a>
+          <a
+            class="social-link"
+            href="https://www.youtube.com/@xerpium_id"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="YouTube Xerpium"
+            title="YouTube Xerpium"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.6 3.6 12 3.6 12 3.6s-7.6 0-9.4.5A3 3 0 0 0 .5 6.2 31.2 31.2 0 0 0 0 12a31.2 31.2 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.8.5 9.4.5 9.4.5s7.6 0 9.4-.5a3 3 0 0 0 2.1-2.1A31.2 31.2 0 0 0 24 12a31.2 31.2 0 0 0-.5-5.8ZM9.6 15.6V8.4l6.2 3.6-6.2 3.6Z"></path>
+            </svg>
+          </a>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="partner-hero">
+          <p class="eyebrow">Xerpium Partner Network</p>
+          <h1>Build a <span>sustainable ERP business</span> with Xerpium.</h1>
+          <p class="hero-text">
+            The Xerpium Partner Network (XPN) is the official partnership program
+            to sell licenses, perform implementations, deliver support, and build
+            industry solutions on the Xerpium platform.
+          </p>
+
+          <div class="hero-actions">
+            <a class="button button-primary" href="#tiers">View Partner Tiers</a>
+            <a class="button button-secondary" href="#join">Apply Now</a>
+          </div>
+
+          <div class="hero-metrics" aria-label="Partner highlights">
+            <article>
+              <strong>First-Year Commission</strong>
+              <span>20% of license value for every partner tier.</span>
+            </article>
+            <article>
+              <strong>Renewal Commission</strong>
+              <span>10% recurring commission each year on license renewals.</span>
+            </article>
+            <article>
+              <strong>Implementation Fees</strong>
+              <span>100% of assessment, configuration, training, and support revenue goes to partner.</span>
+            </article>
+          </div>
+        </section>
+
+        <section class="feature-strip" style="margin-top: 22px;">
+          <article>
+            <p class="feature-label">Recurring Revenue</p>
+            <h3>Annual recurring income stream</h3>
+            <p>
+              Renewal commissions provide long-term revenue from every license sold,
+              creating a sustainable business model.
+            </p>
+          </article>
+          <article>
+            <p class="feature-label">Full Platform</p>
+            <h3>Complete ERP and industry solutions</h3>
+            <p>
+              From Accounting, Manufacturing, Property, Healthcare, to Hotel
+              Management — Xerpium covers multiple verticals.
+            </p>
+          </article>
+          <article>
+            <p class="feature-label">Principal Support</p>
+            <h3>Direct technical support from Xerpium</h3>
+            <p>
+              Technical assistance, demo support, co-marketing, and implementation
+              guidance from the Xerpium team.
+            </p>
+          </article>
+        </section>
+
+        <section class="section-heading" style="margin-top: 40px;">
+          <p class="eyebrow">Business Model</p>
+          <h2>Four partner revenue streams.</h2>
+        </section>
+
+        <div class="partner-intro">
+          <article>
+            <h3>License Commissions</h3>
+            <p>
+              20% first-year and 10% renewal commission on every Xerpium license
+              sold to customers.
+            </p>
+          </article>
+          <article>
+            <h3>Implementation Services</h3>
+            <p>
+              Assessment, business process mapping, GAP analysis, system configuration,
+              data migration, training, and go-live support — 100% partner revenue.
+            </p>
+          </article>
+          <article>
+            <h3>Annual Support &amp; Custom Dev</h3>
+            <p>
+              Annual support services and custom feature development for customers.
+              All professional service revenue belongs to the partner.
+            </p>
+          </article>
+        </div>
+
+        <section class="section-heading" id="tiers" style="margin-top: 40px;">
+          <p class="eyebrow">Partner Tiers</p>
+          <h2>Choose the tier that fits your team capacity.</h2>
+          <p>Each level has different investment, targets, and benefits.</p>
+        </section>
+
+        <div class="partner-tier-grid">
+          <div class="partner-tier-card">
+            <h3>Authorized Partner</h3>
+            <span class="partner-tier-tag authorized">Entry Level</span>
+            <div class="partner-tier-price">IDR 25<span style="font-size:1rem;color:var(--text-muted);font-weight:400;"> M</span></div>
+            <div class="partner-tier-price-sub">per year</div>
+            <ul class="partner-tier-detail">
+              <li>Right to sell Xerpium licenses</li>
+              <li>Partner Certificate</li>
+              <li>Sales Kit &amp; Demo Environment</li>
+              <li>Basic Training</li>
+              <li>Listing on Xerpium Website</li>
+            </ul>
+            <div class="partner-tier-target">
+              Target: <strong>100 new users/year</strong>
+              <div style="margin-top:4px;">Min. 1 Certified Consultant</div>
+            </div>
+            <a class="button button-primary" href="#join">Apply</a>
+          </div>
+          <div class="partner-tier-card">
+            <h3>Silver Partner</h3>
+            <span class="partner-tier-tag silver">Silver</span>
+            <div class="partner-tier-price">IDR 50<span style="font-size:1rem;color:var(--text-muted);font-weight:400;"> M</span></div>
+            <div class="partner-tier-price-sub">per year</div>
+            <ul class="partner-tier-detail">
+              <li>All Authorized benefits</li>
+              <li>Regional Lead Sharing</li>
+              <li>Co-Marketing Program</li>
+              <li>Priority Demo Support</li>
+              <li>Partner Certification</li>
+            </ul>
+            <div class="partner-tier-target">
+              Target: <strong>500 new users/year</strong>
+              <div style="margin-top:4px;">Min. 2 Certified Consultant</div>
+            </div>
+            <a class="button button-primary" href="#join">Apply</a>
+          </div>
+          <div class="partner-tier-card">
+            <h3>Gold Partner</h3>
+            <span class="partner-tier-tag gold">Gold</span>
+            <div class="partner-tier-price">IDR 100<span style="font-size:1rem;color:var(--text-muted);font-weight:400;"> M</span></div>
+            <div class="partner-tier-price-sub">per year</div>
+            <ul class="partner-tier-detail">
+              <li>All Silver benefits</li>
+              <li>Dedicated Partner Manager</li>
+              <li>Joint Sales Activity</li>
+              <li>Priority Support</li>
+              <li>Industry Solution Development</li>
+              <li>Early Access Product Roadmap</li>
+            </ul>
+            <div class="partner-tier-target">
+              Target: <strong>2,000 new users/year</strong>
+              <div style="margin-top:4px;">Min. 5 Certified Consultant</div>
+            </div>
+            <a class="button button-primary" href="#join">Apply</a>
+          </div>
+          <div class="partner-tier-card">
+            <h3>Platinum Partner</h3>
+            <span class="partner-tier-tag platinum">Invitation Only</span>
+            <div class="partner-tier-price" style="font-size:1.4rem;color:var(--text-muted);font-weight:600;">Strategic</div>
+            <div class="partner-tier-price-sub">&nbsp;</div>
+            <ul class="partner-tier-detail">
+              <li>All Gold benefits</li>
+              <li>Strategic Partner Status</li>
+              <li>Regional Exclusivity (Optional)</li>
+              <li>Executive Business Review</li>
+              <li>Co-Branded Marketing</li>
+              <li>Advisory Board Participation</li>
+            </ul>
+            <div class="partner-tier-target">
+              Target: <strong>5,000 new users/year</strong>
+              <div style="margin-top:4px;">Min. 10 Certified Consultant</div>
+            </div>
+            <a class="button button-secondary" href="mailto:halo@xerpium.com">Contact Us</a>
+          </div>
+        </div>
+
+        <section class="section-heading" id="revenue" style="margin-top: 40px;">
+          <p class="eyebrow">Revenue Simulation</p>
+          <h2>Sample partner commission calculation.</h2>
+        </section>
+
+        <div class="partner-revenue">
+          <div class="partner-revenue-grid">
+            <div>
+              <p style="color:var(--text-muted);margin:0 0 8px;">Example: Customer with 200 users</p>
+              <div class="partner-revenue-num">IDR 360 <span style="font-size:1.4rem;color:var(--text-muted);font-weight:400;">M/year</span></div>
+              <p style="color:var(--text-muted);font-size:0.95rem;margin:8px 0 16px;">
+                License value: 200 users × IDR 1,800,000/user/year
+              </p>
+              <div class="partner-revenue-comm">
+                <div>
+                  <strong>IDR 72 M</strong>
+                  <span>First-year commission (20%)</span>
+                </div>
+                <div>
+                  <strong>IDR 36 M/year</strong>
+                  <span>Renewal commission (10%) — recurring</span>
+                </div>
+              </div>
+              <p style="color:var(--text-muted);font-size:0.88rem;margin-top:16px;">
+                * Excluding implementation, training, support, and custom development revenue — all partner's to keep.
+              </p>
+            </div>
+            <div>
+              <p style="color:var(--text-muted);margin:0 0 8px;">Xerpium license structure</p>
+              <div class="partner-revenue-detail">
+                <p style="margin:0 0 12px;font-size:0.95rem;color:var(--text-muted);line-height:1.6;">
+                  All Xerpium licenses use an <strong style="color:var(--text);">annual subscription</strong> model.
+                </p>
+                <ul style="list-style:none;padding:0;margin:0;">
+                  <li style="padding:6px 0;font-size:0.92rem;color:var(--text-muted);">• Minimum 1-year license</li>
+                  <li style="padding:6px 0;font-size:0.92rem;color:var(--text-muted);">• Prepaid annually</li>
+                  <li style="padding:6px 0;font-size:0.92rem;color:var(--text-muted);">• Per named user pricing</li>
+                  <li style="padding:6px 0;font-size:0.92rem;color:var(--text-muted);">• Price: <strong style="color:var(--text);">IDR 150,000/user/month</strong></li>
+                  <li style="padding:6px 0;font-size:0.92rem;color:var(--text-muted);">• Billing: <strong style="color:var(--text);">IDR 1,800,000/user/year</strong></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <section class="section-heading" style="margin-top: 40px;">
+          <p class="eyebrow">Certification</p>
+          <h2>Xerpium official certification programs.</h2>
+          <p>Three certification tracks to ensure implementation quality.</p>
+        </section>
+
+        <div class="partner-cert">
+          <article class="testimonial-card">
+            <h3 style="font-size:1.2rem;margin-bottom:12px;">Certified Functional Consultant</h3>
+            <p style="color:var(--text-muted);line-height:1.7;font-size:0.95rem;">
+              Business analysis, system configuration, and Xerpium solution implementation.
+            </p>
+          </article>
+          <article class="testimonial-card">
+            <h3 style="font-size:1.2rem;margin-bottom:12px;">Certified Technical Consultant</h3>
+            <p style="color:var(--text-muted);line-height:1.7;font-size:0.95rem;">
+              Development, system integration, and Xerpium platform customization.
+            </p>
+          </article>
+          <article class="testimonial-card">
+            <h3 style="font-size:1.2rem;margin-bottom:12px;">Certified Solution Architect</h3>
+            <p style="color:var(--text-muted);line-height:1.7;font-size:0.95rem;">
+              Enterprise architecture, industry solution design, and technical leadership.
+            </p>
+          </article>
+        </div>
+
+        <section class="section-heading" style="margin-top: 40px;">
+          <p class="eyebrow">Rights &amp; Obligations</p>
+          <h2>Partner rights and responsibilities.</h2>
+        </section>
+
+        <div class="proof-section" style="grid-template-columns: 1fr 1fr; border: 1px solid rgba(215,225,236,0.82); background: var(--bg-card); backdrop-filter: blur(12px) saturate(140%); box-shadow: var(--shadow); border-radius: 30px; padding: 30px;">
+          <div>
+            <h3 style="font-size:1.2rem;margin-bottom:14px;color:var(--accent-strong);">Partner Rights</h3>
+            <ul style="list-style:none;padding:0;margin:0;">
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Sell Xerpium licenses</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Offer implementation and support services</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Use official Xerpium Partner logo</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Develop industry add-ons</li>
+            </ul>
+          </div>
+          <div>
+            <h3 style="font-size:1.2rem;margin-bottom:14px;color:var(--accent-strong);">Partner Obligations</h3>
+            <ul style="list-style:none;padding:0;margin:0;">
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Maintain implementation quality</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Protect the Xerpium brand reputation</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Follow implementation standards</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Complete required certifications</li>
+              <li style="padding:8px 0;font-size:0.95rem;color:var(--text-muted);">• Deliver professional services to customers</li>
+            </ul>
+          </div>
+        </div>
+
+        <section class="cta-section" id="join">
+          <div class="cta-card">
+            <p class="eyebrow">Join Now</p>
+            <h2>Build your ERP business with Xerpium.</h2>
+            <p>
+              Consulting firms, software houses, system integrators, and ERP
+              professionals — become part of the Xerpium Partner Network.
+            </p>
+            <div class="hero-actions" style="justify-content:center;">
+              <a class="button button-primary" href="mailto:halo@xerpium.com?subject=XPN%20Registration%20-%20[Partner%20Name]">
+                Apply as Partner
+              </a>
+              <a class="button button-secondary" href="https://wa.me/6281809182752?text=Hi%2C%20I%27m%20interested%20in%20joining%20the%20Xerpium%20Partner%20Network">
+                Ask via WhatsApp
+              </a>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <div class="floating-cta" id="floatingCta">
+        <a class="button button-primary" href="#join">Apply as Partner</a>
+      </div>
+    </div>
+    <script>
+      (function() {
+        var cta = document.getElementById('floatingCta');
+        var heroSection = document.querySelector('.partner-hero');
+        if (!cta || !heroSection) return;
+        var observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) { cta.classList.remove('is-visible'); }
+            else { cta.classList.add('is-visible'); }
+          });
+        }, { threshold: 0.1 });
+        observer.observe(heroSection);
+      })();
+    </script>
+  </body>
+</html>
