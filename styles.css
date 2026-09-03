@@ -872,6 +872,33 @@ h3 {
   letter-spacing: 0.14em;
 }
 
+.advantage-video {
+  position: absolute;
+  top: 26px;
+  right: 26px;
+  width: 34px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  color: #ffffff;
+  background: linear-gradient(180deg, #ff4a3a, #e0211c);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 18px rgba(224, 33, 28, 0.28);
+  transition: transform 0.2s ease;
+}
+
+.advantage-video svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+.advantage-video:hover {
+  transform: translateY(-2px) scale(1.05);
+}
+
 .advantage-card h3,
 .timeline-step h3,
 .proof-copy h2,
