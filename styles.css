@@ -1367,6 +1367,33 @@ h3 {
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
+.floating-wa {
+  position: fixed;
+  bottom: 104px;
+  right: 28px;
+  z-index: 100;
+  width: 56px;
+  height: 56px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #25d366, #128c7e);
+  box-shadow: 0 16px 32px rgba(18, 140, 126, 0.35);
+  transition: transform 0.2s ease;
+  color: #ffffff;
+}
+
+.floating-wa svg {
+  width: 28px;
+  height: 28px;
+  fill: currentColor;
+}
+
+.floating-wa:hover {
+  transform: translateY(-3px) scale(1.04);
+}
+
 .floating-cta.is-visible {
   opacity: 1;
   transform: translateY(0) scale(1);
