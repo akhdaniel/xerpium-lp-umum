@@ -1350,63 +1350,60 @@ h3 {
     grid-template-columns: 1fr;
     gap: 24px;
   }
-
-  .floating-cta {
-    display: none;
-  }
 }
 
-.floating-cta {
+.floating-stack {
   position: fixed;
   bottom: 28px;
   right: 28px;
   z-index: 100;
-  opacity: 0;
-  transform: translateY(20px) scale(0.92);
-  pointer-events: none;
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
 }
 
-.floating-wa {
-  position: fixed;
-  bottom: 104px;
-  right: 28px;
-  z-index: 100;
-  width: 56px;
-  height: 56px;
+.floating-stack .floating-btn {
   display: inline-flex;
   align-items: center;
-  justify-content: center;
+  gap: 8px;
+  min-height: 48px;
+  padding: 0 20px;
   border-radius: 999px;
-  background: linear-gradient(180deg, #25d366, #128c7e);
-  box-shadow: 0 16px 32px rgba(18, 140, 126, 0.35);
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  box-shadow: 0 16px 32px rgba(8, 23, 39, 0.18);
   transition: transform 0.2s ease;
+}
+
+.floating-stack .floating-btn svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.floating-stack .floating-btn:hover {
+  transform: translateY(-2px);
+}
+
+.floating-stack .floating-btn-wa {
+  background: linear-gradient(180deg, #25d366, #128c7e);
   color: #ffffff;
 }
 
-.floating-wa svg {
-  width: 28px;
-  height: 28px;
-  fill: currentColor;
-}
-
-.floating-wa:hover {
-  transform: translateY(-3px) scale(1.04);
-}
-
-.floating-cta.is-visible {
+.floating-stack .floating-btn#floatingCta {
+  background: linear-gradient(180deg, #18b2c2 0%, #0c8fb0 100%);
+  color: #ffffff;
+  min-width: 0;
   opacity: 1;
-  transform: translateY(0) scale(1);
+  transform: none;
   pointer-events: auto;
 }
 
-.floating-cta .button {
-  min-width: 180px;
-  box-shadow: 0 18px 40px rgba(12, 143, 176, 0.32), 0 0 0 1px rgba(255, 255, 255, 0.2);
-}
-
-@media (max-width: 1080px) {
-  .floating-cta {
-    display: none;
-  }
+.floating-stack .floating-btn#floatingCta.is-visible {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: auto;
 }
