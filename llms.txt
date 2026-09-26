@@ -3,58 +3,87 @@
 > Xerpium adalah enterprise ERP suite dengan AI assistant, kecepatan tinggi, dan solusi siap pakai untuk 34+ industri. Situs ini memuat artikel harian per industri dan modul base.
 
 ## Artikel per Industri
-- [Manufaktur Dirgantara / Aerospace Manufacturing](https://xerpium.com/aerospace.html): 0 artikel
-- [Pertanian / Agriculture](https://xerpium.com/agriculture.html): 0 artikel
-- [Pakan Ternak / Animal Feed](https://xerpium.com/animal_feed.html): 0 artikel
-- [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://xerpium.com/auditor.html): 0 artikel
-- [Penerbangan / Aviation](https://xerpium.com/aviation.html): 0 artikel
-- [Klinik Kecantikan / Beauty Clinic](https://xerpium.com/beauty_clinic.html): 0 artikel
-- [Manajemen Gedung / Building Management](https://xerpium.com/building_management.html): 0 artikel
-- [Konstruksi Sipil / Civil Construction](https://xerpium.com/civil_construction.html): 0 artikel
-- [Tambang Batubara / Coal Mining](https://xerpium.com/coal.html): 0 artikel
-- [Data Center & Sistem IT / Data Center & IT System](https://xerpium.com/data_center_it.html): 0 artikel
-- [Distribusi / Distribution](https://xerpium.com/distribution.html): 0 artikel
-- [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://xerpium.com/education.html): 0 artikel
-- [Manufaktur Elektronik OEM / Electronic OEM Manufacturing](https://xerpium.com/electronic_oem.html): 0 artikel
-- [Event Organizer / Event Organizer](https://xerpium.com/event.html): 0 artikel
-- [Perikanan / Fishery](https://xerpium.com/fishery.html): 0 artikel
-- [Makanan & Minuman (F&B) / Food & Beverage (F&B)](https://xerpium.com/food_beverage.html): 0 artikel
-- [Garmen / Garment](https://xerpium.com/garment.html): 0 artikel
-- [ERP Generik / Generic ERP](https://xerpium.com/generic.html): 0 artikel
-- [Tambang Emas & Refinery / Gold Mining & Refinery](https://xerpium.com/gold.html): 0 artikel
-- [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://xerpium.com/hospital_pharmacy.html): 0 artikel
-- [Hotel & Properti / Hotel & Property](https://xerpium.com/hotel.html): 0 artikel
-- [Koperasi / Koperasi](https://xerpium.com/koperasi.html): 0 artikel
-- [Peternakan / Livestock](https://xerpium.com/livestock.html): 0 artikel
-- [Logistik / Logistics](https://xerpium.com/logistics.html): 0 artikel
-- [Layanan Perawatan / Maintenance Service](https://xerpium.com/maintenance_service.html): 0 artikel
-- [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://xerpium.com/plm.html): 0 artikel
-- [Rental / Rental](https://xerpium.com/rental.html): 0 artikel
-- [Retail / Retail](https://xerpium.com/retail.html): 0 artikel
-- [Pengembang Kota Satelit / Satellite City Developer](https://xerpium.com/satellite.html): 0 artikel
-- [Industri Sawit / Palm Oil Industry](https://xerpium.com/sawit.html): 0 artikel
-- [Software House / Software House](https://xerpium.com/software.html): 0 artikel
-- [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://xerpium.com/theme_park_recreation.html): 0 artikel
-- [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://xerpium.com/travel.html): 0 artikel
-- [Manajemen Universitas / University Management](https://xerpium.com/university.html): 0 artikel
+- [Manufaktur Dirgantara / Aerospace Manufacturing](https://www.xerpium.com/aerospace.html): 2 artikel
+- [Pertanian / Agriculture](https://www.xerpium.com/agriculture.html): 2 artikel
+- [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed.html): 2 artikel
+- [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor.html): 2 artikel
+- [Penerbangan / Aviation](https://www.xerpium.com/aviation.html): 2 artikel
+- [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic.html): 2 artikel
+- [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management.html): 2 artikel
+- [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction.html): 2 artikel
+- [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal.html): 2 artikel
+- [Data Center & Sistem IT / Data Center & IT System](https://www.xerpium.com/data_center_it.html): 2 artikel
+- [Distribusi / Distribution](https://www.xerpium.com/distribution.html): 2 artikel
+- [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://www.xerpium.com/education.html): 2 artikel
+- [Manufaktur Elektronik OEM / Electronic OEM Manufacturing](https://www.xerpium.com/electronic_oem.html): 2 artikel
+- [Event Organizer / Event Organizer](https://www.xerpium.com/event.html): 2 artikel
+- [Perikanan / Fishery](https://www.xerpium.com/fishery.html): 2 artikel
+- [Makanan & Minuman (F&B) / Food & Beverage (F&B)](https://www.xerpium.com/food_beverage.html): 2 artikel
+- [Garmen / Garment](https://www.xerpium.com/garment.html): 2 artikel
+- [ERP Generik / Generic ERP](https://www.xerpium.com/generic.html): 2 artikel
+- [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold.html): 2 artikel
+- [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy.html): 2 artikel
+- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel.html): 2 artikel
+- [Koperasi / Koperasi](https://www.xerpium.com/koperasi.html): 2 artikel
+- [Peternakan / Livestock](https://www.xerpium.com/livestock.html): 2 artikel
+- [Logistik / Logistics](https://www.xerpium.com/logistics.html): 2 artikel
+- [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service.html): 2 artikel
+- [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm.html): 2 artikel
+- [Rental / Rental](https://www.xerpium.com/rental.html): 2 artikel
+- [Retail / Retail](https://www.xerpium.com/retail.html): 2 artikel
+- [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite.html): 2 artikel
+- [Industri Sawit / Palm Oil Industry](https://www.xerpium.com/sawit.html): 2 artikel
+- [Software House / Software House](https://www.xerpium.com/software.html): 2 artikel
+- [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://www.xerpium.com/theme_park_recreation.html): 2 artikel
+- [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://www.xerpium.com/travel.html): 2 artikel
+- [Manajemen Universitas / University Management](https://www.xerpium.com/university.html): 2 artikel
 
 ## Use Case
-- [Xerpium untuk Startup](https://xerpium.com/artikel-startup.html)
-- [Xerpium untuk UMKM](https://xerpium.com/artikel-umkm.html)
-- [Xerpium untuk Large Enterprise](https://xerpium.com/artikel-enterprise.html)
-- [Solusi untuk Penjualan](https://xerpium.com/artikel-penjualan.html)
-- [Solusi untuk Pemasaran](https://xerpium.com/artikel-pemasaran.html)
-- [Solusi untuk Manufaktur](https://xerpium.com/artikel-manufaktur.html)
-- [Solusi untuk Keuangan](https://xerpium.com/artikel-keuangan.html)
-- [Solusi untuk HR](https://xerpium.com/artikel-hr.html)
+- [Xerpium untuk Startup](https://www.xerpium.com/artikel-startup.html)
+- [Xerpium untuk UMKM](https://www.xerpium.com/artikel-umkm.html)
+- [Xerpium untuk Large Enterprise](https://www.xerpium.com/artikel-enterprise.html)
+- [Solusi untuk Penjualan](https://www.xerpium.com/artikel-penjualan.html)
+- [Solusi untuk Pemasaran](https://www.xerpium.com/artikel-pemasaran.html)
+- [Solusi untuk Manufaktur](https://www.xerpium.com/artikel-manufaktur.html)
+- [Solusi untuk Keuangan](https://www.xerpium.com/artikel-keuangan.html)
+- [Solusi untuk HR](https://www.xerpium.com/artikel-hr.html)
 
 ## Landing
-- [Semua Artikel](https://xerpium.com/artikel.html): kumpulan artikel semua industri & modul base
-- [Sitemap](https://xerpium.com/sitemap.xml)
-- [RSS](https://xerpium.com/rss.xml)
+- [Semua Artikel](https://www.xerpium.com/artikel.html): kumpulan artikel semua industri & modul base
+- [Sitemap](https://www.xerpium.com/sitemap.xml)
+- [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
-
+- [Manajemen Universitas Terintegrasi dengan Xerpium ERP: Solusi Lengkap untuk Akademik, Keuangan, dan Operasional](https://www.xerpium.com/artikel/2026-09-26-university-id.html): Kelola manajemen universitas secara terintegrasi dengan Xerpium ERP, dari KRS, nilai, jadwal, ruangan, hingga SPP dan laporan keuangan dalam satu platform.
+- [University Management with Xerpium ERP: From Academic Records to Tuition Automation](https://www.xerpium.com/artikel/2026-09-26-university-en.html): Discover how Xerpium ERP streamlines university management with academic records, KRS, tuition invoicing, room scheduling, and AI dashboards.
+- [Xerpium ERP untuk UMKM: Satu Platform Terpadu untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-09-26-umkm-id.html): Xerpium ERP untuk UMKM: satu platform terpadu untuk Sales, CRM, Purchasing, Inventory, dan Accounting mulai Rp150.000/user/bulan dengan AI Assistant.
+- [Xerpium for SMBs: A Unified ERP with Built-in AI Assistant for Growing Teams](https://www.xerpium.com/artikel/2026-09-26-umkm-en.html): Small and medium-sized businesses often run sales, stock, and finance in separate applications. Those fragmented tools create extra manual work, make data incon
+- [ERP Travel Haji & Umroh: Kelola Jamaah, Kuota, dan Keberangkatan Lebih Presisi dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-travel-id.html): Optimalkan operasional travel haji umroh dengan Xerpium ERP: kelola jamaah, dokumen, kuota, pembayaran, perlengkapan, dan laporan dalam satu sistem terintegrasi.
+- [Travel, Hajj & Umrah ERP: End-to-End Operational Control with Xerpium](https://www.xerpium.com/artikel/2026-09-26-travel-en.html): Discover how Xerpium ERP helps Hajj, Umrah, and travel operators manage packages, pilgrim documents, departures, payments, procurement, and reporting in one integrated system.
+- [Optimalkan Operasional Taman Hiburan & Rekreasi dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-26-theme_park_recreation-id.html): Optimalkan operasional taman hiburan dan rekreasi dengan ERP terpadu untuk tiket, F&B, retail, pemeliharaan wahana, dan akuntansi. Kenali Xerpium ERP.
+- [Theme Park & Recreation ERP: Unify Ticketing, F&B, and Maintenance with Xerpium](https://www.xerpium.com/artikel/2026-09-26-theme_park_recreation-en.html): Learn how Xerpium ERP helps theme parks and recreation venues unify ticketing, F&B, retail, ride maintenance, accounting, and AI reporting in one platform.
+- [Xerpium ERP untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-09-26-startup-id.html): Xerpium ERP untuk startup: mulai dari modul inti Accounting, Sales, Inventory, HR, AI Assistant, SaaS mulai Rp150.000/user/bulan, tanpa migrasi ulang.
+- [Xerpium ERP for Startups: A Flexible ERP Foundation That Scales With You](https://www.xerpium.com/artikel/2026-09-26-startup-en.html): Learn how Xerpium ERP helps startups scale from core modules to custom workflows without changing systems, with AI assistant and predictable SaaS pricing.
+- [ERP untuk Software House: Kelola Proyek Agile, Waterfall, dan Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-software-id.html): Kelola proyek software house dengan Xerpium ERP: Scrum, Waterfall, Kanban, budget, alokasi tim, dan technology stack dalam satu platform terintegrasi.
+- [Software House Project Management with Xerpium ERP: From Sprint Planning to Profitability](https://www.xerpium.com/artikel/2026-09-26-software-en.html): Discover how Xerpium ERP helps software houses manage Scrum, Waterfall, and hybrid projects with backlog, sprint, budget, team allocation, and technology stack modules.
+- [Mengoptimalkan Industri Sawit dari Kebun hingga Ekspor dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-26-sawit-id.html): Optimalkan pengelolaan industri sawit dari kebun, panen TBS, pabrik CPO, QC lab, keuangan, hingga ekspor dengan Xerpium ERP. Modul terintegrasi untuk OER, KER, biaya per kg, dan pelaporan.
+- [Palm Oil Industry ERP: Managing Plantation, Mill, and Trade Operations with Xerpium](https://www.xerpium.com/artikel/2026-09-26-sawit-en.html): Palm oil operations run across a long and tightly connected chain: plantation blocks and afdeling, harvest and TBS transport, CPO mill processing, quality contr
+- [ERP untuk Pengembang Kota Satelit: Kelola Project, Kavling, PPJB, dan IPL dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-satellite-id.html): Kelola project township, kavling, PPJB, infrastruktur, dan IPL secara terintegrasi dengan Xerpium ERP untuk pengembang kota satelit.
+- [Satellite City Developer ERP: Managing Townships, Kavling Sales, Infrastructure, and IPL in One System](https://www.xerpium.com/artikel/2026-09-26-satellite-en.html): Learn how Xerpium ERP helps satellite city developers manage kavling sales, PPJB agreements, infrastructure milestones, handover, and IPL billing in one integrated system.
+- [Optimalkan Retail Multi-Outlet dengan Xerpium ERP: POS, Marketplace, dan Akuntansi dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-retail-id.html): Kelola POS multi-outlet, Shopee, Tokopedia, GoFood, inventori, dan akuntansi retail dalam satu platform. Pelajari solusi Xerpium ERP untuk bisnis retail.
+- [Retail ERP: Unify POS, Marketplace Channels, and Inventory with Xerpium](https://www.xerpium.com/artikel/2026-09-26-retail-en.html): Learn how Xerpium ERP unifies retail POS, Shopee, Tokopedia, GoFood, inventory, accounting, and AI reporting in one enterprise platform.
+- [Optimalkan Bisnis Rental Kendaraan, Alat Berat, dan Aset dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-26-rental-id.html): Optimalkan bisnis rental kendaraan, alat berat, dan aset dengan Xerpium ERP: kontrak multi-item, pickup-return wizard, denda otomatis, PPN 11%, dan laporan keuangan terintegrasi.
+- [Rental Management with Xerpium ERP: Controlling Fleet, Heavy Equipment, and Asset Rentals End-to-End](https://www.xerpium.com/artikel/2026-09-26-rental-en.html): Learn how Xerpium ERP streamlines rental operations for fleet, heavy equipment, assets, and general items with integrated contracts, pickup and return wizards, invoicing, and accounting.
+- [Manajemen Siklus Produk (PLM) di Xerpium ERP: Kendalikan Perubahan BOM, Approval, dan Audit Trail dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-plm-id.html): Pelajari cara Xerpium ERP mengelola Manajemen Siklus Produk (PLM) dengan ECO, revisi BOM, approval, dan analisis dampak otomatis untuk manufaktur.
+- [PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control](https://www.xerpium.com/artikel/2026-09-26-plm-en.html): Learn how Xerpium ERP PLM manages ECOs, BOM revisions, approvals, and change impact for controlled product lifecycle management.
+- [Solusi Penjualan Modern dengan Xerpium ERP: Kelola Pipeline, Omnichannel, dan Analisis AI dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-penjualan-id.html): Solusi penjualan Xerpium ERP menyatukan Sales & CRM, POS, marketplace, inventori, dan AI Assistant untuk insight, forecast, serta rekomendasi penjualan.
+- [Sales Solutions with Xerpium ERP: Unifying Pipeline, POS, and Order Fulfilment](https://www.xerpium.com/artikel/2026-09-26-penjualan-en.html): Discover how Xerpium ERP Sales & CRM, Retail POS, inventory synergy, and AI assistant help B2B teams manage pipeline, marketplaces, and order-to-delivery.
+- [Solusi Pemasaran dengan Xerpium ERP: Integrasi CRM, WhatsApp, Loyalty, dan AI untuk Strategi Berbasis Data](https://www.xerpium.com/artikel/2026-09-26-pemasaran-id.html): Optimalkan strategi pemasaran B2B Anda dengan Xerpium ERP. Kelola CRM terpusat, integrasi WhatsApp, program loyalitas, dan analisis pasar berbasis AI dalam satu sistem.
+- [Marketing Solutions with Xerpium ERP: Centralize Customer Data, Automate Follow-Up, and Drive Smarter Campaigns](https://www.xerpium.com/artikel/2026-09-26-pemasaran-en.html): Learn how Xerpium ERP marketing solutions centralize CRM, WhatsApp follow-up, loyalty programs, and AI-powered market analysis for smarter B2B campaigns.
+- [Solusi ERP Manufaktur Xerpium: Kendalikan Produksi, Mutu, dan Biaya dalam Satu Sistem](https://www.xerpium.com/artikel/2026-09-26-manufaktur-id.html): Solusi ERP manufaktur Xerpium membantu kelola BOM, work order, MRP, quality control, by-product, serta koneksi stok dan pembelian dalam satu sistem terpadu.
+- [Manufacturing ERP Solutions: How Xerpium Connects Production, Quality, and Inventory](https://www.xerpium.com/artikel/2026-09-26-manufaktur-en.html): Discover how Xerpium ERP connects manufacturing, MRP, quality control, and inventory to reduce shortages, catch quality issues, and improve cost control.
+- [Layanan Perawatan Lebih Terkendali dengan Xerpium ERP: Kelola Service Order, Work Order, dan Preventive Maintenance dalam Satu Sistem](https://www.xerpium.com/artikel/2026-09-26-maintenance_service-id.html): Optimalkan layanan perawatan dengan Xerpium ERP. Kelola service order, work order, preventive maintenance, variance biaya, dan invoicing dalam satu sistem terintegrasi.
+- [Maintenance Service Management with Xerpium ERP: From Service Orders to Invoiced Work Orders](https://www.xerpium.com/artikel/2026-09-26-maintenance_service-en.html): Learn how Xerpium ERP streamlines maintenance service management—from service orders, work orders, and preventive schedules to checklists, variance analysis, and invoicing.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
