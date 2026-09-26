@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ERP Garmen: Kendalikan BOM, Produksi, QC, dan Biaya per Style dengan Xerpium | Xerpium</title>
+<meta name="description" content="Kenali solusi Xerpium ERP untuk industri garmen: kelola BOM per style, cutting sewing, QC, biaya produksi, dan KPI produksi dalam satu sistem terintegrasi.">
+<meta property="og:title" content="ERP Garmen: Kendalikan BOM, Produksi, QC, dan Biaya per Style dengan Xerpium">
+<meta property="og:description" content="Kenali solusi Xerpium ERP untuk industri garmen: kelola BOM per style, cutting sewing, QC, biaya produksi, dan KPI produksi dalam satu sistem terintegrasi.">
+<meta property="og:type" content="article">
+<style>
+:root{--accent:#0891b2;--accent-strong:#0e7490;--bg:#f8fafc;--surface:#fff;--text:#152238;--muted:#5f738a;--border:#d7e1ec}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.75;font-size:16px}
+.wrap{max-width:820px;margin:0 auto;padding:0 24px}
+.topbar{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:14px;padding-bottom:14px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;text-decoration:none;color:var(--text)}
+.brand-mark{width:38px;height:38px;border-radius:12px;overflow:hidden;display:inline-flex}
+.brand-mark img{width:100%;height:100%;object-fit:cover}
+.topbar-right{display:flex;align-items:center;gap:14px}
+.back-link{color:var(--muted);text-decoration:none;font-size:.9rem;font-weight:600}
+.back-link:hover{color:var(--accent)}
+.lang-switch{display:inline-flex;padding:4px;border:1px solid var(--border);border-radius:999px;background:#fff}
+.lang-link{min-width:38px;padding:6px 12px;border-radius:999px;text-align:center;font-size:.8rem;font-weight:700;color:var(--muted);text-decoration:none}
+.lang-link.is-active{color:#fff;background:linear-gradient(180deg,#18b2c2,#0c8fb0)}
+.hero{padding:48px 0 30px;background:linear-gradient(135deg,var(--accent-strong),#059669);color:#fff}
+.hero .wrap{max-width:820px}
+.hero .crumb{font-size:.82rem;opacity:.85;margin-bottom:10px}
+.hero .crumb a{color:#fff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.4)}
+.hero h1{font-size:clamp(1.6rem,3.5vw,2.4rem);letter-spacing:-.02em;line-height:1.2}
+.hero .meta{margin-top:14px;font-size:.85rem;opacity:.9}
+.content{padding:36px 24px 60px;max-width:820px;margin:0 auto}
+.content h2{font-size:1.35rem;color:var(--accent-strong);margin:30px 0 12px}
+.content h3{font-size:1.1rem;color:var(--text);margin:22px 0 8px}
+.content p{margin:0 0 14px;color:#2b3a52}
+.content ul,.content ol{margin:0 0 16px 22px;color:#2b3a52}
+.content li{margin-bottom:6px}
+.content code{background:#eef4f8;padding:2px 6px;border-radius:5px;font-size:.9em}
+.cta-box{margin:36px 0;padding:26px;border:1px solid var(--border);border-radius:16px;background:#f0fbff;text-align:center}
+.cta-box p{color:var(--muted);margin-bottom:14px}
+.btn{display:inline-block;padding:13px 26px;border-radius:999px;background:linear-gradient(180deg,#18b2c2,#0c8fb0);color:#fff;font-weight:700;text-decoration:none;box-shadow:0 12px 22px rgba(14,165,168,.22)}
+.btn:hover{transform:translateY(-1px)}
+.footer{text-align:center;padding:24px;color:#94a3b8;font-size:.8rem;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><span class="brand-mark"><img src="./images/logo%20full%20copy.jpg" alt=""></span> xerpium</a>
+  <div class="topbar-right">
+    <a class="back-link" href="garment.html">&larr; Garmen</a>
+    <div class="lang-switch"><a class="lang-link is-active" href="2026-09-26-garment-en.html">EN</a></div>
+  </div>
+</div></div>
+<div class="hero"><div class="wrap">
+  <div class="crumb"><a href="index.html">Home</a> &rsaquo; <a href="garment.html">Garmen</a> &rsaquo; Artikel</div>
+  <h1>ERP Garmen: Kendalikan BOM, Produksi, QC, dan Biaya per Style dengan Xerpium</h1>
+  <div class="meta">26 September 2026</div>
+</div></div>
+<div class="content">
+<p># ERP Garmen: Kendalikan BOM, Produksi, QC, dan Biaya per Style dengan Xerpium</p>
+<p>Industri garmen memiliki ritme yang cepat dan detail yang sangat banyak. Satu style saja bisa melibatkan fabric, trim, thread, label, hingga packaging dengan bill of material bertingkat. Belum lagi proses cutting, sewing, finishing, packing, quality control, hingga pencatatan biaya produksi yang harus akurat per unit. Jika data terpencar di spreadsheet atau sistem terpisah, perusahaan garmen biasanya kesulitan menjawab pertanyaan sederhana seperti: berapa biaya produksi per unit style ini, berapa nilai WIP hari ini, atau berapa pass rate QC per line.</p>
+<p>Xerpium ERP menjawab tantangan tersebut dengan pendekatan yang memang dirancang untuk proses garmen. Mulai dari chart of account khusus garment, BOM per style, production order, cutting and sewing, quality control, sampai dashboard KPI yang terhubung langsung ke dokumen sumber.</p>
+<h2>Tantangan Umum di Bisnis Garmen</h2>
+<p>Sebelum membahas solusinya, berikut beberapa persoalan yang sering muncul di perusahaan garmen:</p>
+<ul>
+<li>BOM per style kompleks dan multi-level, tetapi perubahan fabric, trim, atau allowance waste sering tidak terdokumentasi.</li>
+<li>Tracking barang dalam proses atau WIP dari cutting sampai finishing tidak real-time, sehingga sulit mengetahui posisi bundle.</li>
+<li>Biaya produksi seperti bahan baku langsung, upah tenaga kerja langsung, overhead pabrik, trim, makloon, dan subkon tidak otomatis terbentuk dari production order.</li>
+<li>Quality control belum terstandar, sehingga defect rate, rework cost, dan customer return sulit diukur per style, line, atau operator.</li>
+<li>Pengadaan bahan baku dan trim sering terlambat karena tidak terhubung dengan kebutuhan BOM.</li>
+</ul>
+<h2>Solusi Xerpium untuk Industri Garmen</h2>
+<p>Xerpium menyediakan struktur akun dan alur produksi yang spesifik untuk garmen. Berikut bagian-bagian utama yang relevan.</p>
+<h3>Chart of Account Garment</h3>
+<p>Xerpium menggunakan struktur akun 6-digit khusus garment, misalnya <code>ga_120100</code> untuk piutang usaha garment dan <code>ga_210100</code> untuk hutang usaha garment. Akun persediaan dipisah menjadi bahan baku <code>ga_130100</code>, barang dalam proses <code>ga_130200</code>, barang jadi <code>ga_130300</code>, serta bahan pembantu dan trim <code>ga_130600</code>. Aset produksi seperti mesin jahit, obras, dan mesin potong dicatat di <code>ga_170100</code> dengan akumulasi penyusutan <code>ga_170200</code>.</p>
+<p>Untuk biaya produksi, tersedia akun bahan baku langsung <code>ga_510200</code>, upah tenaga kerja langsung <code>ga_510300</code>, overhead pabrik <code>ga_510400</code>, biaya trim dan aksesoris <code>ga_510500</code>, biaya jasa makloon <code>ga_510600</code>, serta biaya subkontrak <code>ga_510700</code>. PPN garment juga sudah disiapkan dengan tarif 11% untuk pajak penjualan dan pembelian.</p>
+<h3>BOM per Style</h3>
+<p>Setiap style garment dapat memiliki bill of material multi-level. Komponen yang dicatat mencakup fabric, trim, thread, label, dan packaging. BOM ini juga terhubung dengan routing operasi seperti cutting, sewing, finishing, dan packing. Xerpium mendukung cost roll-up untuk menghitung biaya per unit garment, termasuk allowance waste fabric per style melalui scrap percentage.</p>
+<h3>Production Order</h3>
+<p>Manufacturing order khusus garment memungkinkan perencanaan lot sizing per cutting batch. Saat produksi berjalan, sistem mencatat component release atau pengeluaran bahan baku ke produksi, tracking WIP secara real-time, serta pencatatan jam kerja per operasi.</p>
+<h3>Cutting &amp; Sewing</h3>
+<p>Pada proses cutting, Xerpium mendukung cutting plan berdasarkan marker plan per lay fabric. Pemakaian kain per cutting dapat ditracking, sehingga penggunaan fabric lebih terkontrol. Di proses sewing, alokasi line produksi per style dapat diatur, termasuk bundle tracking dari cutting sampai finishing dan pencatatan defect per bundle atau operasi.</p>
+<h3>Quality Control</h3>
+<p>Quality control di Xerpium berjalan per checkpoint, mulai dari cutting, sewing, hingga finishing. Sistem mendukung AQL sampling, kategori defect minor, major, dan critical dengan action plan, serta repair order untuk barang defect. QC pass rate dapat diukur per style, line, atau operator.</p>
+<h3>KPI Produksi, Keuangan, Kualitas, dan Supply Chain</h3>
+<p>Xerpium menyediakan KPI yang relevan untuk manajemen garmen:</p>
+<ul>
+<li>Production KPIs: output harian, efisiensi line, downtime mesin per shift, target vs actual, dan Standard Minute Value atau SMV.</li>
+<li>Financial KPIs: cost per unit, gross margin per style, nilai WIP dalam rupiah, dan inventory turn bahan baku serta barang jadi.</li>
+<li>Quality KPIs: pass rate per operasi, defect rate per style atau line, rework cost per periode, dan customer return dari buyer.</li>
+<li>Supply Chain KPIs: procurement lead time bahan baku, stok kain per jenis, OTIF atau On Time In Full delivery ke buyer, dan supplier score untuk fabric serta trim.</li>
+</ul>
+<h3>Integrasi Garment dengan Modul Lain</h3>
+<p>Keunggulan Xerpium terletak pada integrasinya. Dari sisi accounting, jurnal biaya produksi dapat terbentuk otomatis dari manufacturing order. Dari sisi inventory, persediaan bahan baku dicatat per jenis fabric, WIP dapat ditracking di stock location, dan barang jadi dari produksi langsung masuk ke finished goods.</p>
+<p>Dari sisi manufacturing, BOM per style multi-level terhubung dengan routing cutting, sewing, dan finishing, termasuk subkontrak makloon outsourcing. Untuk purchase, PO bahan baku dapat dibuat dari BOM requirement, termasuk PO trim dan aksesoris dengan manajemen supplier fabric serta trim.</p>
+<p>Modul HR juga terhubung untuk pencatatan jam kerja operator, payroll berdasarkan output per line, dan attendance per shift produksi. Semua data tersebut kemudian tampil di dashboard KPI garment yang terintegrasi dengan widget produksi, quality, dan finance. Pengguna bisa melakukan drill-down langsung ke dokumen sumber.</p>
+<h2>Manfaat Bisnis</h2>
+<p>Dengan pendekatan tersebut, perusahaan garmen dapat memperoleh manfaat seperti:</p>
+<ul>
+<li>Biaya produksi per unit dan gross margin per style lebih akurat karena jurnal produksi terbentuk otomatis dari MO.</li>
+<li>Kontrol WIP dan pemakaian fabric per cutting lebih ketat, mengurangi pemborosan dan memperjelas posisi bundle.</li>
+<li>Proses QC lebih terstruktur, mulai dari AQL sampling, kategori defect, repair order, hingga pass rate per line.</li>
+<li>Keputusan produksi dan keuangan lebih cepat karena didukung KPI harian dan drill-down ke dokumen sumber.</li>
+<li>Pengadaan bahan baku dan trim lebih terencana karena PO dapat dibuat dari kebutuhan BOM.</li>
+</ul>
+<h2>Contoh Alur Singkat</h2>
+<p>Sebuah perusahaan garmen menerima order style baru. Tim membuat BOM per style multi-level berisi fabric, trim, thread, label, dan packaging, lengkap dengan routing cutting, sewing, finishing, dan packing. Sistem menghitung cost roll-up dan allowance waste fabric.</p>
+<p>Saat produksi dimulai, production order dibuat dengan lot sizing per cutting batch. Bahan baku dikeluarkan melalui component release, lalu cutting plan dan marker plan mencatat pemakaian kain per cutting. Bundle dilacak dari cutting sampai finishing, dengan pencatatan defect per operasi. QC menjalankan pemeriksaan berdasarkan AQL sampling, mencatat defect minor, major, atau critical, dan membuat repair order jika diperlukan.</p>
+<p>Selama proses, WIP terpantau real-time. Jam kerja operator tercatat per operasi dan bisa menjadi dasar payroll berdasarkan output per line. Jurnal biaya produksi terbentuk otomatis dari MO, sehingga manajemen dapat melihat cost per unit, gross margin per style, serta KPI OTIF dan supplier score di dashboard.</p>
+<h2>Kesimpulan</h2>
+<p>Bisnis garmen membutuhkan sistem yang memahami detail proses dari BOM, cutting, sewing, QC, hingga pencatatan biaya. Xerpium ERP menyediakan struktur akun, alur produksi, quality control, dan KPI yang memang dirancang untuk garment, bukan sekadar sistem akuntansi generik. Dengan integrasi dari BOM sampai dashboard, perusahaan dapat mengendalikan biaya per style, memantau WIP, dan meningkatkan kualitas pengiriman ke buyer.</p>
+<p>Jika Anda ingin melihat bagaimana Xerpium dapat diterapkan di proses garmen Anda, hubungi tim Xerpium untuk diskusi atau demo.</p>
+<div class="cta-box">
+  <p>Lihat bagaimana Xerpium membantu Garmen end-to-end.</p>
+  <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Coba Xerpium</a>
+</div>
+</div>
+<div class="footer">&copy; 2026 Xerpium &mdash; Built on XERPIUM 18</div>
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Manajemen Siklus Produk (PLM) di Xerpium ERP: Kendalikan Perubahan BOM, Approval, dan Audit Trail dalam Satu Platform | Xerpium</title>
+<meta name="description" content="Pelajari cara Xerpium ERP mengelola Manajemen Siklus Produk (PLM) dengan ECO, revisi BOM, approval, dan analisis dampak otomatis untuk manufaktur.">
+<meta property="og:title" content="Manajemen Siklus Produk (PLM) di Xerpium ERP: Kendalikan Perubahan BOM, Approval, dan Audit Trail dalam Satu Platform">
+<meta property="og:description" content="Pelajari cara Xerpium ERP mengelola Manajemen Siklus Produk (PLM) dengan ECO, revisi BOM, approval, dan analisis dampak otomatis untuk manufaktur.">
+<meta property="og:type" content="article">
+<style>
+:root{--accent:#0891b2;--accent-strong:#0e7490;--bg:#f8fafc;--surface:#fff;--text:#152238;--muted:#5f738a;--border:#d7e1ec}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.75;font-size:16px}
+.wrap{max-width:820px;margin:0 auto;padding:0 24px}
+.topbar{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:14px;padding-bottom:14px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;text-decoration:none;color:var(--text)}
+.brand-mark{width:38px;height:38px;border-radius:12px;overflow:hidden;display:inline-flex}
+.brand-mark img{width:100%;height:100%;object-fit:cover}
+.topbar-right{display:flex;align-items:center;gap:14px}
+.back-link{color:var(--muted);text-decoration:none;font-size:.9rem;font-weight:600}
+.back-link:hover{color:var(--accent)}
+.lang-switch{display:inline-flex;padding:4px;border:1px solid var(--border);border-radius:999px;background:#fff}
+.lang-link{min-width:38px;padding:6px 12px;border-radius:999px;text-align:center;font-size:.8rem;font-weight:700;color:var(--muted);text-decoration:none}
+.lang-link.is-active{color:#fff;background:linear-gradient(180deg,#18b2c2,#0c8fb0)}
+.hero{padding:48px 0 30px;background:linear-gradient(135deg,var(--accent-strong),#059669);color:#fff}
+.hero .wrap{max-width:820px}
+.hero .crumb{font-size:.82rem;opacity:.85;margin-bottom:10px}
+.hero .crumb a{color:#fff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.4)}
+.hero h1{font-size:clamp(1.6rem,3.5vw,2.4rem);letter-spacing:-.02em;line-height:1.2}
+.hero .meta{margin-top:14px;font-size:.85rem;opacity:.9}
+.content{padding:36px 24px 60px;max-width:820px;margin:0 auto}
+.content h2{font-size:1.35rem;color:var(--accent-strong);margin:30px 0 12px}
+.content h3{font-size:1.1rem;color:var(--text);margin:22px 0 8px}
+.content p{margin:0 0 14px;color:#2b3a52}
+.content ul,.content ol{margin:0 0 16px 22px;color:#2b3a52}
+.content li{margin-bottom:6px}
+.content code{background:#eef4f8;padding:2px 6px;border-radius:5px;font-size:.9em}
+.cta-box{margin:36px 0;padding:26px;border:1px solid var(--border);border-radius:16px;background:#f0fbff;text-align:center}
+.cta-box p{color:var(--muted);margin-bottom:14px}
+.btn{display:inline-block;padding:13px 26px;border-radius:999px;background:linear-gradient(180deg,#18b2c2,#0c8fb0);color:#fff;font-weight:700;text-decoration:none;box-shadow:0 12px 22px rgba(14,165,168,.22)}
+.btn:hover{transform:translateY(-1px)}
+.footer{text-align:center;padding:24px;color:#94a3b8;font-size:.8rem;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><span class="brand-mark"><img src="./images/logo%20full%20copy.jpg" alt=""></span> xerpium</a>
+  <div class="topbar-right">
+    <a class="back-link" href="plm.html">&larr; PLM (Manajemen Siklus Produk)</a>
+    <div class="lang-switch"><a class="lang-link is-active" href="2026-09-26-plm-en.html">EN</a></div>
+  </div>
+</div></div>
+<div class="hero"><div class="wrap">
+  <div class="crumb"><a href="index.html">Home</a> &rsaquo; <a href="plm.html">PLM (Manajemen Siklus Produk)</a> &rsaquo; Artikel</div>
+  <h1>Manajemen Siklus Produk (PLM) di Xerpium ERP: Kendalikan Perubahan BOM, Approval, dan Audit Trail dalam Satu Platform</h1>
+  <div class="meta">26 September 2026</div>
+</div></div>
+<div class="content">
+<p># Manajemen Siklus Produk (PLM) di Xerpium ERP: Kendalikan Perubahan BOM, Approval, dan Audit Trail dalam Satu Platform</p>
+<p>Dalam industri manufaktur, perubahan adalah keniscayaan. Spesifikasi produk berubah, Bill of Materials (BOM) perlu direvisi, dokumen SOP diperbarui, dan rute produksi disesuaikan. Namun, jika proses perubahan tidak dikelola dengan baik, perusahaan menghadapi risiko serius: BOM usang terpakai di lantai produksi, persetujuan terlambat, dokumen operasional tidak sinkron, serta jejak audit yang sulit ditelusuri.</p>
+<p>Xerpium ERP menjawab tantangan ini melalui modul <strong>Product Lifecycle Management (PLM)</strong> yang terintegrasi langsung dengan manufacturing, product, dokumen, dan sistem approval. Dengan pendekatan berbasis Engineering Change Order (ECO), Xerpium memastikan setiap perubahan produk atau BOM berjalan terkontrol, terdokumentasi, dan dapat diaudit dari awal hingga akhir.</p>
+<h2>Tantangan Umum dalam Manajemen Siklus Produk</h2>
+<p>Sebelum membahas solusi, berikut beberapa tantangan yang umum dihadapi tim engineering, quality, dan production:</p>
+<ul>
+<li>Perubahan BOM dilakukan tanpa jejak versi yang jelas, sehingga sulit mengetahui mana BOM aktif.</li>
+<li>Persetujuan perubahan masih tersebar melalui email atau percakapan informal, tanpa mekanisme blocking yang tegas.</li>
+<li>Analisis dampak perubahan dilakukan manual, lambat, dan rawan terlewat pada komponen atau operasi tertentu.</li>
+<li>Dokumen SOP atau instruksi kerja tidak ikut diperbarui saat revisi BOM diterapkan.</li>
+<li>Revisi yang berjalan paralel berisiko menimbulkan konflik antar-tim karena tidak ada deteksi perubahan upstream.</li>
+</ul>
+<h2>Solusi Xerpium PLM: Dari ECO hingga Revisi BOM Terkontrol</h2>
+<h3>Engineering Change Order (ECO) yang Terstruktur</h3>
+<p>Xerpium PLM menyediakan fitur ECO dengan penomoran otomatis melalui <code>ir.sequence</code>, misalnya <code>ECO/00001</code>, sehingga setiap perubahan memiliki identitas unik. Setiap ECO memiliki deskripsi, prioritas <code>Normal</code> atau <code>High</code>, serta tipe perubahan yang dapat diterapkan pada <strong>Bill of Materials</strong> atau <strong>Product Only</strong>.</p>
+<p>Untuk mendukung visual tracking, ECO dilengkapi <strong>tags &amp; color</strong> untuk kategorisasi, serta <strong>Kanban State</strong> <code>Normal</code>, <code>Approved</code>, dan <code>Blocked</code>. Anda juga dapat mengatur <strong>effectivity</strong> perubahan, apakah segera diterapkan (<code>As soon as possible</code>) atau pada tanggal efektif tertentu (<code>At Date</code>).</p>
+<p>Lebih lanjut, <strong>ECO Types</strong> memungkinkan Anda membuat kategori perubahan seperti "BOM Change" atau "Product Update". Setiap tipe dapat memiliki <strong>stage mapping</strong> sendiri, sehingga alur perubahan untuk BOM tidak harus sama dengan alur perubahan produk. Fitur <strong>Mail Alias</strong> juga memungkinkan siapa pun mengirim email ke alias tertentu untuk secara otomatis membuat ECO dengan tipe yang sudah ditentukan.</p>
+<h3>Revisi BOM dan Product Versioning</h3>
+<p>Saat sebuah ECO disetujui, proses revisi BOM dimulai dari <strong>Start Revision</strong>. Sistem menyalin BOM aktif ke working copy, menaikkan versi +1, dan menandai BOM lama sebagai non-aktif (<code>active=False</code>). Hubungan <strong>Previous BOM Link</strong> (<code>previous_bom_id</code>) menjaga audit trail antar-versi BOM.</p>
+<p>Ketika perubahan diterapkan (<strong>Apply Changes</strong>), BOM baru diaktifkan, BOM lama dinonaktifkan, dan dokumen operasional disinkronkan ke BOM baru. Anda juga memiliki fleksibilitas <strong>Version Toggle</strong> (<code>will_update_version</code>) untuk menerapkan perubahan tanpa menaikkan versi BOM. Pada sisi produk, <strong>Product Versioning</strong> secara otomatis menaikkan <code>product.template.version</code> setiap kali revisi diterapkan.</p>
+<h3>Analisis Dampak Perubahan Otomatis</h3>
+<p>Salah satu nilai terbesar Xerpium PLM adalah <strong>Change Impact Analysis</strong>. Sistem secara otomatis menghitung perbedaan (diff) pada:</p>
+<ul>
+<li><strong>Component Changes</strong>: penambahan, penghapusan, atau perubahan quantity dan UoM komponen.</li>
+<li><strong>By-Product Changes</strong>: pelacakan perubahan by-product pada BOM.</li>
+<li><strong>Operation Changes</strong>: perubahan routing atau work center beserta delta time cycle.</li>
+</ul>
+<p>Hasil analisis ditampilkan dengan kode warna: <strong>hijau untuk penambahan</strong>, <strong>merah untuk penghapusan</strong>, dan <strong>biru untuk pembaruan</strong>. Fitur <strong>Rebase Tracking</strong> (<code>previous_change_ids</code> dan <code>bom_rebase_ids</code>) membantu mendeteksi konflik ketika BOM upstream berubah selama ECO masih berjalan.</p>
+<h3>Integrasi Manufacturing dan Product</h3>
+<p>Xerpium PLM tidak berdiri sendiri. Dari <strong>Manufacturing Order (MO)</strong>, Anda dapat membuat ECO hanya dengan satu klik, dan sistem otomatis mengisi BOM serta produk terkait. Hubungan dua arah tersedia melalui <code>production_id</code> pada ECO dan <code>eco_ids</code> pada MO.</p>
+<p>Pada sisi produk, setiap <code>product.template</code> memiliki <strong>ECO History</strong> dan tab ECO khusus. Anda dapat melihat seluruh riwayat perubahan pada produk, termasuk aksi <code>action_view_ecos()</code>. BOM juga dilengkapi <code>eco_ids</code> dan <code>eco_count</code> untuk melihat keterkaitan langsung dari BOM ke ECO.</p>
+<h3>Rebase dan Penanganan Konflik</h3>
+<p>Dalam lingkungan dengan banyak tim yang bekerja paralel, perubahan hulu dapat memicu konflik. Xerpium PLM memiliki mekanisme <strong>Rebase State</strong> (<code>state='rebase'</code>) ketika BOM upstream berubah selama ECO berjalan. Jika resolusi manual diperlukan, sistem masuk ke <strong>Conflict State</strong> (<code>state='conflict'</code>).</p>
+<p><strong>Intermediate BOM</strong> (<code>current_bom_id</code>) memungkinkan pelacakan perubahan mid-ECO, sementara <strong>Rebase Diff</strong> menghitung perubahan antara versi BOM yang berbeda. Seluruh aktivitas tercatat dalam <strong>mail.thread chatter</strong> sebagai audit trail lengkap.</p>
+<h3>Mekanisme Approval yang Ketat dan Fleksibel</h3>
+<p>Proses approval di Xerpium PLM dirancang agar tidak menghambat, tetapi tetap tegas. Sistem <strong>Auto-Generate</strong> (<code>_create_approvals()</code>) membuat approval record dan mail activities untuk para approver secara otomatis. <strong>Stage Gating</strong> memblokir perpindahan stage jika mandatory approval belum selesai.</p>
+<p>Terdapat tiga jenis approval:</p>
+<ul>
+<li><strong>Mandatory</strong>: harus disetujui sebelum stage bisa di-advance.</li>
+<li><strong>Optional</strong>: boleh disetujui, tetapi tidak memblokir perpindahan stage.</li>
+<li><strong>Comment</strong>: hanya berupa komentar, tidak memengaruhi status approval.</li>
+</ul>
+<p><strong>User Restriction</strong> memastikan hanya user yang terdaftar dalam <code>template.user_ids</code> yang dapat approve atau reject. Aturan <strong>Constraint</strong> juga mencegah user yang sama melakukan approval lebih dari sekali pada stage yang sama.</p>
+<h3>Dynamic Stage, Dokumen, dan Dashboard</h3>
+<p><strong>Dynamic Stage Features</strong> memungkinkan konfigurasi stage secara data-driven, tidak hard-coded. Anda dapat menambahkan <strong>Python Hooks</strong> (<code>enter_method</code>) yang dieksekusi saat record masuk stage, <strong>Server Actions</strong> otomatis, serta pembatasan akses berbasis <strong>RBAC Groups</strong> per stage. State stage otomatis sinkron dengan state field, dan navigasi mundur dapat diaktifkan melalui <code>allow_back</code>.</p>
+<p>Untuk dokumentasi, Xerpium PLM mendukung tiga tipe dokumen:</p>
+<ul>
+<li><strong>File</strong>: upload PDF atau gambar, dengan mimetype auto-detect dan copy saat BOM revision.</li>
+<li><strong>External Link</strong>: tautan Google Slides atau URL eksternal tanpa perlu upload file.</li>
+<li><strong>Text Note</strong>: catatan teks cepat untuk instruksi atau pengingat.</li>
+</ul>
+<p>Dokumen bersifat <strong>polimorfik</strong> (<code>res_model</code> + <code>res_id</code>), dapat dilampirkan ke model apa pun, dan mendukung <strong>Operation Documents</strong> untuk SOP per operasi. Saat revisi diterapkan, dokumen operasional ikut disinkronkan ke BOM baru.</p>
+<p>Terakhir, <strong>Dashboard PLM</strong> menyajikan KPI dengan refresh otomatis setiap 5 menit, filter otomatis, sumber data ganda (ORM dan SQL), serta tema hijau konsisten dengan branding PLM. Dashboard ini bersifat global dan dapat diakses oleh semua PLM users.</p>
+<h2>Manfaat Bisnis</h2>
+<ul>
+<li><strong>Jejak audit menyeluruh</strong> dari ECO, revisi BOM, approval, hingga perubahan dokumen.</li>
+<li><strong>Analisis dampak otomatis</strong> mengurangi risiko komponen atau operasi terlewat.</li>
+<li><strong>Proses approval terstruktur</strong> dengan stage gating dan pembatasan user.</li>
+<li><strong>Sinkronisasi dokumen operasional</strong> memastikan SOP selalu sesuai BOM aktif.</li>
+<li><strong>Fleksibilitas multi-perusahaan</strong> melalui company isolation dan record rules.</li>
+</ul>
+<h2>Contoh Alur Singkat</h2>
+<p>Tim engineering menemukan perubahan material pada salah satu komponen BOM. Mereka membuat ECO langsung dari Manufacturing Order atau BOM terkait. Sistem secara otomatis menampilkan analisis dampak: komponen mana yang berubah, berapa delta quantity, serta operasi mana yang terpengaruh. ECO kemudian melewati approval mandatory dari PLM Manager. Setelah disetujui, revisi BOM diterapkan, BOM baru diaktifkan, product version naik, dan dokumen SOP disinkronkan. Semua aktivitas tercatat di chatter sebagai audit trail.</p>
+<h2>Kesimpulan</h2>
+<p>Xerpium PLM menghadirkan kendali penuh atas siklus hidup produk dalam satu platform ERP. Dari ECO, revisi BOM, analisis dampak, approval berlapis, hingga sinkronisasi dokumen operasional, setiap langkah terdokumentasi dan terintegrasi. Bagi perusahaan manufaktur yang ingin mengurangi risiko perubahan produk dan menjaga konsistensi data produksi, Xerpium PLM adalah fondasi yang kuat.</p>
+<p>Tertarik melihat bagaimana Xerpium PLM dapat menyederhanakan alur perubahan produk di perusahaan Anda? Hubungi tim Xerpium untuk sesi demo singkat.</p>
+<div class="cta-box">
+  <p>Lihat bagaimana Xerpium membantu PLM (Manajemen Siklus Produk) end-to-end.</p>
+  <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Coba Xerpium</a>
+</div>
+</div>
+<div class="footer">&copy; 2026 Xerpium &mdash; Built on XERPIUM 18</div>
+</body>
+</html>

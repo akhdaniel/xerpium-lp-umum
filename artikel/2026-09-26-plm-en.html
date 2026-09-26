@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control | Xerpium</title>
+<meta name="description" content="Learn how Xerpium ERP PLM manages ECOs, BOM revisions, approvals, and change impact for controlled product lifecycle management.">
+<meta property="og:title" content="PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control">
+<meta property="og:description" content="Learn how Xerpium ERP PLM manages ECOs, BOM revisions, approvals, and change impact for controlled product lifecycle management.">
+<meta property="og:type" content="article">
+<style>
+:root{--accent:#0891b2;--accent-strong:#0e7490;--bg:#f8fafc;--surface:#fff;--text:#152238;--muted:#5f738a;--border:#d7e1ec}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.75;font-size:16px}
+.wrap{max-width:820px;margin:0 auto;padding:0 24px}
+.topbar{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-top:14px;padding-bottom:14px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;text-decoration:none;color:var(--text)}
+.brand-mark{width:38px;height:38px;border-radius:12px;overflow:hidden;display:inline-flex}
+.brand-mark img{width:100%;height:100%;object-fit:cover}
+.topbar-right{display:flex;align-items:center;gap:14px}
+.back-link{color:var(--muted);text-decoration:none;font-size:.9rem;font-weight:600}
+.back-link:hover{color:var(--accent)}
+.lang-switch{display:inline-flex;padding:4px;border:1px solid var(--border);border-radius:999px;background:#fff}
+.lang-link{min-width:38px;padding:6px 12px;border-radius:999px;text-align:center;font-size:.8rem;font-weight:700;color:var(--muted);text-decoration:none}
+.lang-link.is-active{color:#fff;background:linear-gradient(180deg,#18b2c2,#0c8fb0)}
+.hero{padding:48px 0 30px;background:linear-gradient(135deg,var(--accent-strong),#059669);color:#fff}
+.hero .wrap{max-width:820px}
+.hero .crumb{font-size:.82rem;opacity:.85;margin-bottom:10px}
+.hero .crumb a{color:#fff;text-decoration:none;border-bottom:1px solid rgba(255,255,255,.4)}
+.hero h1{font-size:clamp(1.6rem,3.5vw,2.4rem);letter-spacing:-.02em;line-height:1.2}
+.hero .meta{margin-top:14px;font-size:.85rem;opacity:.9}
+.content{padding:36px 24px 60px;max-width:820px;margin:0 auto}
+.content h2{font-size:1.35rem;color:var(--accent-strong);margin:30px 0 12px}
+.content h3{font-size:1.1rem;color:var(--text);margin:22px 0 8px}
+.content p{margin:0 0 14px;color:#2b3a52}
+.content ul,.content ol{margin:0 0 16px 22px;color:#2b3a52}
+.content li{margin-bottom:6px}
+.content code{background:#eef4f8;padding:2px 6px;border-radius:5px;font-size:.9em}
+.cta-box{margin:36px 0;padding:26px;border:1px solid var(--border);border-radius:16px;background:#f0fbff;text-align:center}
+.cta-box p{color:var(--muted);margin-bottom:14px}
+.btn{display:inline-block;padding:13px 26px;border-radius:999px;background:linear-gradient(180deg,#18b2c2,#0c8fb0);color:#fff;font-weight:700;text-decoration:none;box-shadow:0 12px 22px rgba(14,165,168,.22)}
+.btn:hover{transform:translateY(-1px)}
+.footer{text-align:center;padding:24px;color:#94a3b8;font-size:.8rem;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><span class="brand-mark"><img src="./images/logo%20full%20copy.jpg" alt=""></span> xerpium</a>
+  <div class="topbar-right">
+    <a class="back-link" href="plm.html">&larr; PLM (Product Lifecycle Management)</a>
+    <div class="lang-switch"><a class="lang-link " href="2026-09-26-plm-id.html">ID</a></div>
+  </div>
+</div></div>
+<div class="hero"><div class="wrap">
+  <div class="crumb"><a href="index.html">Home</a> &rsaquo; <a href="plm.html">PLM (Product Lifecycle Management)</a> &rsaquo; Artikel</div>
+  <h1>PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control</h1>
+  <div class="meta">September 26, 2026</div>
+</div></div>
+<div class="content">
+<p># PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control</p>
+<p>For manufacturers and product-driven businesses, the gap between engineering intent and production reality is often caused by one thing: uncontrolled change. When a bill of materials is updated outside a formal process, when a routing change is not communicated to the shop floor, or when an approval happens in an email thread instead of a controlled system, product quality and delivery timelines suffer.</p>
+<p>Xerpium ERP addresses this with a dedicated Product Lifecycle Management (PLM) layer built around Engineering Change Orders (ECOs), revision-controlled bills of materials, dynamic approval stages, and structured document handling. It connects PLM directly to manufacturing, products, documents, and dashboards so that product changes remain visible, auditable, and linked to the operations they affect.</p>
+<h2>Common Challenges in Product Lifecycle Management</h2>
+<p>Many B2B manufacturers and distributors face similar PLM issues:</p>
+<ul>
+<li>BOM revisions are managed through spreadsheets or duplicated product records, making it difficult to know which version is active.</li>
+<li>Engineering change approvals rely on ad hoc emails or meetings, causing delays and unclear accountability.</li>
+<li>Change impact is not systematically analyzed, so component quantity differences, routing updates, and by-product changes are missed until production.</li>
+<li>Supporting documents such as SOPs, specification sheets, and drawings are disconnected from the BOM or operation they describe.</li>
+<li>The audit trail is fragmented, making it hard to answer why, when, and by whom a product change was approved and applied.</li>
+</ul>
+<h2>How Xerpium ERP PLM Addresses These Challenges</h2>
+<p>Xerpium PLM is organized around ECOs, BOM revisions, approvals, dynamic stages, and document management. The following capabilities are directly available in the ERP suite.</p>
+<h3>Engineering Change Orders (ECO)</h3>
+<p>Every engineering change in Xerpium starts as an ECO. The system automatically generates a reference using the ECO/##### sequence, so each change request has a unique identifier without manual numbering.</p>
+<p>Each ECO supports:</p>
+<ul>
+<li>Description and priority tracking with Normal or High priority.</li>
+<li>Change type configuration, such as applying the change on a Bill of Materials or Product Only.</li>
+<li>Effectivity control, with options for As soon as possible or At Date using an effective date.</li>
+<li>Colored tags for categorization.</li>
+<li>Kanban states for visual tracking: Normal, Approved, or Blocked.</li>
+</ul>
+<p>ECOs can also be categorized by ECO Type. Each type can have its own set of stages, and mail aliases can be configured so that inbound emails to a specific alias automatically create an ECO of that type. Smart counters track metrics such as the number of ECOs, approvals, approvals assigned to the current user, and validation counts. ECO types support multi-company configuration.</p>
+<h3>BOM Revision and Apply</h3>
+<p>Xerpium PLM includes controlled BOM revision. When a revision starts, the system copies the current BOM into a working copy, increments the version by one, and sets the new version as inactive while it is being edited. A previous BOM link is preserved for audit trail, creating a chain of BOM history.</p>
+<p>When the ECO is applied, Xerpium activates the new BOM, deactivates the old one, and synchronizes operation documents to the new BOM operations. A version toggle flag allows an apply action without bumping the version again when appropriate. On apply, the product version is automatically incremented on the product template.</p>
+<h3>Change Impact Analysis</h3>
+<p>Before applying a change, Xerpium automatically calculates the impact of an ECO by comparing the current BOM with the proposed working copy. The analysis includes:</p>
+<ul>
+<li>Component changes: add, remove, or update with quantity and unit-of-measure deltas.</li>
+<li>By-product changes on the BOM.</li>
+<li>Operation changes, including routing and work center changes with time cycle deltas.</li>
+</ul>
+<p>The change impact is color-coded in the form view: green for additions, red for removals, and blue for updates. Rebase tracking fields capture conflicts when the upstream BOM changes while an ECO is in progress.</p>
+<h3>Approval Mechanism and Approval Types</h3>
+<p>Xerpium PLM builds approval control directly into ECO stages. Approval records are auto-generated, and mail activities are created for approvers automatically.</p>
+<p>Approval types include:</p>
+<ul>
+<li>Mandatory: must be approved before the stage can advance; the approval is considered complete only when status is approved.</li>
+<li>Optional: can be approved but is not blocking; it is always considered approved for gating purposes.</li>
+<li>Comment: captures comments without affecting approval status.</li>
+<li>Constraint: a user cannot be assigned more than once per stage.</li>
+</ul>
+<p>Stage gating prevents a stage from advancing if mandatory approvals are not complete. Only users defined in the approval template can approve or reject. Moving to another stage closes processed approvals and removes pending ones, while mail activities keep approvers informed.</p>
+<h3>Dynamic Stage Features</h3>
+<p>PLM stages in Xerpium are configurable and data-driven rather than hard-coded. Each stage supports:</p>
+<ul>
+<li>Python hooks that execute when a record enters the stage.</li>
+<li>Automated server actions on stage entry.</li>
+<li>RBAC group restrictions that limit who can move a record to that stage.</li>
+<li>Native state synchronization between stage and state field, including confirmed, progress, and done states.</li>
+<li>Configurable back navigation for moving a record to a previous stage.</li>
+<li>Approval templates linked to each stage.</li>
+<li>A default stage that is automatically assigned when a new record is created.</li>
+</ul>
+<h3>Document Features</h3>
+<p>Xerpium PLM documents can be attached to any model using a polymorphic relation. The supported document types include:</p>
+<ul>
+<li>File: PDFs, images, and other uploads via attachment, with automatic mime-type detection.</li>
+<li>External link: Google Slides or other external URLs, opened through an action without file upload.</li>
+<li>Text note: plain text content for quick notes or instructions, editable inline.</li>
+</ul>
+<p>Documents can be rendered differently on kanban cards based on document type. Operation documents can be linked to a specific BOM operation, which is useful for SOPs. When an ECO is applied, operation documents are synchronized to the new BOM. Documents support a cover image for the ECO and file-type documents are duplicated with their attachments when copied. Multi-company isolation is applied through company_id.</p>
+<h3>Manufacturing Integration and Dashboards</h3>
+<p>Xerpium PLM is connected to manufacturing. Users can create an ECO directly from a Manufacturing Order with one click, and the BOM and product are automatically filled. The ECO links back to the manufacturing order, and manufacturing orders list their related ECOs.</p>
+<p>BOMs and products also show ECO history and counts. When an ECO is applied, the new BOM version becomes active and operation documents are synced. Work center documents can be attached to routing work centers.</p>
+<p>For visibility, Xerpium PLM includes a dashboard built on Dashboard Studio. The dashboard auto-refreshes every 300 seconds, applies filters automatically when opened, and combines ORM sources such as ECOs, BOMs, and products with SQL sources for aggregated data. It uses a green theme consistent with PLM branding and is visible to all PLM users.</p>
+<h2>Business Benefits of Xerpium PLM</h2>
+<ul>
+<li>A controlled, auditable ECO process from creation through approval and application.</li>
+<li>Accurate BOM version history with previous BOM links and automatic product version increments.</li>
+<li>Early visibility into component, by-product, and routing changes before production is affected.</li>
+<li>Clear approval accountability with mandatory, optional, and comment approval types.</li>
+<li>Strong integration between PLM, manufacturing orders, products, and documents.</li>
+<li>Reduced risk of using outdated BOMs or missing SOP changes on the shop floor.</li>
+<li>A single audit trail through mail thread chatter and structured ECO records.</li>
+</ul>
+<h2>Example Workflow: From Manufacturing Issue to Controlled Product Change</h2>
+<p>A production planner identifies an incorrect component quantity in a manufacturing order. From the manufacturing order, they create an ECO with one click. The ECO is automatically linked to the BOM and product, and a new BOM revision is started as a working copy.</p>
+<p>The planner updates the component quantity. The change impact analysis shows the component delta with color-coded information. The ECO moves through a configured approval stage where mandatory approvers receive mail activities and approve the change. Once approvals are complete, the ECO is applied: the new BOM becomes active, the old BOM is deactivated, the product version increments, and operation documents are synced. The entire history remains in the ECO chatter for audit.</p>
+<h2>Conclusion</h2>
+<p>Xerpium ERP brings product lifecycle management into the same system as manufacturing, inventory, and product data. Instead of managing BOM changes in separate spreadsheets or disconnected email threads, companies can use structured ECOs, controlled BOM revisions, impact analysis, approval gating, and synchronized documents. The result is a cleaner path from engineering intent to controlled production change.</p>
+<p>To see how Xerpium PLM can support your engineering change and product revision workflow, contact the Xerpium team for a focused demonstration.</p>
+<div class="cta-box">
+  <p>Lihat bagaimana Xerpium membantu PLM (Product Lifecycle Management) end-to-end.</p>
+  <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Coba Xerpium</a>
+</div>
+</div>
+<div class="footer">&copy; 2026 Xerpium &mdash; Built on XERPIUM 18</div>
+</body>
+</html>

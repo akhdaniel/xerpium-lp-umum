@@ -1,0 +1,60 @@
+# Xerpium ERP
+
+> Xerpium adalah enterprise ERP suite dengan AI assistant, kecepatan tinggi, dan solusi siap pakai untuk 34+ industri. Situs ini memuat artikel harian per industri dan modul base.
+
+## Artikel per Industri
+- [Manufaktur Dirgantara / Aerospace Manufacturing](https://xerpium.com/aerospace.html): 0 artikel
+- [Pertanian / Agriculture](https://xerpium.com/agriculture.html): 0 artikel
+- [Pakan Ternak / Animal Feed](https://xerpium.com/animal_feed.html): 0 artikel
+- [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://xerpium.com/auditor.html): 0 artikel
+- [Penerbangan / Aviation](https://xerpium.com/aviation.html): 0 artikel
+- [Klinik Kecantikan / Beauty Clinic](https://xerpium.com/beauty_clinic.html): 0 artikel
+- [Manajemen Gedung / Building Management](https://xerpium.com/building_management.html): 0 artikel
+- [Konstruksi Sipil / Civil Construction](https://xerpium.com/civil_construction.html): 0 artikel
+- [Tambang Batubara / Coal Mining](https://xerpium.com/coal.html): 0 artikel
+- [Data Center & Sistem IT / Data Center & IT System](https://xerpium.com/data_center_it.html): 0 artikel
+- [Distribusi / Distribution](https://xerpium.com/distribution.html): 0 artikel
+- [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://xerpium.com/education.html): 0 artikel
+- [Manufaktur Elektronik OEM / Electronic OEM Manufacturing](https://xerpium.com/electronic_oem.html): 0 artikel
+- [Event Organizer / Event Organizer](https://xerpium.com/event.html): 0 artikel
+- [Perikanan / Fishery](https://xerpium.com/fishery.html): 0 artikel
+- [Makanan & Minuman (F&B) / Food & Beverage (F&B)](https://xerpium.com/food_beverage.html): 0 artikel
+- [Garmen / Garment](https://xerpium.com/garment.html): 0 artikel
+- [ERP Generik / Generic ERP](https://xerpium.com/generic.html): 0 artikel
+- [Tambang Emas & Refinery / Gold Mining & Refinery](https://xerpium.com/gold.html): 0 artikel
+- [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://xerpium.com/hospital_pharmacy.html): 0 artikel
+- [Hotel & Properti / Hotel & Property](https://xerpium.com/hotel.html): 0 artikel
+- [Koperasi / Koperasi](https://xerpium.com/koperasi.html): 0 artikel
+- [Peternakan / Livestock](https://xerpium.com/livestock.html): 0 artikel
+- [Logistik / Logistics](https://xerpium.com/logistics.html): 0 artikel
+- [Layanan Perawatan / Maintenance Service](https://xerpium.com/maintenance_service.html): 0 artikel
+- [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://xerpium.com/plm.html): 0 artikel
+- [Rental / Rental](https://xerpium.com/rental.html): 0 artikel
+- [Retail / Retail](https://xerpium.com/retail.html): 0 artikel
+- [Pengembang Kota Satelit / Satellite City Developer](https://xerpium.com/satellite.html): 0 artikel
+- [Industri Sawit / Palm Oil Industry](https://xerpium.com/sawit.html): 0 artikel
+- [Software House / Software House](https://xerpium.com/software.html): 0 artikel
+- [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://xerpium.com/theme_park_recreation.html): 0 artikel
+- [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://xerpium.com/travel.html): 0 artikel
+- [Manajemen Universitas / University Management](https://xerpium.com/university.html): 0 artikel
+
+## Use Case
+- [Xerpium untuk Startup](https://xerpium.com/artikel-startup.html)
+- [Xerpium untuk UMKM](https://xerpium.com/artikel-umkm.html)
+- [Xerpium untuk Large Enterprise](https://xerpium.com/artikel-enterprise.html)
+- [Solusi untuk Penjualan](https://xerpium.com/artikel-penjualan.html)
+- [Solusi untuk Pemasaran](https://xerpium.com/artikel-pemasaran.html)
+- [Solusi untuk Manufaktur](https://xerpium.com/artikel-manufaktur.html)
+- [Solusi untuk Keuangan](https://xerpium.com/artikel-keuangan.html)
+- [Solusi untuk HR](https://xerpium.com/artikel-hr.html)
+
+## Landing
+- [Semua Artikel](https://xerpium.com/artikel.html): kumpulan artikel semua industri & modul base
+- [Sitemap](https://xerpium.com/sitemap.xml)
+- [RSS](https://xerpium.com/rss.xml)
+
+## Artikel Terbaru
+
+
+## Optional
+- [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
