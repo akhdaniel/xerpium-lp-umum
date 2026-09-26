@@ -4,7 +4,7 @@
 
 ## Artikel per Industri
 - [Manufaktur Dirgantara / Aerospace Manufacturing](https://www.xerpium.com/aerospace): 2 artikel
-- [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 2 artikel
+- [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 4 artikel
 - [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 2 artikel
 - [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 2 artikel
 - [Penerbangan / Aviation](https://www.xerpium.com/aviation): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Xerpium ERP untuk UMKM: Solusi Terpadu Sales, Stok, dan Keuangan dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-27-umkm-id): Xerpium ERP untuk UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting mulai Rp150.000/user/bulan. Kenali modul dan manfaatnya di sini.
+- [Xerpium for SMBs: A Unified ERP Approach for Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-09-27-umkm-en): Discover how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting with transparent per-user pricing and a built-in AI assistant.
+- [Optimalkan Pembelian & Pengadaan dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-27-base-purchase-id): Optimalkan pembelian dan pengadaan dengan Xerpium ERP: PR, RFQ, PO, vendor management, 3-way matching, multi-company, multi-currency, dan laporan real-time.
+- [Purchase & Procurement with Xerpium ERP: From PR and RFQ to 3-Way Matching](https://www.xerpium.com/artikel/2026-09-27-base-purchase-en): Learn how Xerpium ERP unifies PR, RFQ, PO, vendor management, and 3-way matching in a multi-company, multi-currency procurement system with real-time dashboards and AI Assistant.
+- [ERP Pertanian Xerpium: Solusi Terpadu untuk Agribisnis, Perkebunan, dan Operasional Harian](https://www.xerpium.com/artikel/2026-09-27-agriculture-id): ERP pertanian Xerpium: COA 6 digit SAK pertanian, dashboard panen, laporan keuangan, dan manajemen operasional untuk agribisnis.
+- [Agriculture ERP: How Xerpium Streamlines Harvest Accounting, Biological Assets, and Farm Operations](https://www.xerpium.com/artikel/2026-09-27-agriculture-en): Learn how Xerpium agriculture ERP streamlines harvest accounting, biological assets, input costs, and farm operations for Indonesian agribusinesses.
 - [Manajemen Universitas Terintegrasi dengan Xerpium ERP: Solusi Lengkap untuk Akademik, Keuangan, dan Operasional](https://www.xerpium.com/artikel/2026-09-26-university-id): Kelola manajemen universitas secara terintegrasi dengan Xerpium ERP, dari KRS, nilai, jadwal, ruangan, hingga SPP dan laporan keuangan dalam satu platform.
 - [University Management with Xerpium ERP: From Academic Records to Tuition Automation](https://www.xerpium.com/artikel/2026-09-26-university-en): Discover how Xerpium ERP streamlines university management with academic records, KRS, tuition invoicing, room scheduling, and AI dashboards.
 - [Xerpium ERP untuk UMKM: Satu Platform Terpadu untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-09-26-umkm-id): Xerpium ERP untuk UMKM: satu platform terpadu untuk Sales, CRM, Purchasing, Inventory, dan Accounting mulai Rp150.000/user/bulan dengan AI Assistant.
@@ -78,12 +84,6 @@
 - [PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control](https://www.xerpium.com/artikel/2026-09-26-plm-en): Learn how Xerpium ERP PLM manages ECOs, BOM revisions, approvals, and change impact for controlled product lifecycle management.
 - [Solusi Penjualan Modern dengan Xerpium ERP: Kelola Pipeline, Omnichannel, dan Analisis AI dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-penjualan-id): Solusi penjualan Xerpium ERP menyatukan Sales & CRM, POS, marketplace, inventori, dan AI Assistant untuk insight, forecast, serta rekomendasi penjualan.
 - [Sales Solutions with Xerpium ERP: Unifying Pipeline, POS, and Order Fulfilment](https://www.xerpium.com/artikel/2026-09-26-penjualan-en): Discover how Xerpium ERP Sales & CRM, Retail POS, inventory synergy, and AI assistant help B2B teams manage pipeline, marketplaces, and order-to-delivery.
-- [Solusi Pemasaran dengan Xerpium ERP: Integrasi CRM, WhatsApp, Loyalty, dan AI untuk Strategi Berbasis Data](https://www.xerpium.com/artikel/2026-09-26-pemasaran-id): Optimalkan strategi pemasaran B2B Anda dengan Xerpium ERP. Kelola CRM terpusat, integrasi WhatsApp, program loyalitas, dan analisis pasar berbasis AI dalam satu sistem.
-- [Marketing Solutions with Xerpium ERP: Centralize Customer Data, Automate Follow-Up, and Drive Smarter Campaigns](https://www.xerpium.com/artikel/2026-09-26-pemasaran-en): Learn how Xerpium ERP marketing solutions centralize CRM, WhatsApp follow-up, loyalty programs, and AI-powered market analysis for smarter B2B campaigns.
-- [Solusi ERP Manufaktur Xerpium: Kendalikan Produksi, Mutu, dan Biaya dalam Satu Sistem](https://www.xerpium.com/artikel/2026-09-26-manufaktur-id): Solusi ERP manufaktur Xerpium membantu kelola BOM, work order, MRP, quality control, by-product, serta koneksi stok dan pembelian dalam satu sistem terpadu.
-- [Manufacturing ERP Solutions: How Xerpium Connects Production, Quality, and Inventory](https://www.xerpium.com/artikel/2026-09-26-manufaktur-en): Discover how Xerpium ERP connects manufacturing, MRP, quality control, and inventory to reduce shortages, catch quality issues, and improve cost control.
-- [Layanan Perawatan Lebih Terkendali dengan Xerpium ERP: Kelola Service Order, Work Order, dan Preventive Maintenance dalam Satu Sistem](https://www.xerpium.com/artikel/2026-09-26-maintenance_service-id): Optimalkan layanan perawatan dengan Xerpium ERP. Kelola service order, work order, preventive maintenance, variance biaya, dan invoicing dalam satu sistem terintegrasi.
-- [Maintenance Service Management with Xerpium ERP: From Service Orders to Invoiced Work Orders](https://www.xerpium.com/artikel/2026-09-26-maintenance_service-en): Learn how Xerpium ERP streamlines maintenance service management—from service orders, work orders, and preventive schedules to checklists, variance analysis, and invoicing.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
