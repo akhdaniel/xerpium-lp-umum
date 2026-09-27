@@ -5,7 +5,7 @@
 ## Artikel per Industri
 - [Manufaktur Dirgantara / Aerospace Manufacturing](https://www.xerpium.com/aerospace): 2 artikel
 - [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 4 artikel
-- [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 2 artikel
+- [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 4 artikel
 - [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 2 artikel
 - [Penerbangan / Aviation](https://www.xerpium.com/aviation): 2 artikel
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Xerpium untuk Large Enterprise: ERP Skala Besar yang Tetap Ringan dan Cepat](https://www.xerpium.com/artikel/2026-09-28-enterprise-id): Xerpium ERP untuk large enterprise: satu platform lengkap, 34+ vertical markets, on premise, dan kustomisasi untuk operasional berskala besar.
+- [Xerpium ERP for Large Enterprise: Full-Suite Control Without the Heavy Wait](https://www.xerpium.com/artikel/2026-09-28-enterprise-en): Xerpium ERP for large enterprise combines full-suite modules, 34+ vertical workflows, on-premise customization, and high-volume performance. Learn how it supports complex operations.
+- [Optimalkan Inventori & Gudang Multi-Warehouse dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-28-base-inventory-id): Kelola inventori & gudang multi-warehouse lebih efisien dengan Xerpium ERP. Dukung lot/serial, putaway, replenishment, audit trail, dan laporan real-time.
+- [Inventory & Warehouse Management with Xerpium ERP: Multi-Warehouse Control, Lot/Serial Tracking, and Real-Time Visibility](https://www.xerpium.com/artikel/2026-09-28-base-inventory-en): Learn how Xerpium ERP Inventory & Warehouse supports multi-warehouse, lot/serial tracking, putaway, replenishment, real-time reporting, and AI-assisted inventory control.
+- [Optimalkan Bisnis Pakan Ternak dengan Xerpium ERP: Kendali Formulasi, QC, dan Distribusi dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-28-animal_feed-id): Kelola bisnis pakan ternak dari formulasi ransum, QC, produksi, hingga piutang distributor dengan Xerpium ERP. Pelajari modul dan fiturnya di sini.
+- [Animal Feed ERP: How Xerpium Streamlines Feed Mill Operations from Procurement to Distribution](https://www.xerpium.com/artikel/2026-09-28-animal_feed-en): Learn how Xerpium ERP helps animal feed manufacturers manage raw material QC, feed formulation, production costing, distribution, and financial reporting in one integrated system.
 - [Xerpium ERP untuk UMKM: Solusi Terpadu Sales, Stok, dan Keuangan dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-27-umkm-id): Xerpium ERP untuk UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting mulai Rp150.000/user/bulan. Kenali modul dan manfaatnya di sini.
 - [Xerpium for SMBs: A Unified ERP Approach for Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-09-27-umkm-en): Discover how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting with transparent per-user pricing and a built-in AI assistant.
 - [Optimalkan Pembelian & Pengadaan dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-27-base-purchase-id): Optimalkan pembelian dan pengadaan dengan Xerpium ERP: PR, RFQ, PO, vendor management, 3-way matching, multi-company, multi-currency, dan laporan real-time.
@@ -78,12 +84,6 @@
 - [Satellite City Developer ERP: Managing Townships, Kavling Sales, Infrastructure, and IPL in One System](https://www.xerpium.com/artikel/2026-09-26-satellite-en): Learn how Xerpium ERP helps satellite city developers manage kavling sales, PPJB agreements, infrastructure milestones, handover, and IPL billing in one integrated system.
 - [Optimalkan Retail Multi-Outlet dengan Xerpium ERP: POS, Marketplace, dan Akuntansi dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-retail-id): Kelola POS multi-outlet, Shopee, Tokopedia, GoFood, inventori, dan akuntansi retail dalam satu platform. Pelajari solusi Xerpium ERP untuk bisnis retail.
 - [Retail ERP: Unify POS, Marketplace Channels, and Inventory with Xerpium](https://www.xerpium.com/artikel/2026-09-26-retail-en): Learn how Xerpium ERP unifies retail POS, Shopee, Tokopedia, GoFood, inventory, accounting, and AI reporting in one enterprise platform.
-- [Optimalkan Bisnis Rental Kendaraan, Alat Berat, dan Aset dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-26-rental-id): Optimalkan bisnis rental kendaraan, alat berat, dan aset dengan Xerpium ERP: kontrak multi-item, pickup-return wizard, denda otomatis, PPN 11%, dan laporan keuangan terintegrasi.
-- [Rental Management with Xerpium ERP: Controlling Fleet, Heavy Equipment, and Asset Rentals End-to-End](https://www.xerpium.com/artikel/2026-09-26-rental-en): Learn how Xerpium ERP streamlines rental operations for fleet, heavy equipment, assets, and general items with integrated contracts, pickup and return wizards, invoicing, and accounting.
-- [Manajemen Siklus Produk (PLM) di Xerpium ERP: Kendalikan Perubahan BOM, Approval, dan Audit Trail dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-plm-id): Pelajari cara Xerpium ERP mengelola Manajemen Siklus Produk (PLM) dengan ECO, revisi BOM, approval, dan analisis dampak otomatis untuk manufaktur.
-- [PLM in Xerpium ERP: Managing Engineering Change, BOM Revisions, and Approval Control](https://www.xerpium.com/artikel/2026-09-26-plm-en): Learn how Xerpium ERP PLM manages ECOs, BOM revisions, approvals, and change impact for controlled product lifecycle management.
-- [Solusi Penjualan Modern dengan Xerpium ERP: Kelola Pipeline, Omnichannel, dan Analisis AI dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-penjualan-id): Solusi penjualan Xerpium ERP menyatukan Sales & CRM, POS, marketplace, inventori, dan AI Assistant untuk insight, forecast, serta rekomendasi penjualan.
-- [Sales Solutions with Xerpium ERP: Unifying Pipeline, POS, and Order Fulfilment](https://www.xerpium.com/artikel/2026-09-26-penjualan-en): Discover how Xerpium ERP Sales & CRM, Retail POS, inventory synergy, and AI assistant help B2B teams manage pipeline, marketplaces, and order-to-delivery.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
