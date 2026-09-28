@@ -6,7 +6,7 @@
 - [Manufaktur Dirgantara / Aerospace Manufacturing](https://www.xerpium.com/aerospace): 2 artikel
 - [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 4 artikel
 - [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 4 artikel
-- [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 2 artikel
+- [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 4 artikel
 - [Penerbangan / Aviation](https://www.xerpium.com/aviation): 2 artikel
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 2 artikel
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Penjualan Modern dengan Xerpium ERP: Kelola CRM, POS, dan Analisis AI dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-29-penjualan-id): Optimalkan proses penjualan bisnis Anda dengan Xerpium ERP: kelola Sales & CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terintegrasi.
+- [Sales Solutions with Xerpium ERP: Unify CRM, POS, and AI-Driven Sales Analysis](https://www.xerpium.com/artikel/2026-09-29-penjualan-en): Discover how Xerpium ERP sales solutions unify CRM, POS, marketplace integration, inventory, and AI-driven sales analysis for a smoother order-to-delivery process.
+- [Akuntansi & Keuangan ERP: Kendalikan Jurnal, Pajak, dan Laporan Real-Time dengan Xerpium](https://www.xerpium.com/artikel/2026-09-29-base-accounting-id): Kelola chart of accounts, jurnal, pajak, dan laporan keuangan secara real-time dengan modul Akuntansi & Keuangan Xerpium ERP. Terintegrasi AI Assistant, multi-company, multi-currency, dan audit trail.
+- [Accounting & Finance ERP: Smarter Financial Control with Xerpium](https://www.xerpium.com/artikel/2026-09-29-base-accounting-en): Discover how Xerpium ERP Accounting & Finance supports chart of accounts, journals, tax, multi-company, multi-currency, audit trail, and real-time reporting.
+- [ERP untuk Kantor Audit & Konsultan Pajak: Kelola Engagement, Working Paper, dan Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-09-29-auditor-id): Optimalkan operasional kantor audit dan konsultan pajak dengan Xerpium ERP untuk engagement, working paper, timesheet, billing, dan kepatuhan regulasi dalam satu sistem terintegrasi.
+- [Audit and Tax Consultant ERP: How Xerpium Streamlines Engagements, Working Papers, and Compliance](https://www.xerpium.com/artikel/2026-09-29-auditor-en): Xerpium ERP helps auditors and tax consultants manage engagements, working papers, time tracking, billing, compliance, and reporting in one integrated platform.
 - [Xerpium untuk Large Enterprise: ERP Skala Besar yang Tetap Ringan dan Cepat](https://www.xerpium.com/artikel/2026-09-28-enterprise-id): Xerpium ERP untuk large enterprise: satu platform lengkap, 34+ vertical markets, on premise, dan kustomisasi untuk operasional berskala besar.
 - [Xerpium ERP for Large Enterprise: Full-Suite Control Without the Heavy Wait](https://www.xerpium.com/artikel/2026-09-28-enterprise-en): Xerpium ERP for large enterprise combines full-suite modules, 34+ vertical workflows, on-premise customization, and high-volume performance. Learn how it supports complex operations.
 - [Optimalkan Inventori & Gudang Multi-Warehouse dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-28-base-inventory-id): Kelola inventori & gudang multi-warehouse lebih efisien dengan Xerpium ERP. Dukung lot/serial, putaway, replenishment, audit trail, dan laporan real-time.
@@ -78,12 +84,6 @@
 - [Xerpium ERP for Startups: A Flexible ERP Foundation That Scales With You](https://www.xerpium.com/artikel/2026-09-26-startup-en): Learn how Xerpium ERP helps startups scale from core modules to custom workflows without changing systems, with AI assistant and predictable SaaS pricing.
 - [ERP untuk Software House: Kelola Proyek Agile, Waterfall, dan Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-software-id): Kelola proyek software house dengan Xerpium ERP: Scrum, Waterfall, Kanban, budget, alokasi tim, dan technology stack dalam satu platform terintegrasi.
 - [Software House Project Management with Xerpium ERP: From Sprint Planning to Profitability](https://www.xerpium.com/artikel/2026-09-26-software-en): Discover how Xerpium ERP helps software houses manage Scrum, Waterfall, and hybrid projects with backlog, sprint, budget, team allocation, and technology stack modules.
-- [Mengoptimalkan Industri Sawit dari Kebun hingga Ekspor dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-26-sawit-id): Optimalkan pengelolaan industri sawit dari kebun, panen TBS, pabrik CPO, QC lab, keuangan, hingga ekspor dengan Xerpium ERP. Modul terintegrasi untuk OER, KER, biaya per kg, dan pelaporan.
-- [Palm Oil Industry ERP: Managing Plantation, Mill, and Trade Operations with Xerpium](https://www.xerpium.com/artikel/2026-09-26-sawit-en): Palm oil operations run across a long and tightly connected chain: plantation blocks and afdeling, harvest and TBS transport, CPO mill processing, quality contr
-- [ERP untuk Pengembang Kota Satelit: Kelola Project, Kavling, PPJB, dan IPL dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-satellite-id): Kelola project township, kavling, PPJB, infrastruktur, dan IPL secara terintegrasi dengan Xerpium ERP untuk pengembang kota satelit.
-- [Satellite City Developer ERP: Managing Townships, Kavling Sales, Infrastructure, and IPL in One System](https://www.xerpium.com/artikel/2026-09-26-satellite-en): Learn how Xerpium ERP helps satellite city developers manage kavling sales, PPJB agreements, infrastructure milestones, handover, and IPL billing in one integrated system.
-- [Optimalkan Retail Multi-Outlet dengan Xerpium ERP: POS, Marketplace, dan Akuntansi dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-26-retail-id): Kelola POS multi-outlet, Shopee, Tokopedia, GoFood, inventori, dan akuntansi retail dalam satu platform. Pelajari solusi Xerpium ERP untuk bisnis retail.
-- [Retail ERP: Unify POS, Marketplace Channels, and Inventory with Xerpium](https://www.xerpium.com/artikel/2026-09-26-retail-en): Learn how Xerpium ERP unifies retail POS, Shopee, Tokopedia, GoFood, inventory, accounting, and AI reporting in one enterprise platform.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
