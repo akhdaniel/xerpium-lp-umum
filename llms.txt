@@ -7,7 +7,7 @@
 - [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 4 artikel
 - [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 4 artikel
 - [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 4 artikel
-- [Penerbangan / Aviation](https://www.xerpium.com/aviation): 2 artikel
+- [Penerbangan / Aviation](https://www.xerpium.com/aviation): 4 artikel
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 2 artikel
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 2 artikel
 - [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Pemasaran Berbasis Data dengan Xerpium ERP: Optimalkan CRM, WhatsApp, dan AI](https://www.xerpium.com/artikel/2026-09-30-pemasaran-id): Optimalkan strategi pemasaran B2B dengan Xerpium ERP: CRM terpusat, integrasi WhatsApp, loyalty & promosi, serta AI untuk analisis pasar berbasis data.
+- [Solutions for Marketing with Xerpium ERP: From Scattered Leads to Data-Driven Campaigns](https://www.xerpium.com/artikel/2026-09-30-pemasaran-en): Learn how Xerpium ERP helps B2B marketing teams unify customer data, manage promotions, automate WhatsApp follow-up, and use AI for market analysis.
+- [Optimalkan HR & Penggajian Multi-Company dengan Xerpium ERP: Solusi Terpadu Berbasis AI](https://www.xerpium.com/artikel/2026-09-30-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu ERP terpadu. Kenali modul HR & Penggajian Xerpium yang mendukung multi-company, multi-currency, audit trail, dashboard real-time, dan AI Assistant.
+- [HR & Payroll in Xerpium ERP: A Unified Foundation for Workforce Operations](https://www.xerpium.com/artikel/2026-09-30-base-hr-payroll-en): Explore how Xerpium ERP unifies employee, attendance, leave, payroll, and reimbursement in one integrated HR & Payroll module with multi-company, multi-currency, audit trail, and real-time dashboards.
+- [ERP Penerbangan Xerpium: Solusi Terintegrasi untuk Operasional Maskapai, Awak, Kargo, dan MRO](https://www.xerpium.com/artikel/2026-09-30-aviation-id): ERP penerbangan Xerpium mengelola rute, armada, awak, tiket, kargo, dan MRO secara terintegrasi. Pelajari modul, manfaat, dan contoh alurnya di sini.
+- [Aviation ERP: How Xerpium Connects Airline, MRO, Cargo, and Crew Operations](https://www.xerpium.com/artikel/2026-09-30-aviation-en): Aviation ERP from Xerpium unifies fleet, crew, MRO, cargo, and accounting with AI tools for airline operational control.
 - [Solusi Penjualan Modern dengan Xerpium ERP: Kelola CRM, POS, dan Analisis AI dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-29-penjualan-id): Optimalkan proses penjualan bisnis Anda dengan Xerpium ERP: kelola Sales & CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terintegrasi.
 - [Sales Solutions with Xerpium ERP: Unify CRM, POS, and AI-Driven Sales Analysis](https://www.xerpium.com/artikel/2026-09-29-penjualan-en): Discover how Xerpium ERP sales solutions unify CRM, POS, marketplace integration, inventory, and AI-driven sales analysis for a smoother order-to-delivery process.
 - [Akuntansi & Keuangan ERP: Kendalikan Jurnal, Pajak, dan Laporan Real-Time dengan Xerpium](https://www.xerpium.com/artikel/2026-09-29-base-accounting-id): Kelola chart of accounts, jurnal, pajak, dan laporan keuangan secara real-time dengan modul Akuntansi & Keuangan Xerpium ERP. Terintegrasi AI Assistant, multi-company, multi-currency, dan audit trail.
@@ -78,12 +84,6 @@
 - [Xerpium for SMBs: A Unified ERP with Built-in AI Assistant for Growing Teams](https://www.xerpium.com/artikel/2026-09-26-umkm-en): Small and medium-sized businesses often run sales, stock, and finance in separate applications. Those fragmented tools create extra manual work, make data incon
 - [ERP Travel Haji & Umroh: Kelola Jamaah, Kuota, dan Keberangkatan Lebih Presisi dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-travel-id): Optimalkan operasional travel haji umroh dengan Xerpium ERP: kelola jamaah, dokumen, kuota, pembayaran, perlengkapan, dan laporan dalam satu sistem terintegrasi.
 - [Travel, Hajj & Umrah ERP: End-to-End Operational Control with Xerpium](https://www.xerpium.com/artikel/2026-09-26-travel-en): Discover how Xerpium ERP helps Hajj, Umrah, and travel operators manage packages, pilgrim documents, departures, payments, procurement, and reporting in one integrated system.
-- [Optimalkan Operasional Taman Hiburan & Rekreasi dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-26-theme_park_recreation-id): Optimalkan operasional taman hiburan dan rekreasi dengan ERP terpadu untuk tiket, F&B, retail, pemeliharaan wahana, dan akuntansi. Kenali Xerpium ERP.
-- [Theme Park & Recreation ERP: Unify Ticketing, F&B, and Maintenance with Xerpium](https://www.xerpium.com/artikel/2026-09-26-theme_park_recreation-en): Learn how Xerpium ERP helps theme parks and recreation venues unify ticketing, F&B, retail, ride maintenance, accounting, and AI reporting in one platform.
-- [Xerpium ERP untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-09-26-startup-id): Xerpium ERP untuk startup: mulai dari modul inti Accounting, Sales, Inventory, HR, AI Assistant, SaaS mulai Rp150.000/user/bulan, tanpa migrasi ulang.
-- [Xerpium ERP for Startups: A Flexible ERP Foundation That Scales With You](https://www.xerpium.com/artikel/2026-09-26-startup-en): Learn how Xerpium ERP helps startups scale from core modules to custom workflows without changing systems, with AI assistant and predictable SaaS pricing.
-- [ERP untuk Software House: Kelola Proyek Agile, Waterfall, dan Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-software-id): Kelola proyek software house dengan Xerpium ERP: Scrum, Waterfall, Kanban, budget, alokasi tim, dan technology stack dalam satu platform terintegrasi.
-- [Software House Project Management with Xerpium ERP: From Sprint Planning to Profitability](https://www.xerpium.com/artikel/2026-09-26-software-en): Discover how Xerpium ERP helps software houses manage Scrum, Waterfall, and hybrid projects with backlog, sprint, budget, team allocation, and technology stack modules.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
