@@ -8,7 +8,7 @@
 - [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 4 artikel
 - [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 4 artikel
 - [Penerbangan / Aviation](https://www.xerpium.com/aviation): 4 artikel
-- [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 2 artikel
+- [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 4 artikel
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 2 artikel
 - [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 2 artikel
 - [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi ERP Manufaktur Xerpium: Kendalikan Produksi, Kualitas, dan Biaya dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-01-manufaktur-id): Temukan solusi ERP manufaktur Xerpium untuk perencanaan produksi, kontrol kualitas, pelacakan limbah, serta integrasi stok dan pembelian dalam satu platform.
+- [Manufacturing ERP Solutions: How Xerpium Connects Production, Quality, and Inventory](https://www.xerpium.com/artikel/2026-10-01-manufaktur-en): Discover how Xerpium ERP supports manufacturing with MRP, work orders, quality control, waste tracking, and automatic inventory and purchasing connections.
+- [ERP Klinik Kecantikan Xerpium: Atur Pasien, Treatment, dan Komisi Dokter dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-01-beauty_clinic-id): ERP klinik kecantikan Xerpium mengelola pasien, treatment, appointment, membership, resep, konsumsi produk, dan komisi dokter dalam satu sistem terintegrasi.
+- [Managing Beauty Clinic Operations with Xerpium ERP: From Patient Records to Doctor Commissions](https://www.xerpium.com/artikel/2026-10-01-beauty_clinic-en): Discover how Xerpium ERP helps beauty clinics manage patients, appointments, membership packages, prescriptions, inventory, and doctor commissions in one integrated system.
+- [Manufaktur (MRP) dengan Xerpium ERP: Kendalikan BOM, Routing, dan Biaya Produksi Secara Real-Time](https://www.xerpium.com/artikel/2026-10-01-base-manufacturing-id): Optimalkan proses manufaktur Anda dengan modul MRP Xerpium ERP: BOM, routing, work order, dan perhitungan biaya produksi terintegrasi, real-time, dan didukung AI Assistant.
+- [Streamlining Manufacturing Operations with Xerpium ERP’s Manufacturing (MRP) Module](https://www.xerpium.com/artikel/2026-10-01-base-manufacturing-en): Discover how Xerpium ERP’s Manufacturing (MRP) module unifies BOM, routing, work orders, and production cost calculation with real-time dashboards and AI assistance.
 - [Solusi Pemasaran Berbasis Data dengan Xerpium ERP: Optimalkan CRM, WhatsApp, dan AI](https://www.xerpium.com/artikel/2026-09-30-pemasaran-id): Optimalkan strategi pemasaran B2B dengan Xerpium ERP: CRM terpusat, integrasi WhatsApp, loyalty & promosi, serta AI untuk analisis pasar berbasis data.
 - [Solutions for Marketing with Xerpium ERP: From Scattered Leads to Data-Driven Campaigns](https://www.xerpium.com/artikel/2026-09-30-pemasaran-en): Learn how Xerpium ERP helps B2B marketing teams unify customer data, manage promotions, automate WhatsApp follow-up, and use AI for market analysis.
 - [Optimalkan HR & Penggajian Multi-Company dengan Xerpium ERP: Solusi Terpadu Berbasis AI](https://www.xerpium.com/artikel/2026-09-30-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu ERP terpadu. Kenali modul HR & Penggajian Xerpium yang mendukung multi-company, multi-currency, audit trail, dashboard real-time, dan AI Assistant.
@@ -78,12 +84,6 @@
 - [Purchase & Procurement with Xerpium ERP: From PR and RFQ to 3-Way Matching](https://www.xerpium.com/artikel/2026-09-27-base-purchase-en): Learn how Xerpium ERP unifies PR, RFQ, PO, vendor management, and 3-way matching in a multi-company, multi-currency procurement system with real-time dashboards and AI Assistant.
 - [ERP Pertanian Xerpium: Solusi Terpadu untuk Agribisnis, Perkebunan, dan Operasional Harian](https://www.xerpium.com/artikel/2026-09-27-agriculture-id): ERP pertanian Xerpium: COA 6 digit SAK pertanian, dashboard panen, laporan keuangan, dan manajemen operasional untuk agribisnis.
 - [Agriculture ERP: How Xerpium Streamlines Harvest Accounting, Biological Assets, and Farm Operations](https://www.xerpium.com/artikel/2026-09-27-agriculture-en): Learn how Xerpium agriculture ERP streamlines harvest accounting, biological assets, input costs, and farm operations for Indonesian agribusinesses.
-- [Manajemen Universitas Terintegrasi dengan Xerpium ERP: Solusi Lengkap untuk Akademik, Keuangan, dan Operasional](https://www.xerpium.com/artikel/2026-09-26-university-id): Kelola manajemen universitas secara terintegrasi dengan Xerpium ERP, dari KRS, nilai, jadwal, ruangan, hingga SPP dan laporan keuangan dalam satu platform.
-- [University Management with Xerpium ERP: From Academic Records to Tuition Automation](https://www.xerpium.com/artikel/2026-09-26-university-en): Discover how Xerpium ERP streamlines university management with academic records, KRS, tuition invoicing, room scheduling, and AI dashboards.
-- [Xerpium ERP untuk UMKM: Satu Platform Terpadu untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-09-26-umkm-id): Xerpium ERP untuk UMKM: satu platform terpadu untuk Sales, CRM, Purchasing, Inventory, dan Accounting mulai Rp150.000/user/bulan dengan AI Assistant.
-- [Xerpium for SMBs: A Unified ERP with Built-in AI Assistant for Growing Teams](https://www.xerpium.com/artikel/2026-09-26-umkm-en): Small and medium-sized businesses often run sales, stock, and finance in separate applications. Those fragmented tools create extra manual work, make data incon
-- [ERP Travel Haji & Umroh: Kelola Jamaah, Kuota, dan Keberangkatan Lebih Presisi dengan Xerpium](https://www.xerpium.com/artikel/2026-09-26-travel-id): Optimalkan operasional travel haji umroh dengan Xerpium ERP: kelola jamaah, dokumen, kuota, pembayaran, perlengkapan, dan laporan dalam satu sistem terintegrasi.
-- [Travel, Hajj & Umrah ERP: End-to-End Operational Control with Xerpium](https://www.xerpium.com/artikel/2026-09-26-travel-en): Discover how Xerpium ERP helps Hajj, Umrah, and travel operators manage packages, pilgrim documents, departures, payments, procurement, and reporting in one integrated system.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
