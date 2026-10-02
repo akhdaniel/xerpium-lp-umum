@@ -10,7 +10,7 @@
 - [Penerbangan / Aviation](https://www.xerpium.com/aviation): 4 artikel
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 4 artikel
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 4 artikel
-- [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 2 artikel
+- [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 4 artikel
 - [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal): 2 artikel
 - [Data Center & Sistem IT / Data Center & IT System](https://www.xerpium.com/data_center_it): 2 artikel
 - [Distribusi / Distribution](https://www.xerpium.com/distribution): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi HR Modern dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-03-hr-id): Solusi HR modern dengan Xerpium ERP: kelola data SDM, payroll BPJS & PPh21, absensi, ESS mobile, dan AI recruitment dalam satu platform terintegrasi akuntansi.
+- [Streamline HR Operations with Xerpium ERP: Payroll, Employee Self-Service, and AI Recruitment](https://www.xerpium.com/artikel/2026-10-03-hr-en): Discover how Xerpium ERP unifies HR & payroll, ESS mobile self-service, and AI recruitment with direct accounting integration for accurate, efficient workforce management.
+- [Kendalikan Proyek Konstruksi Sipil dari Anggaran hingga Serah Terima dengan ERP Xerpium](https://www.xerpium.com/artikel/2026-10-03-civil_construction-id): ERP konstruksi sipil Xerpium membantu kontrol struktur proyek, budget crossovered, material per task, work acceptance, dan laporan keuangan konstruksi dalam satu platform.
+- [Civil Construction ERP: How Xerpium Connects WBS Budgets, BOQ Procurement, and Work Acceptance](https://www.xerpium.com/artikel/2026-10-03-civil_construction-en): Learn how Xerpium ERP connects civil construction project hierarchy, WBS budgets, BOQ procurement, task materials, work acceptance, and financial KPI reporting.
+- [Optimalkan Website & eCommerce B2B dengan ERP Xerpium: Katalog Online, Checkout Terintegrasi, dan Kontrol Real-Time](https://www.xerpium.com/artikel/2026-10-03-base-website-ecommerce-id): Optimalkan website & eCommerce B2B dengan Xerpium ERP. Katalog online, checkout terintegrasi, multi-company, multi-currency, dan laporan real-time.
+- [Unified Website & eCommerce ERP: Streamline B2B Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-03-base-website-ecommerce-en): Learn how Xerpium’s Website & eCommerce ERP module unifies online catalogs, checkout, multi-company operations, and real-time reporting.
 - [Solusi ERP Keuangan untuk Perusahaan Indonesia: Kelola Accounting, Rekonsiliasi, dan Laporan dengan Xerpium](https://www.xerpium.com/artikel/2026-10-02-keuangan-id): Solusi ERP keuangan dari Xerpium membantu perusahaan Indonesia mengelola akuntansi, AI reconciliation, dan laporan keuangan cepat secara terintegrasi.
 - [Finance Solutions with Xerpium ERP: Audit-Ready Reporting and AI-Powered Reconciliation](https://www.xerpium.com/artikel/2026-10-02-keuangan-en): Discover how Xerpium ERP finance solutions help B2B teams accelerate closing, automate reconciliation with AI, and produce audit-ready financial reports.
 - [Manajemen Gedung Lebih Terkendali dengan Xerpium ERP: Solusi Terpadu untuk Properti Modern](https://www.xerpium.com/artikel/2026-10-02-building_management-id): Kelola properti, unit, IPL, maintenance, keamanan, hingga kebersihan gedung dalam satu ERP terintegrasi bersama Xerpium.
@@ -78,12 +84,6 @@
 - [Accounting & Finance ERP: Smarter Financial Control with Xerpium](https://www.xerpium.com/artikel/2026-09-29-base-accounting-en): Discover how Xerpium ERP Accounting & Finance supports chart of accounts, journals, tax, multi-company, multi-currency, audit trail, and real-time reporting.
 - [ERP untuk Kantor Audit & Konsultan Pajak: Kelola Engagement, Working Paper, dan Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-09-29-auditor-id): Optimalkan operasional kantor audit dan konsultan pajak dengan Xerpium ERP untuk engagement, working paper, timesheet, billing, dan kepatuhan regulasi dalam satu sistem terintegrasi.
 - [Audit and Tax Consultant ERP: How Xerpium Streamlines Engagements, Working Papers, and Compliance](https://www.xerpium.com/artikel/2026-09-29-auditor-en): Xerpium ERP helps auditors and tax consultants manage engagements, working papers, time tracking, billing, compliance, and reporting in one integrated platform.
-- [Xerpium untuk Large Enterprise: ERP Skala Besar yang Tetap Ringan dan Cepat](https://www.xerpium.com/artikel/2026-09-28-enterprise-id): Xerpium ERP untuk large enterprise: satu platform lengkap, 34+ vertical markets, on premise, dan kustomisasi untuk operasional berskala besar.
-- [Xerpium ERP for Large Enterprise: Full-Suite Control Without the Heavy Wait](https://www.xerpium.com/artikel/2026-09-28-enterprise-en): Xerpium ERP for large enterprise combines full-suite modules, 34+ vertical workflows, on-premise customization, and high-volume performance. Learn how it supports complex operations.
-- [Optimalkan Inventori & Gudang Multi-Warehouse dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-09-28-base-inventory-id): Kelola inventori & gudang multi-warehouse lebih efisien dengan Xerpium ERP. Dukung lot/serial, putaway, replenishment, audit trail, dan laporan real-time.
-- [Inventory & Warehouse Management with Xerpium ERP: Multi-Warehouse Control, Lot/Serial Tracking, and Real-Time Visibility](https://www.xerpium.com/artikel/2026-09-28-base-inventory-en): Learn how Xerpium ERP Inventory & Warehouse supports multi-warehouse, lot/serial tracking, putaway, replenishment, real-time reporting, and AI-assisted inventory control.
-- [Optimalkan Bisnis Pakan Ternak dengan Xerpium ERP: Kendali Formulasi, QC, dan Distribusi dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-28-animal_feed-id): Kelola bisnis pakan ternak dari formulasi ransum, QC, produksi, hingga piutang distributor dengan Xerpium ERP. Pelajari modul dan fiturnya di sini.
-- [Animal Feed ERP: How Xerpium Streamlines Feed Mill Operations from Procurement to Distribution](https://www.xerpium.com/artikel/2026-09-28-animal_feed-en): Learn how Xerpium ERP helps animal feed manufacturers manage raw material QC, feed formulation, production costing, distribution, and financial reporting in one integrated system.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
