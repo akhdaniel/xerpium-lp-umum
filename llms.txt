@@ -11,7 +11,7 @@
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 4 artikel
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 4 artikel
 - [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 4 artikel
-- [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal): 2 artikel
+- [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal): 4 artikel
 - [Data Center & Sistem IT / Data Center & IT System](https://www.xerpium.com/data_center_it): 2 artikel
 - [Distribusi / Distribution](https://www.xerpium.com/distribution): 2 artikel
 - [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://www.xerpium.com/education): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Xerpium untuk Startup: ERP SaaS Fleksibel agar Bisnis Naik Kelas Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-10-04-startup-id): Xerpium untuk startup: ERP SaaS fleksibel dengan modul Accounting, Sales, Inventory, HR, dan AI Assistant. Mulai dari Rp150.000/user/bulan, tanpa ganti sistem.
+- [Xerpium ERP for Startups: Start with Core Modules and Scale Without Replatforming](https://www.xerpium.com/artikel/2026-10-04-startup-en): Learn how Xerpium ERP helps startups start with core accounting, sales, inventory, and HR modules, use AI assistance, and scale without changing systems.
+- [Optimasi Operasional Tambang Batubara dengan Xerpium ERP: Dari Blok, Produksi, hingga Laporan ESDM](https://www.xerpium.com/artikel/2026-10-04-coal-id): Industri tambang batubara memiliki rantai operasional yang panjang dan saling terhubung: site, blok, lapisan batubara, produksi harian, stockpile, kualitas, pen
+- [Coal Mining ERP: How Xerpium Connects Mine Site, Production, Quality, and Compliance](https://www.xerpium.com/artikel/2026-10-04-coal-en): Learn how Xerpium coal mining ERP connects mine site, production, stockpile quality, lab results, HSE, royalty, export, and ESDM reporting in one system.
+- [Asisten AI Xerpium ERP: Otomasi Proses, Insight, dan Copilot Bisnis dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-04-base-ai-assistant-id): Asisten AI Xerpium ERP menghadirkan otomasi proses, insight real-time, dan copilot bisnis dalam satu platform yang mendukung multi-company, multi-currency, dan audit trail.
+- [AI Assistant in Xerpium ERP: The Business Copilot for Smarter, Faster Operations](https://www.xerpium.com/artikel/2026-10-04-base-ai-assistant-en): Learn how the AI Assistant in Xerpium ERP enables process automation, real-time insight, and a unified business copilot for multi-company B2B operations.
 - [Solusi HR Modern dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-03-hr-id): Solusi HR modern dengan Xerpium ERP: kelola data SDM, payroll BPJS & PPh21, absensi, ESS mobile, dan AI recruitment dalam satu platform terintegrasi akuntansi.
 - [Streamline HR Operations with Xerpium ERP: Payroll, Employee Self-Service, and AI Recruitment](https://www.xerpium.com/artikel/2026-10-03-hr-en): Discover how Xerpium ERP unifies HR & payroll, ESS mobile self-service, and AI recruitment with direct accounting integration for accurate, efficient workforce management.
 - [Kendalikan Proyek Konstruksi Sipil dari Anggaran hingga Serah Terima dengan ERP Xerpium](https://www.xerpium.com/artikel/2026-10-03-civil_construction-id): ERP konstruksi sipil Xerpium membantu kontrol struktur proyek, budget crossovered, material per task, work acceptance, dan laporan keuangan konstruksi dalam satu platform.
@@ -78,12 +84,6 @@
 - [HR & Payroll in Xerpium ERP: A Unified Foundation for Workforce Operations](https://www.xerpium.com/artikel/2026-09-30-base-hr-payroll-en): Explore how Xerpium ERP unifies employee, attendance, leave, payroll, and reimbursement in one integrated HR & Payroll module with multi-company, multi-currency, audit trail, and real-time dashboards.
 - [ERP Penerbangan Xerpium: Solusi Terintegrasi untuk Operasional Maskapai, Awak, Kargo, dan MRO](https://www.xerpium.com/artikel/2026-09-30-aviation-id): ERP penerbangan Xerpium mengelola rute, armada, awak, tiket, kargo, dan MRO secara terintegrasi. Pelajari modul, manfaat, dan contoh alurnya di sini.
 - [Aviation ERP: How Xerpium Connects Airline, MRO, Cargo, and Crew Operations](https://www.xerpium.com/artikel/2026-09-30-aviation-en): Aviation ERP from Xerpium unifies fleet, crew, MRO, cargo, and accounting with AI tools for airline operational control.
-- [Solusi Penjualan Modern dengan Xerpium ERP: Kelola CRM, POS, dan Analisis AI dalam Satu Platform](https://www.xerpium.com/artikel/2026-09-29-penjualan-id): Optimalkan proses penjualan bisnis Anda dengan Xerpium ERP: kelola Sales & CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terintegrasi.
-- [Sales Solutions with Xerpium ERP: Unify CRM, POS, and AI-Driven Sales Analysis](https://www.xerpium.com/artikel/2026-09-29-penjualan-en): Discover how Xerpium ERP sales solutions unify CRM, POS, marketplace integration, inventory, and AI-driven sales analysis for a smoother order-to-delivery process.
-- [Akuntansi & Keuangan ERP: Kendalikan Jurnal, Pajak, dan Laporan Real-Time dengan Xerpium](https://www.xerpium.com/artikel/2026-09-29-base-accounting-id): Kelola chart of accounts, jurnal, pajak, dan laporan keuangan secara real-time dengan modul Akuntansi & Keuangan Xerpium ERP. Terintegrasi AI Assistant, multi-company, multi-currency, dan audit trail.
-- [Accounting & Finance ERP: Smarter Financial Control with Xerpium](https://www.xerpium.com/artikel/2026-09-29-base-accounting-en): Discover how Xerpium ERP Accounting & Finance supports chart of accounts, journals, tax, multi-company, multi-currency, audit trail, and real-time reporting.
-- [ERP untuk Kantor Audit & Konsultan Pajak: Kelola Engagement, Working Paper, dan Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-09-29-auditor-id): Optimalkan operasional kantor audit dan konsultan pajak dengan Xerpium ERP untuk engagement, working paper, timesheet, billing, dan kepatuhan regulasi dalam satu sistem terintegrasi.
-- [Audit and Tax Consultant ERP: How Xerpium Streamlines Engagements, Working Papers, and Compliance](https://www.xerpium.com/artikel/2026-09-29-auditor-en): Xerpium ERP helps auditors and tax consultants manage engagements, working papers, time tracking, billing, compliance, and reporting in one integrated platform.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
