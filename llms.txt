@@ -12,7 +12,7 @@
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 4 artikel
 - [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 4 artikel
 - [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal): 4 artikel
-- [Data Center & Sistem IT / Data Center & IT System](https://www.xerpium.com/data_center_it): 2 artikel
+- [Data Center & Sistem IT / Data Center & IT System](https://www.xerpium.com/data_center_it): 4 artikel
 - [Distribusi / Distribution](https://www.xerpium.com/distribution): 2 artikel
 - [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://www.xerpium.com/education): 2 artikel
 - [Manufaktur Elektronik OEM / Electronic OEM Manufacturing](https://www.xerpium.com/electronic_oem): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Xerpium ERP untuk UMKM: Satu Platform Terjangkau untuk Sales, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-05-umkm-id): Xerpium ERP untuk UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform mulai Rp150.000/user/bulan. Kenali solusi ERP terjangkau untuk bisnis Anda.
+- [Xerpium for SMBs: One ERP for Sales, Inventory, and Accounting Without the Enterprise Price Tag](https://www.xerpium.com/artikel/2026-10-05-umkm-en): Discover how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting with affordable per-user pricing, fast onboarding, and built-in AI assistance.
+- [Optimalkan Operasional Data Center & Sistem IT dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-05-data_center_it-id): Optimalkan operasional data center dan layanan IT dengan Xerpium ERP: manajemen aset, kontrak SLA, incident, usage billing, akuntansi PPN 11%, dan dashboard KPI dalam satu platform terintegrasi.
+- [Data Center & IT System Management with Xerpium ERP: A Unified Financial and Operational Platform](https://www.xerpium.com/artikel/2026-10-05-data_center_it-en): Manage data center assets, SLAs, capacity, usage billing, and Indonesian financial reporting with Xerpium ERP for IT service providers.
+- [Pelaporan & Dashboard ERP: KPI Real-Time dan Analitik Lintas Modul bersama Xerpium](https://www.xerpium.com/artikel/2026-10-05-base-reporting-dashboard-id): Pelajari cara modul Pelaporan & Dashboard Xerpium ERP menghadirkan KPI real-time, laporan custom, dan analitik lintas modul dengan dukungan multi-company, multi-currency, serta audit trail.
+- [Real-Time Reporting & Dashboard with Xerpium ERP: Turning Enterprise Data into Decision-Ready Insight](https://www.xerpium.com/artikel/2026-10-05-base-reporting-dashboard-en): Learn how Xerpium ERP’s Reporting & Dashboard module delivers real-time KPIs, custom reports, cross-module analytics, multi-company support, and AI-powered insight for B2B teams.
 - [Xerpium untuk Startup: ERP SaaS Fleksibel agar Bisnis Naik Kelas Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-10-04-startup-id): Xerpium untuk startup: ERP SaaS fleksibel dengan modul Accounting, Sales, Inventory, HR, dan AI Assistant. Mulai dari Rp150.000/user/bulan, tanpa ganti sistem.
 - [Xerpium ERP for Startups: Start with Core Modules and Scale Without Replatforming](https://www.xerpium.com/artikel/2026-10-04-startup-en): Learn how Xerpium ERP helps startups start with core accounting, sales, inventory, and HR modules, use AI assistance, and scale without changing systems.
 - [Optimasi Operasional Tambang Batubara dengan Xerpium ERP: Dari Blok, Produksi, hingga Laporan ESDM](https://www.xerpium.com/artikel/2026-10-04-coal-id): Industri tambang batubara memiliki rantai operasional yang panjang dan saling terhubung: site, blok, lapisan batubara, produksi harian, stockpile, kualitas, pen
@@ -78,12 +84,6 @@
 - [Managing Beauty Clinic Operations with Xerpium ERP: From Patient Records to Doctor Commissions](https://www.xerpium.com/artikel/2026-10-01-beauty_clinic-en): Discover how Xerpium ERP helps beauty clinics manage patients, appointments, membership packages, prescriptions, inventory, and doctor commissions in one integrated system.
 - [Manufaktur (MRP) dengan Xerpium ERP: Kendalikan BOM, Routing, dan Biaya Produksi Secara Real-Time](https://www.xerpium.com/artikel/2026-10-01-base-manufacturing-id): Optimalkan proses manufaktur Anda dengan modul MRP Xerpium ERP: BOM, routing, work order, dan perhitungan biaya produksi terintegrasi, real-time, dan didukung AI Assistant.
 - [Streamlining Manufacturing Operations with Xerpium ERP’s Manufacturing (MRP) Module](https://www.xerpium.com/artikel/2026-10-01-base-manufacturing-en): Discover how Xerpium ERP’s Manufacturing (MRP) module unifies BOM, routing, work orders, and production cost calculation with real-time dashboards and AI assistance.
-- [Solusi Pemasaran Berbasis Data dengan Xerpium ERP: Optimalkan CRM, WhatsApp, dan AI](https://www.xerpium.com/artikel/2026-09-30-pemasaran-id): Optimalkan strategi pemasaran B2B dengan Xerpium ERP: CRM terpusat, integrasi WhatsApp, loyalty & promosi, serta AI untuk analisis pasar berbasis data.
-- [Solutions for Marketing with Xerpium ERP: From Scattered Leads to Data-Driven Campaigns](https://www.xerpium.com/artikel/2026-09-30-pemasaran-en): Learn how Xerpium ERP helps B2B marketing teams unify customer data, manage promotions, automate WhatsApp follow-up, and use AI for market analysis.
-- [Optimalkan HR & Penggajian Multi-Company dengan Xerpium ERP: Solusi Terpadu Berbasis AI](https://www.xerpium.com/artikel/2026-09-30-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu ERP terpadu. Kenali modul HR & Penggajian Xerpium yang mendukung multi-company, multi-currency, audit trail, dashboard real-time, dan AI Assistant.
-- [HR & Payroll in Xerpium ERP: A Unified Foundation for Workforce Operations](https://www.xerpium.com/artikel/2026-09-30-base-hr-payroll-en): Explore how Xerpium ERP unifies employee, attendance, leave, payroll, and reimbursement in one integrated HR & Payroll module with multi-company, multi-currency, audit trail, and real-time dashboards.
-- [ERP Penerbangan Xerpium: Solusi Terintegrasi untuk Operasional Maskapai, Awak, Kargo, dan MRO](https://www.xerpium.com/artikel/2026-09-30-aviation-id): ERP penerbangan Xerpium mengelola rute, armada, awak, tiket, kargo, dan MRO secara terintegrasi. Pelajari modul, manfaat, dan contoh alurnya di sini.
-- [Aviation ERP: How Xerpium Connects Airline, MRO, Cargo, and Crew Operations](https://www.xerpium.com/artikel/2026-09-30-aviation-en): Aviation ERP from Xerpium unifies fleet, crew, MRO, cargo, and accounting with AI tools for airline operational control.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
