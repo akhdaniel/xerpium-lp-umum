@@ -1,0 +1,32 @@
+# Xerpium ERP Blog
+
+> Artikel harian Xerpium ERP per industri dan modul (Accounting, HR, MRP, CRM, Inventory, dst). Blog ini adalah knowledge hub resmi Xerpium untuk referensi AI dan search engine.
+
+## Situs Utama
+- [Xerpium ERP](https://www.xerpium.com): landing page & solusi per industri
+- [Sitemap](https://blog.xerpium.com/sitemap.xml)
+- [RSS](https://blog.xerpium.com/feeds/posts/default?alt=rss)
+
+## Artikel (21)
+
+- [Website & eCommerce ERP: Unify Online Sales and Back-Office Operations with Xerpium](https://blog.xerpium.com/2026/10/website-ecommerce-erp-unify-online.html)
+- [Sales & CRM in Xerpium ERP: One Integrated Path from Pipeline to Order-to-Cash](https://blog.xerpium.com/2026/10/sales-crm-in-xerpium-erp-one-integrated.html)
+- [ERP Reporting & Dashboard: Real-Time KPIs and Cross-Module Analytics with Xerpium](https://blog.xerpium.com/2026/10/erp-reporting-dashboard-real-time-kpis.html)
+- [Xerpium ERP untuk Large Enterprise: Satu Platform, 34+ Industri, dan Performa untuk Transaksi Besar](https://blog.xerpium.com/2026/10/xerpium-erp-untuk-large-enterprise-satu.html)
+- [Purchase & Procurement ERP: Streamlining PR, RFQ, PO, and 3-Way Matching with Xerpium](https://blog.xerpium.com/2026/10/purchase-procurement-erp-streamlining.html)
+- [Project Management with Xerpium ERP: Turning Tasks, Milestones, and Billing into a Single Source of Truth](https://blog.xerpium.com/2026/10/project-management-with-xerpium-erp.html)
+- [Manufacturing (MRP) with Xerpium ERP: A Smarter Way to Manage BOM, Routing, and Work Orders](https://blog.xerpium.com/2026/10/manufacturing-mrp-with-xerpium-erp.html)
+- [Xerpium ERP untuk UMKM: Satu Platform Terjangkau untuk Sales, Stok, dan Keuangan](https://blog.xerpium.com/2026/10/xerpium-erp-untuk-umkm-satu-platform.html)
+- [Inventory & Warehouse Management with Xerpium ERP: Control, Traceability, and Efficiency](https://blog.xerpium.com/2026/09/inventory-warehouse-management-with.html)
+- [HR & Payroll ERP: Unified Workforce Management with Xerpium](https://blog.xerpium.com/2026/09/hr-payroll-erp-unified-workforce.html)
+- [AI Assistant in ERP: How Xerpium Delivers Automation, Insight, and a Business Copilot](https://blog.xerpium.com/2026/09/ai-assistant-in-erp-how-xerpium.html)
+- [Xerpium untuk Startup: ERP SaaS Fleksibel agar Bisnis Naik Kelas Tanpa Ganti Sistem](https://blog.xerpium.com/2026/10/xerpium-untuk-startup-erp-saas.html)
+- [Accounting & Finance ERP: How Xerpium Strengthens Financial Control, Visibility, and Compliance](https://blog.xerpium.com/2026/10/accounting-finance-erp-how-xerpium.html)
+- [Aviation ERP: Unifying Airline, MRO, and Cargo Operations with Xerpium](https://blog.xerpium.com/2026/10/aviation-erp-unifying-airline-mro-and.html)
+- [How Audit & Tax Consultants Can Manage Engagements End-to-End with Xerpium ERP](https://blog.xerpium.com/2026/10/how-audit-tax-consultants-can-manage.html)
+- [Solusi HR Modern dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Platform](https://blog.xerpium.com/2026/10/solusi-hr-modern-dengan-xerpium-erp.html)
+- [Animal Feed ERP: Managing Feed Formulation, QC, and Distribution with Xerpium](https://blog.xerpium.com/2026/10/animal-feed-erp-managing-feed.html)
+- [Agriculture ERP for Plantations and Farms: Managing Harvests, Costs, and Compliance with Xerpium](https://blog.xerpium.com/2026/10/agriculture-erp-for-plantations-and.html)
+- [Aerospace Manufacturing ERP: How Xerpium Brings Configuration Control, Traceability, and Compliance to Every Serial Number](https://blog.xerpium.com/2026/10/aerospace-manufacturing-erp-how-xerpium.html)
+- [Manajemen Gedung Lebih Terkendali dengan Xerpium ERP: Solusi Terpadu untuk Properti Modern](https://blog.xerpium.com/2026/10/manajemen-gedung-lebih-terkendali.html)
+- [Solusi ERP Keuangan untuk Perusahaan Indonesia: Kelola Accounting, Rekonsiliasi, dan Laporan dengan Xerpium](https://blog.xerpium.com/2026/10/solusi-erp-keuangan-untuk-perusahaan_0378331118.html)
