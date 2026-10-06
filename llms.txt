@@ -14,7 +14,7 @@
 - [Tambang Batubara / Coal Mining](https://www.xerpium.com/coal): 4 artikel
 - [Data Center & Sistem IT / Data Center & IT System](https://www.xerpium.com/data_center_it): 4 artikel
 - [Distribusi / Distribution](https://www.xerpium.com/distribution): 4 artikel
-- [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://www.xerpium.com/education): 2 artikel
+- [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://www.xerpium.com/education): 4 artikel
 - [Manufaktur Elektronik OEM / Electronic OEM Manufacturing](https://www.xerpium.com/electronic_oem): 2 artikel
 - [Event Organizer / Event Organizer](https://www.xerpium.com/event): 2 artikel
 - [Perikanan / Fishery](https://www.xerpium.com/fishery): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Penjualan Terintegrasi Bersama Xerpium ERP: Dari Pipeline, POS, hingga Analisis AI](https://www.xerpium.com/artikel/2026-10-07-penjualan-id): Optimalkan penjualan bisnis Anda dengan Xerpium ERP: kelola pipeline, CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terintegrasi.
+- [Sales Solutions with Xerpium ERP: From Pipeline and POS to AI-Driven Growth](https://www.xerpium.com/artikel/2026-10-07-penjualan-en): Discover Xerpium ERP sales solutions—unified CRM, retail POS, marketplace integrations, inventory synergy, and AI-powered sales insights for smoother order-to-delivery.
+- [Optimalkan Operasional Sekolah & Vokasi dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-07-education-id): Optimalkan penerimaan siswa, penilaian rapor, presensi, jadwal, pembayaran SPP, hingga portal orang tua dengan Xerpium ERP untuk sekolah & vokasi.
+- [School and Vocational Education Management with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-07-education-en): Learn how Xerpium ERP streamlines school and vocational education management from PSB admissions, curriculum, and report cards to Xendit payments and parent portals.
+- [Optimalkan Pembelian & Pengadaan dengan Xerpium ERP: Kendali PR, RFQ, PO, dan Vendor dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-07-base-purchase-id): Optimalkan pembelian & pengadaan perusahaan dengan Xerpium ERP: kelola PR, RFQ, PO, vendor management, dan 3-way matching dalam satu platform terintegrasi.
+- [Purchase & Procurement ERP: How Xerpium Unifies PR, RFQ, PO, and 3-Way Matching](https://www.xerpium.com/artikel/2026-10-07-base-purchase-en): Learn how Xerpium ERP unifies purchase requisition, RFQ, PO, vendor management, and 3-way matching to improve procurement control and visibility.
 - [Xerpium ERP untuk Large Enterprise: Satu Platform, 34+ Industri, dan Performa untuk Transaksi Besar](https://www.xerpium.com/artikel/2026-10-06-enterprise-id): Xerpium ERP untuk large enterprise menghadirkan modul Accounting, Purchasing, Manufacturing, HR & Payroll, CRM, Project, custom apps, 34+ vertical markets, on premise, kustomisasi, dan performa transaksi besar.
 - [Xerpium ERP for Large Enterprise: A Full-Platform Approach to Complex Operations](https://www.xerpium.com/artikel/2026-10-06-enterprise-en): Learn how Xerpium ERP for large enterprise unifies accounting, purchasing, manufacturing, HR, payroll, CRM, and project operations with 34+ vertical solutions, on-premise flexibility, and high-volume performance.
 - [Mengelola Distribusi Multi-Wilayah dengan Xerpium ERP: Solusi End-to-End dari Zona hingga Manifest Pengiriman](https://www.xerpium.com/artikel/2026-10-06-distribution-id): Kelola distribusi multi-wilayah dengan Xerpium ERP, mulai dari region, area, zone, rute pengiriman, peramalan stok, hingga collection lapangan.
@@ -78,12 +84,6 @@
 - [Civil Construction ERP: How Xerpium Connects WBS Budgets, BOQ Procurement, and Work Acceptance](https://www.xerpium.com/artikel/2026-10-03-civil_construction-en): Learn how Xerpium ERP connects civil construction project hierarchy, WBS budgets, BOQ procurement, task materials, work acceptance, and financial KPI reporting.
 - [Optimalkan Website & eCommerce B2B dengan ERP Xerpium: Katalog Online, Checkout Terintegrasi, dan Kontrol Real-Time](https://www.xerpium.com/artikel/2026-10-03-base-website-ecommerce-id): Optimalkan website & eCommerce B2B dengan Xerpium ERP. Katalog online, checkout terintegrasi, multi-company, multi-currency, dan laporan real-time.
 - [Unified Website & eCommerce ERP: Streamline B2B Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-03-base-website-ecommerce-en): Learn how Xerpium’s Website & eCommerce ERP module unifies online catalogs, checkout, multi-company operations, and real-time reporting.
-- [Solusi ERP Keuangan untuk Perusahaan Indonesia: Kelola Accounting, Rekonsiliasi, dan Laporan dengan Xerpium](https://www.xerpium.com/artikel/2026-10-02-keuangan-id): Solusi ERP keuangan dari Xerpium membantu perusahaan Indonesia mengelola akuntansi, AI reconciliation, dan laporan keuangan cepat secara terintegrasi.
-- [Finance Solutions with Xerpium ERP: Audit-Ready Reporting and AI-Powered Reconciliation](https://www.xerpium.com/artikel/2026-10-02-keuangan-en): Discover how Xerpium ERP finance solutions help B2B teams accelerate closing, automate reconciliation with AI, and produce audit-ready financial reports.
-- [Manajemen Gedung Lebih Terkendali dengan Xerpium ERP: Solusi Terpadu untuk Properti Modern](https://www.xerpium.com/artikel/2026-10-02-building_management-id): Kelola properti, unit, IPL, maintenance, keamanan, hingga kebersihan gedung dalam satu ERP terintegrasi bersama Xerpium.
-- [Building Management with Xerpium ERP: End-to-End Property Operations for Apartments, Offices, and Mixed-Use Assets](https://www.xerpium.com/artikel/2026-10-02-building_management-en): Discover how Xerpium ERP streamlines building management for apartments, offices, and mixed-use properties with integrated IPL billing, maintenance, security, facility booking, and accounting.
-- [Manajemen Proyek ERP Bersama Xerpium: Kendalikan Task, Milestone, Timesheet, dan Progress Billing dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-02-base-project-id): Kelola task, milestone, timesheet, dan progress billing secara real-time dengan modul Manajemen Proyek Xerpium ERP untuk kontrol proyek yang lebih transparan dan akurat.
-- [Project Management ERP: Unify Tasks, Milestones, Timesheets, and Progress Billing with Xerpium](https://www.xerpium.com/artikel/2026-10-02-base-project-en): Discover how Xerpium ERP unifies project tasks, milestones, timesheets, and progress billing with real-time dashboards, multi-company audit trails, and AI Assistant.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
