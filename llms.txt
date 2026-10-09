@@ -17,7 +17,7 @@
 - [Pendidikan (Sekolah & Vokasi) / Education (Schools & Vocational)](https://www.xerpium.com/education): 4 artikel
 - [Manufaktur Elektronik OEM / Electronic OEM Manufacturing](https://www.xerpium.com/electronic_oem): 4 artikel
 - [Event Organizer / Event Organizer](https://www.xerpium.com/event): 4 artikel
-- [Perikanan / Fishery](https://www.xerpium.com/fishery): 2 artikel
+- [Perikanan / Fishery](https://www.xerpium.com/fishery): 4 artikel
 - [Makanan & Minuman (F&B) / Food & Beverage (F&B)](https://www.xerpium.com/food_beverage): 2 artikel
 - [Garmen / Garment](https://www.xerpium.com/garment): 2 artikel
 - [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Keuangan ERP Xerpium: Akuntansi Cepat, Rekonsiliasi AI, dan Laporan Siap Audit](https://www.xerpium.com/artikel/2026-10-10-keuangan-id): Solusi keuangan ERP Xerpium dengan akuntansi lengkap COA standar Indonesia, Turbo Report cepat, AI Reconciliation, dan integrasi modul untuk laporan keuangan siap audit.
+- [Finance ERP Solutions: How Xerpium Streamlines Accounting, Reporting, and Reconciliation](https://www.xerpium.com/artikel/2026-10-10-keuangan-en): Discover how Xerpium ERP streamlines finance with complete accounting, fast Turbo Reports, AI reconciliation, and automated journal integration across all modules.
+- [ERP Perikanan Xerpium: Kelola Trip, Grading, Cold Chain, dan Traceability dari Satu Platform](https://www.xerpium.com/artikel/2026-10-10-fishery-id): ERP perikanan Xerpium membantu kelola trip kapal, grading otomatis, cold chain, traceability lot, dan akuntansi perikanan dalam satu platform enterprise.
+- [Fishery ERP: End-to-End Control from Fishing Trip to Traceable Delivery with Xerpium](https://www.xerpium.com/artikel/2026-10-10-fishery-en): Learn how Xerpium ERP supports fishery operations with trip management, auto-grading, cold chain control, lot traceability, and profitability tracking.
+- [Kelola HR & Penggajian Terintegrasi dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-10-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu modul ERP terintegrasi. Xerpium HR & Penggajian mendukung multi-company, multi-currency, audit trail, laporan real-time, dan AI Assistant.
+- [HR & Payroll ERP: Streamlining Workforce Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-10-base-hr-payroll-en): Discover how Xerpium ERP’s HR & Payroll module unifies employee data, attendance, leave, payroll, and reimbursement with multi-company, multi-currency, and AI-powered support.
 - [Solusi ERP untuk Manufaktur: Kendalikan Produksi, QC, dan Limbah dengan Xerpium](https://www.xerpium.com/artikel/2026-10-09-manufaktur-id): Solusi ERP manufaktur Xerpium membantu mengelola BOM, work order, MRP, quality control, limbah, stok, dan pembelian dalam satu sistem terpadu.
 - [Streamlining Manufacturing Operations with Xerpium ERP: Solutions for Modern Production](https://www.xerpium.com/artikel/2026-10-09-manufaktur-en): Discover how Xerpium ERP supports manufacturing with MRP, quality control, waste tracking, and connected inventory for more efficient production.
 - [ERP untuk Event Organizer: Kelola Venue, Vendor, hingga Profitabilitas dengan Xerpium](https://www.xerpium.com/artikel/2026-10-09-event-id): ERP untuk event organizer dari Xerpium menyatukan manajemen venue, vendor, timeline, checklist, kontrak, expense, undangan QR, dan laporan profit per event dalam satu platform.
@@ -78,12 +84,6 @@
 - [Distribution ERP: How Xerpium Streamlines Territory Management, Delivery, and Field Sales](https://www.xerpium.com/artikel/2026-10-06-distribution-en): Learn how Xerpium ERP streamlines distribution with territory management, delivery manifests, field sales tracking, seasonal forecasting, and real-time collection.
 - [Optimalkan Penjualan & CRM B2B dengan Xerpium ERP: Dari Pipeline hingga Order to Cash dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-06-base-sales-crm-id): Tingkatkan efisiensi Penjualan & CRM B2B dengan Xerpium ERP. Pipeline, quotation, order to cash, dan CRM terintegrasi, multi-company, audit trail, dashboard real-time, dan AI Assistant.
 - [Xerpium ERP Sales & CRM: Unifying Pipeline, Quotation, and Order-to-Cash](https://www.xerpium.com/artikel/2026-10-06-base-sales-crm-en): Learn how Xerpium ERP Sales & CRM unifies pipeline, quotation, order-to-cash, and CRM with real-time dashboards and AI Assistant support.
-- [Xerpium ERP untuk UMKM: Satu Platform Terjangkau untuk Sales, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-05-umkm-id): Xerpium ERP untuk UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform mulai Rp150.000/user/bulan. Kenali solusi ERP terjangkau untuk bisnis Anda.
-- [Xerpium for SMBs: One ERP for Sales, Inventory, and Accounting Without the Enterprise Price Tag](https://www.xerpium.com/artikel/2026-10-05-umkm-en): Discover how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting with affordable per-user pricing, fast onboarding, and built-in AI assistance.
-- [Optimalkan Operasional Data Center & Sistem IT dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-05-data_center_it-id): Optimalkan operasional data center dan layanan IT dengan Xerpium ERP: manajemen aset, kontrak SLA, incident, usage billing, akuntansi PPN 11%, dan dashboard KPI dalam satu platform terintegrasi.
-- [Data Center & IT System Management with Xerpium ERP: A Unified Financial and Operational Platform](https://www.xerpium.com/artikel/2026-10-05-data_center_it-en): Manage data center assets, SLAs, capacity, usage billing, and Indonesian financial reporting with Xerpium ERP for IT service providers.
-- [Pelaporan & Dashboard ERP: KPI Real-Time dan Analitik Lintas Modul bersama Xerpium](https://www.xerpium.com/artikel/2026-10-05-base-reporting-dashboard-id): Pelajari cara modul Pelaporan & Dashboard Xerpium ERP menghadirkan KPI real-time, laporan custom, dan analitik lintas modul dengan dukungan multi-company, multi-currency, serta audit trail.
-- [Real-Time Reporting & Dashboard with Xerpium ERP: Turning Enterprise Data into Decision-Ready Insight](https://www.xerpium.com/artikel/2026-10-05-base-reporting-dashboard-en): Learn how Xerpium ERP’s Reporting & Dashboard module delivers real-time KPIs, custom reports, cross-module analytics, multi-company support, and AI-powered insight for B2B teams.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
