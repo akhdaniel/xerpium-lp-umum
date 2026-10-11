@@ -19,7 +19,7 @@
 - [Event Organizer / Event Organizer](https://www.xerpium.com/event): 4 artikel
 - [Perikanan / Fishery](https://www.xerpium.com/fishery): 4 artikel
 - [Makanan & Minuman (F&B) / Food & Beverage (F&B)](https://www.xerpium.com/food_beverage): 4 artikel
-- [Garmen / Garment](https://www.xerpium.com/garment): 2 artikel
+- [Garmen / Garment](https://www.xerpium.com/garment): 4 artikel
 - [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 2 artikel
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 2 artikel
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [ERP untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem bersama Xerpium](https://www.xerpium.com/artikel/2026-10-12-startup-id): Kenapa startup membutuhkan Xerpium ERP? Simak modul inti, AI Assistant, dan model SaaS scalable mulai Rp150.000/user/bulan untuk pertumbuhan tanpa ganti sistem.
+- [Xerpium ERP for Startups: A Flexible ERP to Start Small and Scale Without Changing Systems](https://www.xerpium.com/artikel/2026-10-12-startup-en): Learn how Xerpium ERP helps startups start with core modules, use AI-assisted reporting, and scale operations without changing systems.
+- [ERP Garmen Xerpium: Kendalikan BOM per Style, WIP, QC, dan Biaya Produksi dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-12-garment-id): Industri garmen memiliki karakteristik yang tidak bisa disamakan dengan manufaktur pada umumnya. Setiap style memiliki bill of material atau BOM multi-level—mul
+- [Garment Manufacturing with Xerpium ERP: Controlling BOM, Production, and Cost per Style](https://www.xerpium.com/artikel/2026-10-12-garment-en): Learn how Xerpium ERP helps garment manufacturers control BOM per style, cutting, sewing, WIP, quality, and cost per unit with garment-specific accounts and KPIs.
+- [Manajemen Proyek ERP: Kendalikan Task, Milestone, dan Progress Billing dengan Xerpium](https://www.xerpium.com/artikel/2026-10-12-base-project-id): Kelola task, milestone, timesheet, dan progress billing dalam satu ERP terintegrasi. Kenali solusi Manajemen Proyek Xerpium untuk visibilitas real-time.
+- [Project Management with Xerpium ERP: Turning Tasks, Milestones, and Progress Billing into a Single Source of Truth](https://www.xerpium.com/artikel/2026-10-12-base-project-en): Explore Xerpium ERP project management: unified tasks, milestones, timesheets, progress billing, multi-company support, audit trail, real-time reporting, and AI assistant.
 - [Solusi HR Terpadu dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-11-hr-id): Solusi HR dan payroll terpadu dengan Xerpium ERP: kelola SDM, BPJS & PPh21, absensi, ESS mobile, dan AI recruitment dalam satu sistem.
 - [HR Solutions with Xerpium ERP: Payroll, Employee Self-Service, and AI Recruitment](https://www.xerpium.com/artikel/2026-10-11-hr-en): HR solutions with Xerpium ERP: unified payroll with BPJS & PPh21, employee self-service, AI recruitment, and automatic accounting journal posting.
 - [Sistem ERP Makanan & Minuman: Kendalikan Restoran, Katering, dan Franchise dengan Xerpium](https://www.xerpium.com/artikel/2026-10-11-food_beverage-id): Bisnis makanan dan minuman memiliki kompleksitas yang jarang dimiliki industri lain: layanan harus cepat, resep harus konsisten, bahan baku harus segar dan aman
@@ -78,12 +84,6 @@
 - [Electronic OEM Manufacturing with Xerpium ERP: Control BOM, Export, KITE, and Shop Floor in One System](https://www.xerpium.com/artikel/2026-10-08-electronic_oem-en): Learn how Xerpium ERP helps electronic OEM manufacturers manage BOM versions, export compliance, KITE ratios, quality, and shop floor operations in one system.
 - [Kelola Inventori & Gudang Multi-Warehouse dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-08-base-inventory-id): Optimalkan pengelolaan inventori & gudang multi-warehouse dengan Xerpium ERP. Dukung lot/serial, putaway, replenishment, dashboard real-time, dan AI Assistant.
 - [Inventory & Warehouse Management with Xerpium ERP: Multi-Warehouse Control, Lot/Serial Tracking, and Real-Time Visibility](https://www.xerpium.com/artikel/2026-10-08-base-inventory-en): Learn how Xerpium ERP’s Inventory & Warehouse module supports multi-warehouse control, lot/serial tracking, putaway, replenishment, real-time reporting, and AI-assisted visibility for B2B operations.
-- [Solusi Penjualan Terintegrasi Bersama Xerpium ERP: Dari Pipeline, POS, hingga Analisis AI](https://www.xerpium.com/artikel/2026-10-07-penjualan-id): Optimalkan penjualan bisnis Anda dengan Xerpium ERP: kelola pipeline, CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terintegrasi.
-- [Sales Solutions with Xerpium ERP: From Pipeline and POS to AI-Driven Growth](https://www.xerpium.com/artikel/2026-10-07-penjualan-en): Discover Xerpium ERP sales solutions—unified CRM, retail POS, marketplace integrations, inventory synergy, and AI-powered sales insights for smoother order-to-delivery.
-- [Optimalkan Operasional Sekolah & Vokasi dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-07-education-id): Optimalkan penerimaan siswa, penilaian rapor, presensi, jadwal, pembayaran SPP, hingga portal orang tua dengan Xerpium ERP untuk sekolah & vokasi.
-- [School and Vocational Education Management with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-07-education-en): Learn how Xerpium ERP streamlines school and vocational education management from PSB admissions, curriculum, and report cards to Xendit payments and parent portals.
-- [Optimalkan Pembelian & Pengadaan dengan Xerpium ERP: Kendali PR, RFQ, PO, dan Vendor dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-07-base-purchase-id): Optimalkan pembelian & pengadaan perusahaan dengan Xerpium ERP: kelola PR, RFQ, PO, vendor management, dan 3-way matching dalam satu platform terintegrasi.
-- [Purchase & Procurement ERP: How Xerpium Unifies PR, RFQ, PO, and 3-Way Matching](https://www.xerpium.com/artikel/2026-10-07-base-purchase-en): Learn how Xerpium ERP unifies purchase requisition, RFQ, PO, vendor management, and 3-way matching to improve procurement control and visibility.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
