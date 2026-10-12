@@ -20,7 +20,7 @@
 - [Perikanan / Fishery](https://www.xerpium.com/fishery): 4 artikel
 - [Makanan & Minuman (F&B) / Food & Beverage (F&B)](https://www.xerpium.com/food_beverage): 4 artikel
 - [Garmen / Garment](https://www.xerpium.com/garment): 4 artikel
-- [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 2 artikel
+- [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 4 artikel
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 2 artikel
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 2 artikel
 - [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Xerpium ERP untuk UMKM: Solusi Satu Platform untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-13-umkm-id): Xerpium ERP untuk UMKM: satu platform terpadu untuk Sales, CRM, Purchasing, Inventory, dan Accounting dengan harga mulai Rp150.000/user/bulan serta AI Assistant.
+- [Xerpium ERP for SMBs: One Platform for Sales, CRM, Purchasing, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-13-umkm-en): Learn how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting in one platform with AI-assisted insights.
+- [ERP Generik: Fondasi Digital Terpadu untuk Semua Lini Bisnis dengan Xerpium](https://www.xerpium.com/artikel/2026-10-13-generic-id): Pelajari bagaimana ERP generik Xerpium menyatukan sales, inventory, accounting, HR, manufacturing, dan AI dalam satu platform untuk efisiensi bisnis Anda.
+- [Generic ERP Without the Gaps: How Xerpium Connects Sales, Inventory, Finance, HR, and Manufacturing](https://www.xerpium.com/artikel/2026-10-13-generic-en): Many B2B evaluation teams look for a generic ERP because they need one system that can handle multiple business functions. At the same time, they worry that “ge
+- [Mengelola Website & eCommerce B2B Lebih Efisien dengan Modul ERP Xerpium](https://www.xerpium.com/artikel/2026-10-13-base-website-ecommerce-id): Kelola website dan eCommerce B2B terintegrasi penuh dengan Xerpium ERP: website builder, katalog online, checkout, multi-company, multi-currency, audit trail, dan laporan real-time.
+- [Unify Your Website & eCommerce Operations with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-13-base-website-ecommerce-en): Learn how the Xerpium Website & eCommerce ERP module unifies your website builder, online catalog, integrated checkout, multi-company and multi-currency support, audit trail, real-time dashboards, and AI Assistant into one connected B2B platform.
 - [ERP untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem bersama Xerpium](https://www.xerpium.com/artikel/2026-10-12-startup-id): Kenapa startup membutuhkan Xerpium ERP? Simak modul inti, AI Assistant, dan model SaaS scalable mulai Rp150.000/user/bulan untuk pertumbuhan tanpa ganti sistem.
 - [Xerpium ERP for Startups: A Flexible ERP to Start Small and Scale Without Changing Systems](https://www.xerpium.com/artikel/2026-10-12-startup-en): Learn how Xerpium ERP helps startups start with core modules, use AI-assisted reporting, and scale operations without changing systems.
 - [ERP Garmen Xerpium: Kendalikan BOM per Style, WIP, QC, dan Biaya Produksi dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-12-garment-id): Industri garmen memiliki karakteristik yang tidak bisa disamakan dengan manufaktur pada umumnya. Setiap style memiliki bill of material atau BOM multi-level—mul
@@ -78,12 +84,6 @@
 - [Event Organizer ERP: Run Weddings, Corporate Events, and Concerts with Xerpium](https://www.xerpium.com/artikel/2026-10-09-event-en): Discover how Xerpium ERP helps event organizers manage venues, vendors, timelines, QR guest check-in, invoicing, and event profitability in one integrated platform.
 - [Akuntansi & Keuangan Perusahaan Lebih Akurat dan Transparan dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-09-base-accounting-id): Kelola chart of accounts, jurnal, pajak, dan laporan keuangan secara real-time dengan modul Akuntansi & Keuangan Xerpium ERP. Mendukung multi-company, multi-currency, dan audit trail.
 - [Streamlining Accounting & Finance with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-09-base-accounting-en): Learn how Xerpium ERP streamlines accounting and finance with multi-company support, real-time dashboards, audit trails, tax management, and AI-assisted workflows.
-- [Solusi Pemasaran Terpadu: Optimalkan CRM, Promosi, dan Analisis Pasar dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-08-pemasaran-id): Optimalkan pemasaran dengan Xerpium ERP: kelola leads, pelanggan, WhatsApp, loyalty, dan strategi berbasis AI dalam satu platform terpadu.
-- [Marketing Solutions with Xerpium ERP: CRM, WhatsApp, Loyalty, and AI Insights](https://www.xerpium.com/artikel/2026-10-08-pemasaran-en): Learn how Xerpium ERP supports marketing with centralized CRM, WhatsApp follow-up, loyalty promotions, and AI market analysis in one enterprise system.
-- [ERP untuk Manufaktur Elektronik OEM: Kendalikan BOM, Produksi, Ekspor, dan KITE dengan Xerpium](https://www.xerpium.com/artikel/2026-10-08-electronic_oem-id): Optimalkan manufaktur elektronik OEM dengan Xerpium ERP untuk kelola BOM, produksi, ekspor, KITE, quality control, dan akuntansi dalam satu sistem.
-- [Electronic OEM Manufacturing with Xerpium ERP: Control BOM, Export, KITE, and Shop Floor in One System](https://www.xerpium.com/artikel/2026-10-08-electronic_oem-en): Learn how Xerpium ERP helps electronic OEM manufacturers manage BOM versions, export compliance, KITE ratios, quality, and shop floor operations in one system.
-- [Kelola Inventori & Gudang Multi-Warehouse dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-08-base-inventory-id): Optimalkan pengelolaan inventori & gudang multi-warehouse dengan Xerpium ERP. Dukung lot/serial, putaway, replenishment, dashboard real-time, dan AI Assistant.
-- [Inventory & Warehouse Management with Xerpium ERP: Multi-Warehouse Control, Lot/Serial Tracking, and Real-Time Visibility](https://www.xerpium.com/artikel/2026-10-08-base-inventory-en): Learn how Xerpium ERP’s Inventory & Warehouse module supports multi-warehouse control, lot/serial tracking, putaway, replenishment, real-time reporting, and AI-assisted visibility for B2B operations.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
