@@ -22,7 +22,7 @@
 - [Garmen / Garment](https://www.xerpium.com/garment): 4 artikel
 - [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 4 artikel
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 4 artikel
-- [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 2 artikel
+- [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 4 artikel
 - [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 2 artikel
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 2 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Penjualan Modern: Kelola CRM, POS, dan Analisis AI dalam Satu Xerpium ERP](https://www.xerpium.com/artikel/2026-10-15-penjualan-id): Optimalkan penjualan dengan Xerpium ERP: kelola CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terpadu untuk bisnis retail dan B2B.
+- [Sales Solutions with Xerpium ERP: Unifying CRM, POS, Inventory, and AI Insights](https://www.xerpium.com/artikel/2026-10-15-penjualan-en): Discover how Xerpium ERP unifies sales, CRM, POS, inventory, and AI insights to improve order-to-delivery and forecasting.
+- [Kelola Operasional Rumah Sakit & Farmasi Secara Terpadu dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-15-hospital_pharmacy-id): Kelola operasional rumah sakit & farmasi secara terpadu dengan Xerpium ERP: rekam medis, antrean, rawat inap, farmasi, billing, serta integrasi BPJS dan SatuSehat/FHIR dalam satu platform.
+- [Hospital & Pharmacy ERP: Unifying Clinical, Pharmacy, and Billing Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-15-hospital_pharmacy-en): Discover how Xerpium Hospital & Pharmacy ERP unifies patient records, queues, clinical workflows, pharmacy dispensing, inpatient care, billing, BPJS, and SatuSehat/FHIR integration.
+- [Pelaporan & Dashboard ERP: KPI Real-Time dan Analitik Lintas Modul dengan Xerpium](https://www.xerpium.com/artikel/2026-10-15-base-reporting-dashboard-id): Pelaporan & Dashboard Xerpium ERP menghadirkan KPI real-time, laporan custom, analitik lintas modul, dukungan multi-company dan multi-currency, serta audit trail.
+- [Reporting & Dashboard in Xerpium ERP: Real-Time KPIs and Cross-Module Analytics for Smarter B2B Decisions](https://www.xerpium.com/artikel/2026-10-15-base-reporting-dashboard-en): Discover how Xerpium ERP Reporting & Dashboard delivers real-time KPIs, custom reports, cross-module analytics, multi-company and multi-currency support, audit trail, and AI Assistant integration for B2B teams.
 - [Kelola Operasional Tambang Emas dan Refinery dari Hulu ke Hilir dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-14-gold-id): Optimalkan tambang emas dan refinery dengan Xerpium ERP: kelola site, blok, produksi, assay, stockpile, bullion, HSE, dan akuntansi dalam satu sistem terintegrasi.
 - [Gold Mining & Refinery Operations with Xerpium ERP: End-to-End Control from Mine Block to Bullion Sale](https://www.xerpium.com/artikel/2026-10-14-gold-en): Explore how Xerpium ERP manages gold mining and refinery operations end to end, from mine block, production, assay, and bullion inventory to sales, HSE, and accounting.
 - [Xerpium ERP untuk Large Enterprise: Satu Platform, Performa Tinggi, dan Kustomisasi Mendalam](https://www.xerpium.com/artikel/2026-10-14-enterprise-id): Xerpium ERP untuk large enterprise: satu platform dengan modul lengkap, solusi 34+ industri, opsi on premise, kustomisasi mendalam, dan performa tinggi untuk volume transaksi besar.
@@ -78,12 +84,6 @@
 - [Food & Beverage ERP: Unify Restaurant, Catering, and Food Manufacturing with Xerpium](https://www.xerpium.com/artikel/2026-10-11-food_beverage-en): Learn how Xerpium ERP helps food and beverage businesses manage tables, kitchen displays, catering, recipes, franchise royalties, cold chain, and F&B accounting in one platform.
 - [Optimalkan Proses Manufaktur dengan Modul MRP Xerpium ERP: Kendali Penuh dari BOM hingga Biaya Produksi](https://www.xerpium.com/artikel/2026-10-11-base-manufacturing-id): Optimalkan manufaktur Anda dengan modul MRP Xerpium ERP untuk BOM, routing, work order, dan perhitungan biaya produksi yang terintegrasi real-time.
 - [Manufacturing (MRP) ERP: How Xerpium Connects BOM, Routing, and Work Orders for Real-Time Production Control](https://www.xerpium.com/artikel/2026-10-11-base-manufacturing-en): Learn how Xerpium Manufacturing (MRP) ERP unifies BOM, routing, work orders, and production cost calculation with real-time dashboards and AI assistance.
-- [Solusi Keuangan ERP Xerpium: Akuntansi Cepat, Rekonsiliasi AI, dan Laporan Siap Audit](https://www.xerpium.com/artikel/2026-10-10-keuangan-id): Solusi keuangan ERP Xerpium dengan akuntansi lengkap COA standar Indonesia, Turbo Report cepat, AI Reconciliation, dan integrasi modul untuk laporan keuangan siap audit.
-- [Finance ERP Solutions: How Xerpium Streamlines Accounting, Reporting, and Reconciliation](https://www.xerpium.com/artikel/2026-10-10-keuangan-en): Discover how Xerpium ERP streamlines finance with complete accounting, fast Turbo Reports, AI reconciliation, and automated journal integration across all modules.
-- [ERP Perikanan Xerpium: Kelola Trip, Grading, Cold Chain, dan Traceability dari Satu Platform](https://www.xerpium.com/artikel/2026-10-10-fishery-id): ERP perikanan Xerpium membantu kelola trip kapal, grading otomatis, cold chain, traceability lot, dan akuntansi perikanan dalam satu platform enterprise.
-- [Fishery ERP: End-to-End Control from Fishing Trip to Traceable Delivery with Xerpium](https://www.xerpium.com/artikel/2026-10-10-fishery-en): Learn how Xerpium ERP supports fishery operations with trip management, auto-grading, cold chain control, lot traceability, and profitability tracking.
-- [Kelola HR & Penggajian Terintegrasi dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-10-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu modul ERP terintegrasi. Xerpium HR & Penggajian mendukung multi-company, multi-currency, audit trail, laporan real-time, dan AI Assistant.
-- [HR & Payroll ERP: Streamlining Workforce Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-10-base-hr-payroll-en): Discover how Xerpium ERP’s HR & Payroll module unifies employee data, attendance, leave, payroll, and reimbursement with multi-company, multi-currency, and AI-powered support.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
