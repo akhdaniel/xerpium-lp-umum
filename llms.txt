@@ -23,7 +23,7 @@
 - [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 4 artikel
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 4 artikel
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 4 artikel
-- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 2 artikel
+- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 4 artikel
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 2 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 2 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Pemasaran Modern dengan Xerpium ERP: Kelola CRM, WhatsApp, Loyalty, dan Analisis Pasar dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-16-pemasaran-id): Optimalkan strategi pemasaran bisnis Anda dengan Xerpium ERP: kelola CRM, integrasi WhatsApp, loyalty & promosi, serta AI analisis pasar dalam satu platform terpusat.
+- [Marketing Solutions with Xerpium ERP: Centralize CRM, WhatsApp, Loyalty, and AI-Driven Insights](https://www.xerpium.com/artikel/2026-10-16-pemasaran-en): Discover Xerpium ERP marketing solutions—centralized CRM, WhatsApp follow-up, loyalty promotions, and AI market insights for connected B2B campaigns.
+- [Xerpium ERP untuk Hotel & Properti: Solusi Terpadu Kelola Reservasi, Kamar, dan Keuangan](https://www.xerpium.com/artikel/2026-10-16-hotel-id): Optimalkan manajemen hotel & properti dengan Xerpium ERP: modul reservasi multi-channel, folio, housekeeping, maintenance, dan integrasi akuntansi dalam satu platform.
+- [Hotel & Property ERP: How Xerpium Unifies Reservations, Rooms, Billing, and Housekeeping](https://www.xerpium.com/artikel/2026-10-16-hotel-en): Explore Xerpium Hotel & Property ERP for unified room management, multi-channel reservations, folio billing, housekeeping, maintenance, and real-time reporting.
+- [Optimalkan Penjualan & CRM dengan Xerpium ERP: Solusi Terintegrasi untuk Proses Bisnis Modern](https://www.xerpium.com/artikel/2026-10-16-base-sales-crm-id): Optimalkan pipeline, quotation, dan order to cash dengan modul Penjualan & CRM Xerpium ERP. Terintegrasi, multi-company, multi-currency, dan didukung AI Assistant.
+- [Sales & CRM ERP: Unify Pipeline, Quotation, and Order to Cash with Xerpium](https://www.xerpium.com/artikel/2026-10-16-base-sales-crm-en): Discover how Xerpium ERP Sales & CRM unifies pipeline, quotation, order to cash, and CRM with multi-company, multi-currency, audit trail, real-time dashboards, and AI Assistant.
 - [Solusi Penjualan Modern: Kelola CRM, POS, dan Analisis AI dalam Satu Xerpium ERP](https://www.xerpium.com/artikel/2026-10-15-penjualan-id): Optimalkan penjualan dengan Xerpium ERP: kelola CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terpadu untuk bisnis retail dan B2B.
 - [Sales Solutions with Xerpium ERP: Unifying CRM, POS, Inventory, and AI Insights](https://www.xerpium.com/artikel/2026-10-15-penjualan-en): Discover how Xerpium ERP unifies sales, CRM, POS, inventory, and AI insights to improve order-to-delivery and forecasting.
 - [Kelola Operasional Rumah Sakit & Farmasi Secara Terpadu dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-15-hospital_pharmacy-id): Kelola operasional rumah sakit & farmasi secara terpadu dengan Xerpium ERP: rekam medis, antrean, rawat inap, farmasi, billing, serta integrasi BPJS dan SatuSehat/FHIR dalam satu platform.
@@ -78,12 +84,6 @@
 - [Garment Manufacturing with Xerpium ERP: Controlling BOM, Production, and Cost per Style](https://www.xerpium.com/artikel/2026-10-12-garment-en): Learn how Xerpium ERP helps garment manufacturers control BOM per style, cutting, sewing, WIP, quality, and cost per unit with garment-specific accounts and KPIs.
 - [Manajemen Proyek ERP: Kendalikan Task, Milestone, dan Progress Billing dengan Xerpium](https://www.xerpium.com/artikel/2026-10-12-base-project-id): Kelola task, milestone, timesheet, dan progress billing dalam satu ERP terintegrasi. Kenali solusi Manajemen Proyek Xerpium untuk visibilitas real-time.
 - [Project Management with Xerpium ERP: Turning Tasks, Milestones, and Progress Billing into a Single Source of Truth](https://www.xerpium.com/artikel/2026-10-12-base-project-en): Explore Xerpium ERP project management: unified tasks, milestones, timesheets, progress billing, multi-company support, audit trail, real-time reporting, and AI assistant.
-- [Solusi HR Terpadu dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-11-hr-id): Solusi HR dan payroll terpadu dengan Xerpium ERP: kelola SDM, BPJS & PPh21, absensi, ESS mobile, dan AI recruitment dalam satu sistem.
-- [HR Solutions with Xerpium ERP: Payroll, Employee Self-Service, and AI Recruitment](https://www.xerpium.com/artikel/2026-10-11-hr-en): HR solutions with Xerpium ERP: unified payroll with BPJS & PPh21, employee self-service, AI recruitment, and automatic accounting journal posting.
-- [Sistem ERP Makanan & Minuman: Kendalikan Restoran, Katering, dan Franchise dengan Xerpium](https://www.xerpium.com/artikel/2026-10-11-food_beverage-id): Bisnis makanan dan minuman memiliki kompleksitas yang jarang dimiliki industri lain: layanan harus cepat, resep harus konsisten, bahan baku harus segar dan aman
-- [Food & Beverage ERP: Unify Restaurant, Catering, and Food Manufacturing with Xerpium](https://www.xerpium.com/artikel/2026-10-11-food_beverage-en): Learn how Xerpium ERP helps food and beverage businesses manage tables, kitchen displays, catering, recipes, franchise royalties, cold chain, and F&B accounting in one platform.
-- [Optimalkan Proses Manufaktur dengan Modul MRP Xerpium ERP: Kendali Penuh dari BOM hingga Biaya Produksi](https://www.xerpium.com/artikel/2026-10-11-base-manufacturing-id): Optimalkan manufaktur Anda dengan modul MRP Xerpium ERP untuk BOM, routing, work order, dan perhitungan biaya produksi yang terintegrasi real-time.
-- [Manufacturing (MRP) ERP: How Xerpium Connects BOM, Routing, and Work Orders for Real-Time Production Control](https://www.xerpium.com/artikel/2026-10-11-base-manufacturing-en): Learn how Xerpium Manufacturing (MRP) ERP unifies BOM, routing, work orders, and production cost calculation with real-time dashboards and AI assistance.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
