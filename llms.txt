@@ -24,7 +24,7 @@
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 4 artikel
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 4 artikel
 - [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 4 artikel
-- [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 2 artikel
+- [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 4 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 2 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 2 artikel
 - [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi Manufaktur dengan Xerpium ERP: Kendalikan Produksi, Kualitas, dan Biaya Secara Terintegrasi](https://www.xerpium.com/artikel/2026-10-17-manufaktur-id): Tingkatkan efisiensi manufaktur dengan Xerpium ERP: MRP, work order, quality control, pelacakan limbah, dan integrasi stok-pembelian dalam satu sistem.
+- [Manufacturing ERP: Streamline Production, Quality, and Inventory with Xerpium](https://www.xerpium.com/artikel/2026-10-17-manufaktur-en): Learn how Xerpium ERP supports manufacturing with MRP, work orders, quality control, by-product tracking, and seamless inventory and purchasing integration.
+- [Koperasi Modern dengan Xerpium ERP: Kelola Simpan Pinjam dan Unit Usaha dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-17-koperasi-id): Koperasi di Indonesia bukan sekadar lembaga simpan pinjam. Banyak koperasi serba usaha juga menjalankan unit retail, distribusi, produksi, jasa, pertanian, hing
+- [Koperasi ERP: Unify Simpan Pinjam, Retail, and Multi-Branch Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-17-koperasi-en): Koperasi today run member savings and loans alongside retail stores, distribution, agriculture, and service operations. Without a unified system, management str
+- [Optimalkan Pembelian & Pengadaan dengan Xerpium ERP: PR, RFQ, PO, dan 3-Way Matching dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-17-base-purchase-id): Optimalkan pembelian & pengadaan dengan Xerpium ERP: kelola PR, RFQ, PO, vendor, dan 3-way matching dalam satu sistem, lengkap dengan multi-company, audit trail, dashboard real-time, dan AI Assistant.
+- [Purchase & Procurement ERP: How Xerpium Unifies PR, RFQ, PO, and 3-Way Matching](https://www.xerpium.com/artikel/2026-10-17-base-purchase-en): Learn how Xerpium ERP unifies purchase requisitions, RFQs, POs, vendor management, and 3-way matching with real-time dashboards, audit trails, and AI support.
 - [Solusi Pemasaran Modern dengan Xerpium ERP: Kelola CRM, WhatsApp, Loyalty, dan Analisis Pasar dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-16-pemasaran-id): Optimalkan strategi pemasaran bisnis Anda dengan Xerpium ERP: kelola CRM, integrasi WhatsApp, loyalty & promosi, serta AI analisis pasar dalam satu platform terpusat.
 - [Marketing Solutions with Xerpium ERP: Centralize CRM, WhatsApp, Loyalty, and AI-Driven Insights](https://www.xerpium.com/artikel/2026-10-16-pemasaran-en): Discover Xerpium ERP marketing solutions—centralized CRM, WhatsApp follow-up, loyalty promotions, and AI market insights for connected B2B campaigns.
 - [Xerpium ERP untuk Hotel & Properti: Solusi Terpadu Kelola Reservasi, Kamar, dan Keuangan](https://www.xerpium.com/artikel/2026-10-16-hotel-id): Optimalkan manajemen hotel & properti dengan Xerpium ERP: modul reservasi multi-channel, folio, housekeeping, maintenance, dan integrasi akuntansi dalam satu platform.
@@ -78,12 +84,6 @@
 - [Generic ERP Without the Gaps: How Xerpium Connects Sales, Inventory, Finance, HR, and Manufacturing](https://www.xerpium.com/artikel/2026-10-13-generic-en): Many B2B evaluation teams look for a generic ERP because they need one system that can handle multiple business functions. At the same time, they worry that “ge
 - [Mengelola Website & eCommerce B2B Lebih Efisien dengan Modul ERP Xerpium](https://www.xerpium.com/artikel/2026-10-13-base-website-ecommerce-id): Kelola website dan eCommerce B2B terintegrasi penuh dengan Xerpium ERP: website builder, katalog online, checkout, multi-company, multi-currency, audit trail, dan laporan real-time.
 - [Unify Your Website & eCommerce Operations with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-13-base-website-ecommerce-en): Learn how the Xerpium Website & eCommerce ERP module unifies your website builder, online catalog, integrated checkout, multi-company and multi-currency support, audit trail, real-time dashboards, and AI Assistant into one connected B2B platform.
-- [ERP untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem bersama Xerpium](https://www.xerpium.com/artikel/2026-10-12-startup-id): Kenapa startup membutuhkan Xerpium ERP? Simak modul inti, AI Assistant, dan model SaaS scalable mulai Rp150.000/user/bulan untuk pertumbuhan tanpa ganti sistem.
-- [Xerpium ERP for Startups: A Flexible ERP to Start Small and Scale Without Changing Systems](https://www.xerpium.com/artikel/2026-10-12-startup-en): Learn how Xerpium ERP helps startups start with core modules, use AI-assisted reporting, and scale operations without changing systems.
-- [ERP Garmen Xerpium: Kendalikan BOM per Style, WIP, QC, dan Biaya Produksi dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-12-garment-id): Industri garmen memiliki karakteristik yang tidak bisa disamakan dengan manufaktur pada umumnya. Setiap style memiliki bill of material atau BOM multi-level—mul
-- [Garment Manufacturing with Xerpium ERP: Controlling BOM, Production, and Cost per Style](https://www.xerpium.com/artikel/2026-10-12-garment-en): Learn how Xerpium ERP helps garment manufacturers control BOM per style, cutting, sewing, WIP, quality, and cost per unit with garment-specific accounts and KPIs.
-- [Manajemen Proyek ERP: Kendalikan Task, Milestone, dan Progress Billing dengan Xerpium](https://www.xerpium.com/artikel/2026-10-12-base-project-id): Kelola task, milestone, timesheet, dan progress billing dalam satu ERP terintegrasi. Kenali solusi Manajemen Proyek Xerpium untuk visibilitas real-time.
-- [Project Management with Xerpium ERP: Turning Tasks, Milestones, and Progress Billing into a Single Source of Truth](https://www.xerpium.com/artikel/2026-10-12-base-project-en): Explore Xerpium ERP project management: unified tasks, milestones, timesheets, progress billing, multi-company support, audit trail, real-time reporting, and AI assistant.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
