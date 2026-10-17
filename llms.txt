@@ -25,7 +25,7 @@
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 4 artikel
 - [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 4 artikel
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 4 artikel
-- [Peternakan / Livestock](https://www.xerpium.com/livestock): 2 artikel
+- [Peternakan / Livestock](https://www.xerpium.com/livestock): 4 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 2 artikel
 - [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 2 artikel
 - [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [ERP Peternakan Xerpium: Kelola Kandang, Pakan, HPP, dan Sertifikat Halal dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-18-livestock-id): ERP peternakan Xerpium mencatat identitas ternak, kandang, pakan, ADG, FCR, kesehatan, HPP, hingga sertifikat halal blockchain dalam satu sistem.
+- [Livestock ERP: Managing Cattle Operations, Feed, and Halal Traceability with Xerpium](https://www.xerpium.com/artikel/2026-10-18-livestock-en): Discover how Xerpium ERP manages livestock registry, pen and batch operations, feed, weighing, health, HPP, and blockchain-ready halal traceability in one B2B platform.
+- [Solusi Keuangan dengan Xerpium ERP: Otomasi Jurnal, Laporan Cepat, dan Rekonsiliasi AI](https://www.xerpium.com/artikel/2026-10-18-keuangan-id): Kelola akuntansi, laporan keuangan cepat, dan rekonsiliasi otomatis dengan Xerpium ERP. Pelajari solusi keuangan terintegrasi untuk bisnis Anda.
+- [Xerpium ERP Finance Solutions: Smarter Accounting, Faster Closing, Audit-Ready Reporting](https://www.xerpium.com/artikel/2026-10-18-keuangan-en): Explore Xerpium ERP finance solutions—complete accounting, Turbo Report, AI Reconciliation, and fully integrated journals for faster audit-ready closing.
+- [Kelola Inventori & Gudang Multi-Warehouse Lebih Akurat dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-18-base-inventory-id): Optimalkan pengelolaan inventori dan gudang multi-warehouse dengan Xerpium ERP, mulai dari lot/serial, putaway, replenishment, hingga laporan real-time dan audit trail.
+- [Inventory & Warehouse Management with Xerpium ERP: Smarter Multi-Warehouse Control](https://www.xerpium.com/artikel/2026-10-18-base-inventory-en): Discover how Xerpium ERP Inventory & Warehouse supports multi-warehouse, lot/serial, putaway, replenishment, multi-company, and real-time reporting.
 - [Solusi Manufaktur dengan Xerpium ERP: Kendalikan Produksi, Kualitas, dan Biaya Secara Terintegrasi](https://www.xerpium.com/artikel/2026-10-17-manufaktur-id): Tingkatkan efisiensi manufaktur dengan Xerpium ERP: MRP, work order, quality control, pelacakan limbah, dan integrasi stok-pembelian dalam satu sistem.
 - [Manufacturing ERP: Streamline Production, Quality, and Inventory with Xerpium](https://www.xerpium.com/artikel/2026-10-17-manufaktur-en): Learn how Xerpium ERP supports manufacturing with MRP, work orders, quality control, by-product tracking, and seamless inventory and purchasing integration.
 - [Koperasi Modern dengan Xerpium ERP: Kelola Simpan Pinjam dan Unit Usaha dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-17-koperasi-id): Koperasi di Indonesia bukan sekadar lembaga simpan pinjam. Banyak koperasi serba usaha juga menjalankan unit retail, distribusi, produksi, jasa, pertanian, hing
@@ -78,12 +84,6 @@
 - [Xerpium ERP for Large Enterprise: Full-Suite Control for Complex Operations](https://www.xerpium.com/artikel/2026-10-14-enterprise-en): Discover how Xerpium ERP for large enterprise supports full-suite accounting, purchasing, manufacturing, HR, CRM, and project workflows with industry-specific depth and enterprise-scale performance.
 - [Asisten AI di Xerpium ERP: Mendorong Otomasi Proses dan Insight Bisnis yang Lebih Cepat](https://www.xerpium.com/artikel/2026-10-14-base-ai-assistant-id): Pelajari bagaimana Asisten AI pada Xerpium ERP mendukung otomasi proses, insight, dan copilot bisnis untuk operasional multi-company yang lebih efisien.
 - [AI Assistant in Xerpium ERP: Automation, Real-Time Insight, and a Built-In Business Copilot](https://www.xerpium.com/artikel/2026-10-14-base-ai-assistant-en): Learn how Xerpium ERP’s AI Assistant enables process automation, real-time insight, and an embedded business copilot for multi-company, multi-currency operations.
-- [Xerpium ERP untuk UMKM: Solusi Satu Platform untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-13-umkm-id): Xerpium ERP untuk UMKM: satu platform terpadu untuk Sales, CRM, Purchasing, Inventory, dan Accounting dengan harga mulai Rp150.000/user/bulan serta AI Assistant.
-- [Xerpium ERP for SMBs: One Platform for Sales, CRM, Purchasing, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-13-umkm-en): Learn how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting in one platform with AI-assisted insights.
-- [ERP Generik: Fondasi Digital Terpadu untuk Semua Lini Bisnis dengan Xerpium](https://www.xerpium.com/artikel/2026-10-13-generic-id): Pelajari bagaimana ERP generik Xerpium menyatukan sales, inventory, accounting, HR, manufacturing, dan AI dalam satu platform untuk efisiensi bisnis Anda.
-- [Generic ERP Without the Gaps: How Xerpium Connects Sales, Inventory, Finance, HR, and Manufacturing](https://www.xerpium.com/artikel/2026-10-13-generic-en): Many B2B evaluation teams look for a generic ERP because they need one system that can handle multiple business functions. At the same time, they worry that “ge
-- [Mengelola Website & eCommerce B2B Lebih Efisien dengan Modul ERP Xerpium](https://www.xerpium.com/artikel/2026-10-13-base-website-ecommerce-id): Kelola website dan eCommerce B2B terintegrasi penuh dengan Xerpium ERP: website builder, katalog online, checkout, multi-company, multi-currency, audit trail, dan laporan real-time.
-- [Unify Your Website & eCommerce Operations with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-13-base-website-ecommerce-en): Learn how the Xerpium Website & eCommerce ERP module unifies your website builder, online catalog, integrated checkout, multi-company and multi-currency support, audit trail, real-time dashboards, and AI Assistant into one connected B2B platform.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
