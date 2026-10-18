@@ -26,7 +26,7 @@
 - [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 4 artikel
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 4 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 4 artikel
-- [Logistik / Logistics](https://www.xerpium.com/logistics): 2 artikel
+- [Logistik / Logistics](https://www.xerpium.com/logistics): 4 artikel
 - [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 2 artikel
 - [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 2 artikel
 - [Rental / Rental](https://www.xerpium.com/rental): 2 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Optimalkan Logistik End-to-End dengan Xerpium ERP: Dari Shipment, Rate Card, hingga Proof of Delivery](https://www.xerpium.com/artikel/2026-10-19-logistics-id): Optimalkan logistik end-to-end dengan Xerpium ERP: kelola shipment, rate card, fleet, container, tracking, proof of delivery, cold chain, dan margin keuntungan dalam satu platform terintegrasi.
+- [Streamlining Logistics Operations with Xerpium ERP: Shipment, Fleet, and Cold Chain Control](https://www.xerpium.com/artikel/2026-10-19-logistics-en): Discover how Xerpium ERP streamlines logistics operations with shipment tracking, fleet and container management, cold chain compliance, and automated invoicing.
+- [Solusi HR Terpadu dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-19-hr-id): Solusi HR terpadu dengan Xerpium ERP: kelola SDM, payroll BPJS & PPh21, ESS mobile, dan rekrutmen AI dalam satu platform.
+- [HR Solutions with Xerpium ERP: Integrated Payroll, Employee Self-Service, and AI Recruitment](https://www.xerpium.com/artikel/2026-10-19-hr-en): Discover Xerpium ERP HR solutions—integrated payroll, ESS mobile app, AI recruitment, and automated salary journal entries for modern enterprises.
+- [Mengelola Akuntansi & Keuangan Multi-Entitas Lebih Akurat dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-19-base-accounting-id): Kelola akuntansi & keuangan multi-company, multi-currency, pajak, dan laporan real-time dengan modul Akuntansi & Keuangan Xerpium ERP yang terintegrasi AI Assistant.
+- [Mastering Accounting & Finance with Xerpium ERP: Real-Time Control, Multi-Entity Visibility, and AI-Assisted Efficiency](https://www.xerpium.com/artikel/2026-10-19-base-accounting-en): Discover how Xerpium ERP unifies accounting, financial reporting, multi-company management, audit trails, and AI assistance for real-time finance control.
 - [ERP Peternakan Xerpium: Kelola Kandang, Pakan, HPP, dan Sertifikat Halal dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-18-livestock-id): ERP peternakan Xerpium mencatat identitas ternak, kandang, pakan, ADG, FCR, kesehatan, HPP, hingga sertifikat halal blockchain dalam satu sistem.
 - [Livestock ERP: Managing Cattle Operations, Feed, and Halal Traceability with Xerpium](https://www.xerpium.com/artikel/2026-10-18-livestock-en): Discover how Xerpium ERP manages livestock registry, pen and batch operations, feed, weighing, health, HPP, and blockchain-ready halal traceability in one B2B platform.
 - [Solusi Keuangan dengan Xerpium ERP: Otomasi Jurnal, Laporan Cepat, dan Rekonsiliasi AI](https://www.xerpium.com/artikel/2026-10-18-keuangan-id): Kelola akuntansi, laporan keuangan cepat, dan rekonsiliasi otomatis dengan Xerpium ERP. Pelajari solusi keuangan terintegrasi untuk bisnis Anda.
@@ -78,12 +84,6 @@
 - [Hospital & Pharmacy ERP: Unifying Clinical, Pharmacy, and Billing Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-15-hospital_pharmacy-en): Discover how Xerpium Hospital & Pharmacy ERP unifies patient records, queues, clinical workflows, pharmacy dispensing, inpatient care, billing, BPJS, and SatuSehat/FHIR integration.
 - [Pelaporan & Dashboard ERP: KPI Real-Time dan Analitik Lintas Modul dengan Xerpium](https://www.xerpium.com/artikel/2026-10-15-base-reporting-dashboard-id): Pelaporan & Dashboard Xerpium ERP menghadirkan KPI real-time, laporan custom, analitik lintas modul, dukungan multi-company dan multi-currency, serta audit trail.
 - [Reporting & Dashboard in Xerpium ERP: Real-Time KPIs and Cross-Module Analytics for Smarter B2B Decisions](https://www.xerpium.com/artikel/2026-10-15-base-reporting-dashboard-en): Discover how Xerpium ERP Reporting & Dashboard delivers real-time KPIs, custom reports, cross-module analytics, multi-company and multi-currency support, audit trail, and AI Assistant integration for B2B teams.
-- [Kelola Operasional Tambang Emas dan Refinery dari Hulu ke Hilir dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-14-gold-id): Optimalkan tambang emas dan refinery dengan Xerpium ERP: kelola site, blok, produksi, assay, stockpile, bullion, HSE, dan akuntansi dalam satu sistem terintegrasi.
-- [Gold Mining & Refinery Operations with Xerpium ERP: End-to-End Control from Mine Block to Bullion Sale](https://www.xerpium.com/artikel/2026-10-14-gold-en): Explore how Xerpium ERP manages gold mining and refinery operations end to end, from mine block, production, assay, and bullion inventory to sales, HSE, and accounting.
-- [Xerpium ERP untuk Large Enterprise: Satu Platform, Performa Tinggi, dan Kustomisasi Mendalam](https://www.xerpium.com/artikel/2026-10-14-enterprise-id): Xerpium ERP untuk large enterprise: satu platform dengan modul lengkap, solusi 34+ industri, opsi on premise, kustomisasi mendalam, dan performa tinggi untuk volume transaksi besar.
-- [Xerpium ERP for Large Enterprise: Full-Suite Control for Complex Operations](https://www.xerpium.com/artikel/2026-10-14-enterprise-en): Discover how Xerpium ERP for large enterprise supports full-suite accounting, purchasing, manufacturing, HR, CRM, and project workflows with industry-specific depth and enterprise-scale performance.
-- [Asisten AI di Xerpium ERP: Mendorong Otomasi Proses dan Insight Bisnis yang Lebih Cepat](https://www.xerpium.com/artikel/2026-10-14-base-ai-assistant-id): Pelajari bagaimana Asisten AI pada Xerpium ERP mendukung otomasi proses, insight, dan copilot bisnis untuk operasional multi-company yang lebih efisien.
-- [AI Assistant in Xerpium ERP: Automation, Real-Time Insight, and a Built-In Business Copilot](https://www.xerpium.com/artikel/2026-10-14-base-ai-assistant-en): Learn how Xerpium ERP’s AI Assistant enables process automation, real-time insight, and an embedded business copilot for multi-company, multi-currency operations.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
