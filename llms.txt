@@ -32,7 +32,7 @@
 - [Rental / Rental](https://www.xerpium.com/rental): 2 artikel
 - [Retail / Retail](https://www.xerpium.com/retail): 2 artikel
 - [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite): 2 artikel
-- [Industri Sawit / Palm Oil Industry](https://www.xerpium.com/sawit): 4 artikel
+- [Industri Sawit / Palm Oil Industry](https://www.xerpium.com/sawit): 6 artikel
 - [Software House / Software House](https://www.xerpium.com/software): 2 artikel
 - [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://www.xerpium.com/theme_park_recreation): 2 artikel
 - [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://www.xerpium.com/travel): 2 artikel
@@ -56,6 +56,8 @@
 ## Artikel Terbaru
 - [Aplikasi Mobile Sawit Xerpium: Perhitungan Panen TBS Akurat dari Blok ke Timbangan PKS](https://www.xerpium.com/artikel/2026-10-19-sawit-mobile-id): Pelajari aplikasi mobile sawit Xerpium untuk perhitungan panen TBS: tiket panen per blok/TPH/pemanen, input janjang, estimasi kg & premi, SPB, rekonsiliasi timbangan, serta integritas data offline yang akurat dan bisa diaudit.
 - [Palm Oil Mobile App for Accurate FFB Harvest Calculation (Perhitungan Panen TBS) with Xerpium Sawit](https://www.xerpium.com/artikel/2026-10-19-sawit-mobile-en): Learn how Xerpium Sawit Mobile, an Android aplikasi mobile sawit, improves perhitungan panen TBS with trusted time, fake-GPS detection, hashed photos, and append-only harvest records.
+- [Solusi lengkap ERP untuk Industri Sawit: Dari Blok Kebun sampai Ekspor CPO](https://www.xerpium.com/artikel/2026-10-19-sawit-erp-lengkap-id): Industri sawit adalah salah satu rantai pasok paling kompleks di agribisnis: dari pengelolaan blok tanam, panen TBS, pengolahan di pabrik CPO, hingga penjualan 
+- [Complete ERP solution for Palm Oil Industry: End-to-End Plantation, Mill, Export, and Financial Control with Xerpium](https://www.xerpium.com/artikel/2026-10-19-sawit-erp-lengkap-en): Complete ERP solution for Palm Oil Industry from Xerpium: plantation blocks, TBS harvest, CPO mill, QC lab, inventory, export, LC/TT, and SAW accounting with KPI dashboards.
 - [Optimalkan Logistik End-to-End dengan Xerpium ERP: Dari Shipment, Rate Card, hingga Proof of Delivery](https://www.xerpium.com/artikel/2026-10-19-logistics-id): Optimalkan logistik end-to-end dengan Xerpium ERP: kelola shipment, rate card, fleet, container, tracking, proof of delivery, cold chain, dan margin keuntungan dalam satu platform terintegrasi.
 - [Streamlining Logistics Operations with Xerpium ERP: Shipment, Fleet, and Cold Chain Control](https://www.xerpium.com/artikel/2026-10-19-logistics-en): Discover how Xerpium ERP streamlines logistics operations with shipment tracking, fleet and container management, cold chain compliance, and automated invoicing.
 - [Solusi HR Terpadu dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-19-hr-id): Solusi HR terpadu dengan Xerpium ERP: kelola SDM, payroll BPJS & PPh21, ESS mobile, dan rekrutmen AI dalam satu platform.
@@ -82,8 +84,6 @@
 - [Sales & CRM ERP: Unify Pipeline, Quotation, and Order to Cash with Xerpium](https://www.xerpium.com/artikel/2026-10-16-base-sales-crm-en): Discover how Xerpium ERP Sales & CRM unifies pipeline, quotation, order to cash, and CRM with multi-company, multi-currency, audit trail, real-time dashboards, and AI Assistant.
 - [Solusi Penjualan Modern: Kelola CRM, POS, dan Analisis AI dalam Satu Xerpium ERP](https://www.xerpium.com/artikel/2026-10-15-penjualan-id): Optimalkan penjualan dengan Xerpium ERP: kelola CRM, POS, marketplace, stok, dan analisis AI dalam satu platform terpadu untuk bisnis retail dan B2B.
 - [Sales Solutions with Xerpium ERP: Unifying CRM, POS, Inventory, and AI Insights](https://www.xerpium.com/artikel/2026-10-15-penjualan-en): Discover how Xerpium ERP unifies sales, CRM, POS, inventory, and AI insights to improve order-to-delivery and forecasting.
-- [Kelola Operasional Rumah Sakit & Farmasi Secara Terpadu dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-15-hospital_pharmacy-id): Kelola operasional rumah sakit & farmasi secara terpadu dengan Xerpium ERP: rekam medis, antrean, rawat inap, farmasi, billing, serta integrasi BPJS dan SatuSehat/FHIR dalam satu platform.
-- [Hospital & Pharmacy ERP: Unifying Clinical, Pharmacy, and Billing Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-15-hospital_pharmacy-en): Discover how Xerpium Hospital & Pharmacy ERP unifies patient records, queues, clinical workflows, pharmacy dispensing, inpatient care, billing, BPJS, and SatuSehat/FHIR integration.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
