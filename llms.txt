@@ -27,7 +27,7 @@
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 6 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 6 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 6 artikel
-- [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 4 artikel
+- [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 6 artikel
 - [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 4 artikel
 - [Rental / Rental](https://www.xerpium.com/rental): 4 artikel
 - [Retail / Retail](https://www.xerpium.com/retail): 4 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [ERP Xerpium untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-10-20-startup-id): Xerpium ERP SaaS untuk startup: mulai dari Rp150.000/user/bulan, modul inti Accounting, Sales, Inventory, HR, AI Assistant, dan skalabel tanpa migrasi.
+- [Xerpium ERP for Startups: Start Lean, Scale Without Switching Systems](https://www.xerpium.com/artikel/2026-10-20-startup-en): Learn how Xerpium ERP helps startups start lean with core modules, AI-assisted reporting, and scalable SaaS pricing without switching systems.
+- [Layanan Perawatan dengan Xerpium ERP: Kelola Service Order, Work Order, dan Preventive Maintenance Secara Terstruktur](https://www.xerpium.com/artikel/2026-10-20-maintenance_service-id): Kelola layanan perawatan dengan Xerpium ERP: service order, work order, preventive maintenance schedule, checklist, variance analysis, dan integrasi penjualan-akuntansi-inventori.
+- [Maintenance Service Management with Xerpium ERP for Industrial Equipment Teams](https://www.xerpium.com/artikel/2026-10-20-maintenance_service-en): Learn how Xerpium ERP streamlines maintenance service orders, work orders, preventive schedules, checklists, variance analysis, and invoicing for industrial equipment teams.
+- [Kelola HR & Penggajian Multi-Company Lebih Terkendali dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-20-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu ERP terintegrasi. Xerpium mendukung multi-company, multi-currency, audit trail, dan laporan real-time.
+- [HR & Payroll ERP: Simplify Workforce Management and Payroll with Xerpium](https://www.xerpium.com/artikel/2026-10-20-base-hr-payroll-en): Learn how Xerpium ERP unifies HR & Payroll with employee data, attendance, leave, reimbursement, multi-company payroll, audit trails, and AI Assistant.
 - [Solusi lengkap ERP untuk Manajemen Universitas: Integrasi Akademik, Keuangan, dan Operasional dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-19-university-erp-lengkap-id): Solusi lengkap ERP untuk Manajemen Universitas dari Xerpium: integrasi modul fakultas, prodi, mahasiswa, KRS, nilai, skripsi, SPP, ruang, dan AI dashboard dalam satu platform.
 - [Complete ERP solution for University Management: End-to-End Academic, Finance, and Operations on Xerpium](https://www.xerpium.com/artikel/2026-10-19-university-erp-lengkap-en): Managing a university with disconnected systems creates friction between admissions, academic administration, finance, and facilities. Student records, KRS, sch
 - [Solusi lengkap ERP untuk Travel, Haji & Umroh: Kelola Jamaah, Keberangkatan, Pembayaran, Pengadaan, dan Laporan dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-19-travel-erp-lengkap-id): Solusi lengkap ERP untuk travel, haji & umroh dari Xerpium mencakup jamaah, dokumen, keberangkatan, pembayaran, purchase, perlengkapan, pajak, dan laporan bilingual.
@@ -78,12 +84,6 @@
 - [Complete ERP solution for Maintenance Service with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-19-maintenance_service-erp-lengkap-en): Complete ERP solution for Maintenance Service with Xerpium ERP — manage service orders, work orders, customer equipment, preventive schedules, checklists, actual cost variance, and invoicing in one connected system.
 - [Optimalkan Logistik End-to-End dengan Xerpium ERP: Dari Shipment, Rate Card, hingga Proof of Delivery](https://www.xerpium.com/artikel/2026-10-19-logistics-id): Optimalkan logistik end-to-end dengan Xerpium ERP: kelola shipment, rate card, fleet, container, tracking, proof of delivery, cold chain, dan margin keuntungan dalam satu platform terintegrasi.
 - [Artikel Xerpium](https://www.xerpium.com/artikel/2026-10-19-logistics-erp-lengkap-id): Solusi lengkap ERP untuk Logistik dari Xerpium: kelola shipment, route, rate card, fleet, container, tracking, POD, klaim, cold chain, dan akuntansi dalam satu platform end-to-end.
-- [Complete ERP solution for Logistics: End-to-End Visibility and Control with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-19-logistics-erp-lengkap-en): Discover how Xerpium ERP covers shipment, route, rate card, fleet, container, warehouse, tracking, POD, claims, cold chain, and accounting in one complete logistics solution.
-- [Streamlining Logistics Operations with Xerpium ERP: Shipment, Fleet, and Cold Chain Control](https://www.xerpium.com/artikel/2026-10-19-logistics-en): Discover how Xerpium ERP streamlines logistics operations with shipment tracking, fleet and container management, cold chain compliance, and automated invoicing.
-- [Solusi lengkap ERP untuk Peternakan: Kendalikan Batch, HPP, dan Traceability Halal dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-19-livestock-erp-lengkap-id): Peternakan modern tidak lagi sesederhana mencatat jumlah ekor dan menjual ternak saat panen. Begitu skala usaha bertambah, data ternak, kandang, pakan, kesehata
-- [Complete ERP solution for Livestock: End-to-End Management from Animal Registry to Halal Traceability](https://www.xerpium.com/artikel/2026-10-19-livestock-erp-lengkap-en): Complete ERP solution for Livestock by Xerpium: animal registry, pen and batch management, feed, ADG, FCR, health, pharmacy, SOP, halal traceability, HPP, and accounting in one unified livestock ERP.
-- [Artikel Xerpium](https://www.xerpium.com/artikel/2026-10-19-koperasi-erp-lengkap-id): Solusi ERP lengkap untuk koperasi: kelola anggota, simpan pinjam, toko, distribusi, produksi, dan akuntansi dalam satu platform Xerpium. Cakupan end-to-end, akuntansi otomatis, portal anggota, SHU, NPL, dan laporan keuangan konsolidasi.
-- [Complete ERP solution for Koperasi: Unified Operations for Savings, Loans, Retail, and Multi-Business Units](https://www.xerpium.com/artikel/2026-10-19-koperasi-erp-lengkap-en): Complete ERP solution for Koperasi by Xerpium—unified savings, loans, retail, distribution, production, and accounting with automatic GL, SHU, and consolidated reporting.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
