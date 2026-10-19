@@ -5,6 +5,20 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>Aplikasi Mobile Sawit Xerpium: Perhitungan Panen TBS Akurat dari Blok ke Timbangan PKS</title>
+      <link>https://www.xerpium.com/artikel/2026-10-19-sawit-mobile-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-sawit-mobile-id</guid>
+      <description>Pelajari aplikasi mobile sawit Xerpium untuk perhitungan panen TBS: tiket panen per blok/TPH/pemanen, input janjang, estimasi kg &amp; premi, SPB, rekonsiliasi timbangan, serta integritas data offline yang akurat dan bisa diaudit.</description>
+      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Palm Oil Mobile App for Accurate FFB Harvest Calculation (Perhitungan Panen TBS) with Xerpium Sawit</title>
+      <link>https://www.xerpium.com/artikel/2026-10-19-sawit-mobile-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-sawit-mobile-en</guid>
+      <description>Learn how Xerpium Sawit Mobile, an Android aplikasi mobile sawit, improves perhitungan panen TBS with trusted time, fake-GPS detection, hashed photos, and append-only harvest records.</description>
+      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>Optimalkan Logistik End-to-End dengan Xerpium ERP: Dari Shipment, Rate Card, hingga Proof of Delivery</title>
       <link>https://www.xerpium.com/artikel/2026-10-19-logistics-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-logistics-id</guid>
@@ -339,19 +353,5 @@
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-12-base-project-en</guid>
       <description>Explore Xerpium ERP project management: unified tasks, milestones, timesheets, progress billing, multi-company support, audit trail, real-time reporting, and AI assistant.</description>
       <pubDate>2026-10-12T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Solusi HR Terpadu dengan Xerpium ERP: Kelola SDM, Payroll, dan Rekrutmen dalam Satu Sistem</title>
-      <link>https://www.xerpium.com/artikel/2026-10-11-hr-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-11-hr-id</guid>
-      <description>Solusi HR dan payroll terpadu dengan Xerpium ERP: kelola SDM, BPJS &amp; PPh21, absensi, ESS mobile, dan AI recruitment dalam satu sistem.</description>
-      <pubDate>2026-10-11T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>HR Solutions with Xerpium ERP: Payroll, Employee Self-Service, and AI Recruitment</title>
-      <link>https://www.xerpium.com/artikel/2026-10-11-hr-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-11-hr-en</guid>
-      <description>HR solutions with Xerpium ERP: unified payroll with BPJS &amp; PPh21, employee self-service, AI recruitment, and automatic accounting journal posting.</description>
-      <pubDate>2026-10-11T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>
