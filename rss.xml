@@ -5,6 +5,48 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>Xerpium ERP untuk UMKM: Satu Platform untuk Jualan, Stok, dan Keuangan</title>
+      <link>https://www.xerpium.com/artikel/2026-10-21-umkm-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-21-umkm-id</guid>
+      <description>Xerpium ERP membantu UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform, mulai Rp150.000/user/bulan. Pelajari solusi ERP untuk UMKM di sini.</description>
+      <pubDate>2026-10-21T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Xerpium ERP for SMBs: A Unified, AI-Assisted Platform for Sales, Inventory, and Accounting</title>
+      <link>https://www.xerpium.com/artikel/2026-10-21-umkm-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-21-umkm-en</guid>
+      <description>Discover how Xerpium ERP helps SMBs unify Sales, CRM, Purchasing, Inventory, and Accounting in one affordable platform with a built-in AI Assistant.</description>
+      <pubDate>2026-10-21T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>PLM Xerpium ERP: Kontrol Penuh atas Engineering Change Order, Revisi BOM, dan Siklus Hidup Produk</title>
+      <link>https://www.xerpium.com/artikel/2026-10-21-plm-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-21-plm-id</guid>
+      <description>Pelajari cara modul PLM Xerpium ERP mengelola ECO, revisi BOM, analisis dampak, dan persetujuan perubahan produk secara terintegrasi dengan manufaktur untuk mengurangi risiko dan rework.</description>
+      <pubDate>2026-10-21T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>PLM in ERP: How Xerpium Manages ECOs, BOM Revisions, and Change Approvals</title>
+      <link>https://www.xerpium.com/artikel/2026-10-21-plm-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-21-plm-en</guid>
+      <description>Learn how Xerpium ERP supports Product Lifecycle Management with structured ECOs, BOM revision control, change impact analysis, approvals, and manufacturing integration.</description>
+      <pubDate>2026-10-21T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Kendalikan Proses Manufaktur Lebih Presisi dengan Modul MRP Xerpium ERP</title>
+      <link>https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-id</guid>
+      <description>Optimalkan manufaktur Anda dengan modul MRP Xerpium ERP untuk kelola BOM, routing, work order, dan biaya produksi secara real-time.</description>
+      <pubDate>2026-10-21T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing ERP with Xerpium MRP: Controlling BOM, Routing, and Work Orders</title>
+      <link>https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-en</guid>
+      <description>Learn how Xerpium Manufacturing (MRP) ERP simplifies BOM, routing, work orders, and production cost calculation with real-time dashboards and AI Assistant support.</description>
+      <pubDate>2026-10-21T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>ERP Xerpium untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem</title>
       <link>https://www.xerpium.com/artikel/2026-10-20-startup-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-20-startup-id</guid>
@@ -310,48 +352,6 @@
       <link>https://www.xerpium.com/artikel/2026-10-19-gold-erp-lengkap-en</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-gold-erp-lengkap-en</guid>
       <description>Discover how Xerpium ERP unifies gold mining and refinery operations—from site permits and production to assay, bullion inventory, sales, and HSE—in one traceable, AI-assisted platform.</description>
-      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Solusi lengkap ERP untuk ERP Generik: Satu Platform End-to-End dari CRM hingga Payroll</title>
-      <link>https://www.xerpium.com/artikel/2026-10-19-generic-erp-lengkap-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-generic-erp-lengkap-id</guid>
-      <description>Solusi lengkap ERP untuk ERP Generik dari Xerpium: menyatukan CRM, pembelian, inventori, akuntansi, payroll, manufacturing, project, AI, dan dashboard dalam satu platform end-to-end.</description>
-      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Artikel Xerpium</title>
-      <link>https://www.xerpium.com/artikel/2026-10-19-generic-erp-lengkap-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-generic-erp-lengkap-en</guid>
-      <description>Discover how Xerpium’s complete ERP solution for Generic ERP connects sales, purchasing, inventory, finance, HR, manufacturing, projects, AI, and dashboards in one end-to-end platform.</description>
-      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Solusi lengkap ERP untuk Garmen: Kendalikan Produksi, Biaya, dan Kualitas dari Satu Platform</title>
-      <link>https://www.xerpium.com/artikel/2026-10-19-garment-erp-lengkap-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-garment-erp-lengkap-id</guid>
-      <description>Solusi lengkap ERP untuk garmen dari Xerpium: kelola BOM per style, production order, cutting &amp; sewing, quality control, akuntansi khusus garment, dan KPI produksi dalam satu platform.</description>
-      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Complete ERP solution for Garment: End-to-End Control from Fabric to Financials with Xerpium ERP</title>
-      <link>https://www.xerpium.com/artikel/2026-10-19-garment-erp-lengkap-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-garment-erp-lengkap-en</guid>
-      <description>Complete ERP solution for Garment by Xerpium: garment COA, multi-level BOM, cutting, sewing, QC, WIP tracking, production costing, and integrated dashboards.</description>
-      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Solusi lengkap ERP untuk Makanan &amp; Minuman (F&amp;B): Menyatukan Operasional Restoran, Produksi, Distribusi, Franchise, dan Loyalty</title>
-      <link>https://www.xerpium.com/artikel/2026-10-19-food_beverage-erp-lengkap-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-food_beverage-erp-lengkap-id</guid>
-      <description>Solusi lengkap ERP untuk Makanan &amp; Minuman (F&amp;B) dari Xerpium: restoran, dapur, produksi, QC, cold chain, franchise, loyalty, dan akuntansi dalam satu platform end-to-end.</description>
-      <pubDate>2026-10-19T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Complete ERP solution for Food &amp; Beverage (F&amp;B): Unified Restaurant, Catering, Production, Franchise, and Cold Chain Operations</title>
-      <link>https://www.xerpium.com/artikel/2026-10-19-food_beverage-erp-lengkap-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-19-food_beverage-erp-lengkap-en</guid>
-      <description>Complete ERP solution for Food and Beverage (F&amp;B) by Xerpium covering restaurant operations, kitchen display, catering, recipe production, quality control, cold chain, franchise, loyalty, and F&amp;B accounting.</description>
       <pubDate>2026-10-19T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>

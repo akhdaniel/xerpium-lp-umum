@@ -28,7 +28,7 @@
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 6 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 6 artikel
 - [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 6 artikel
-- [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 4 artikel
+- [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 6 artikel
 - [Rental / Rental](https://www.xerpium.com/rental): 4 artikel
 - [Retail / Retail](https://www.xerpium.com/retail): 4 artikel
 - [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite): 4 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Xerpium ERP untuk UMKM: Satu Platform untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-21-umkm-id): Xerpium ERP membantu UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform, mulai Rp150.000/user/bulan. Pelajari solusi ERP untuk UMKM di sini.
+- [Xerpium ERP for SMBs: A Unified, AI-Assisted Platform for Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-21-umkm-en): Discover how Xerpium ERP helps SMBs unify Sales, CRM, Purchasing, Inventory, and Accounting in one affordable platform with a built-in AI Assistant.
+- [PLM Xerpium ERP: Kontrol Penuh atas Engineering Change Order, Revisi BOM, dan Siklus Hidup Produk](https://www.xerpium.com/artikel/2026-10-21-plm-id): Pelajari cara modul PLM Xerpium ERP mengelola ECO, revisi BOM, analisis dampak, dan persetujuan perubahan produk secara terintegrasi dengan manufaktur untuk mengurangi risiko dan rework.
+- [PLM in ERP: How Xerpium Manages ECOs, BOM Revisions, and Change Approvals](https://www.xerpium.com/artikel/2026-10-21-plm-en): Learn how Xerpium ERP supports Product Lifecycle Management with structured ECOs, BOM revision control, change impact analysis, approvals, and manufacturing integration.
+- [Kendalikan Proses Manufaktur Lebih Presisi dengan Modul MRP Xerpium ERP](https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-id): Optimalkan manufaktur Anda dengan modul MRP Xerpium ERP untuk kelola BOM, routing, work order, dan biaya produksi secara real-time.
+- [Manufacturing ERP with Xerpium MRP: Controlling BOM, Routing, and Work Orders](https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-en): Learn how Xerpium Manufacturing (MRP) ERP simplifies BOM, routing, work orders, and production cost calculation with real-time dashboards and AI Assistant support.
 - [ERP Xerpium untuk Startup: Mulai dari Skala Kecil, Naik Kelas Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-10-20-startup-id): Xerpium ERP SaaS untuk startup: mulai dari Rp150.000/user/bulan, modul inti Accounting, Sales, Inventory, HR, AI Assistant, dan skalabel tanpa migrasi.
 - [Xerpium ERP for Startups: Start Lean, Scale Without Switching Systems](https://www.xerpium.com/artikel/2026-10-20-startup-en): Learn how Xerpium ERP helps startups start lean with core modules, AI-assisted reporting, and scalable SaaS pricing without switching systems.
 - [Layanan Perawatan dengan Xerpium ERP: Kelola Service Order, Work Order, dan Preventive Maintenance Secara Terstruktur](https://www.xerpium.com/artikel/2026-10-20-maintenance_service-id): Kelola layanan perawatan dengan Xerpium ERP: service order, work order, preventive maintenance schedule, checklist, variance analysis, dan integrasi penjualan-akuntansi-inventori.
@@ -78,12 +84,6 @@
 - [Complete ERP solution for Retail: Unifying POS, Marketplace, Inventory, and Accounting with Xerpium](https://www.xerpium.com/artikel/2026-10-19-retail-erp-lengkap-en): Retail operations rarely run in one system. A physical store depends on POS terminals, online orders live in Shopee and Tokopedia, food delivery flows through G
 - [Solusi lengkap ERP untuk Rental: Kendaraan, Alat Berat, Aset, dan General Rental dengan Xerpium](https://www.xerpium.com/artikel/2026-10-19-rental-erp-lengkap-id): Solusi lengkap ERP untuk rental kendaraan, alat berat, aset, dan general rental dari Xerpium. Kelola kontrak, pickup, return, denda, pajak, inventori, hingga laporan keuangan dalam satu platform.
 - [Complete ERP solution for Rental: Fleet, Heavy Equipment, Assets and General Items](https://www.xerpium.com/artikel/2026-10-19-rental-erp-lengkap-en): Explore Xerpium’s complete ERP solution for rental—fleet, heavy equipment, asset, and general rental with automated pickup-return, accounting, and real-time KPIs.
-- [Solusi lengkap ERP untuk PLM (Manajemen Siklus Produk): Kendalikan Perubahan BOM, Approval, dan Dokumen dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-19-plm-erp-lengkap-id): Solusi lengkap ERP untuk PLM (Manajemen Siklus Produk) dari Xerpium: kelola ECO, revisi BOM, analisis dampak, approval, dokumen, dan integrasi manufacturing dalam satu platform.
-- [Complete ERP solution for PLM (Product Lifecycle Management): End-to-End Change Control, BOM Revision, and Manufacturing Alignment with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-19-plm-erp-lengkap-en): Discover how Xerpium ERP delivers a complete PLM solution with ECO management, BOM revision control, dynamic approvals, impact analysis, and manufacturing integration.
-- [Solusi lengkap ERP untuk Layanan Perawatan: Dari Estimasi, Work Order, hingga Preventive Maintenance](https://www.xerpium.com/artikel/2026-10-19-maintenance_service-erp-lengkap-id): Solusi lengkap ERP untuk layanan perawatan dari Xerpium mencakup service order, work order, preventive maintenance, checklist, inventory, hingga invoicing dalam satu platform terpadu.
-- [Complete ERP solution for Maintenance Service with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-19-maintenance_service-erp-lengkap-en): Complete ERP solution for Maintenance Service with Xerpium ERP — manage service orders, work orders, customer equipment, preventive schedules, checklists, actual cost variance, and invoicing in one connected system.
-- [Optimalkan Logistik End-to-End dengan Xerpium ERP: Dari Shipment, Rate Card, hingga Proof of Delivery](https://www.xerpium.com/artikel/2026-10-19-logistics-id): Optimalkan logistik end-to-end dengan Xerpium ERP: kelola shipment, rate card, fleet, container, tracking, proof of delivery, cold chain, dan margin keuntungan dalam satu platform terintegrasi.
-- [Artikel Xerpium](https://www.xerpium.com/artikel/2026-10-19-logistics-erp-lengkap-id): Solusi lengkap ERP untuk Logistik dari Xerpium: kelola shipment, route, rate card, fleet, container, tracking, POD, klaim, cold chain, dan akuntansi dalam satu platform end-to-end.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
