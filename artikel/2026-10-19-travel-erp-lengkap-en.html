@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Running a Hajj, Umrah, and travel operation involves far more than selling a package. Agencies must coordinate hotel inventory in Makkah and Madinah, airline seat quotas, room-type pricing for quad, triple, double, and single occupancy, passport and visa compliance, installment payments, procurement of hotel rooms, flights, and visas, and gender-aware distribution of travel equipment. When these functions live in separate spreadsheets, legacy systems, and manual email chains, the same data gets rekeyed repeatedly, quota overbooking and document expiry become easy to miss, and reporting turns into a manual weekly burden. Xerpium consolidates these processes in one travel ERP built for the complexity of the vertical.</p>
-<h2>Tantangan umum di Travel, Hajj &amp; Umrah</h2>
+<h2>Common Challenges in Travel, Hajj &amp; Umrah</h2>
 <ul>
 <li>Package structures are complex: different hotels for Makkah and Madinah, room types, airline seat quotas, and package tiers all affect pricing and availability.</li>
 <li>Document compliance is high-risk: NIK, passport validity with the six-month rule, visa expiry, mahram linking, and multiple uploaded documents must be verified and tracked.</li>
@@ -83,28 +83,28 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Procurement and equipment distribution are multi-party and item-specific: hotel rooms, flights, visas, and gender-specific equipment must be ordered and distributed for each departure.</li>
 <li>Accounting and tax treatment for travel, Hajj, and Umrah includes special fiscal positions and withholding rules that many generic ERPs do not handle cleanly.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
-<h3>Hotel, penerbangan, dan paket</h3>
+<h2>Xerpium Solution Coverage</h2>
+<h3>Hotels, Flights, and Packages</h3>
 <p>Xerpium captures hotel details for Makkah and Madinah including star rating from 2 to 5, distance to the masjid in meters, facilities, and room capacity. Airlines such as Garuda Indonesia and Saudi Airlines are managed with flight numbers, type of route, origin and destination, transit, and duration. Seat inventory distinguishes economy and business class with quotas per flight, and displays flight context clearly, such as “Garuda Indonesia GA-981 (Jakarta → Jeddah)”.</p>
 <p>Packages are structured into three types: Reguler, Plus, and VIP. Each package has a duration in days, a quota, and hotel allocations for Makkah and Madinah with the number of nights in each city. Room pricing is maintained per configuration: quad, triple, double, and single. Package facilities cover visa, ticket, hotel, muthawwif, transport, catering, insurance, ziarah, and manasik. Equipment templates are also attached per package.</p>
-<h3>Data jamaah, dokumen, dan compliance</h3>
+<h3>Pilgrim Data, Documents, and Compliance</h3>
 <p>Jamaah records include identity data such as 16-digit NIK, place and date of birth, age, gender, education, and occupation. Passport data stores number and validity status with automatic checking for expiry within six months. Visa numbers, issue dates, and expiry dates are tracked automatically. Female jamaah can be linked to a male mahram, while health data includes blood type, rhesus, height, weight, wheelchair needs, and special dietary requirements. Emergency contact name, phone, and relationship are also recorded.</p>
 <p>Nine document types are supported: KTP, Passport, Photo 3x4, Sertifikat Vaksin, Akta Nikah, Akta Lahir, KK, SK Sehat, and Lainnya. Each document can be uploaded with expiry tracking and follows a workflow from Pending to Approved or Rejected, including verifier user and timestamp. Documents can be reset to pending for re-verification when revision is needed. Document status is computed automatically: a jamaah is marked document complete when KTP, passport, photo, and vaccine records are approved. Each document type is unique per jamaah.</p>
-<h3>Keberangkatan, registrasi, dan payment schedule</h3>
+<h3>Departures, Registration, and Payment Schedule</h3>
 <p>Departures use an automatic code format such as KEP/YYYY/NNNN per year. They move through states including Draft, Open, Full, Departed, Returned, Closed, and Cancelled, and are also represented in eight dynamic stages: Persiapan, Pendaftaran Dibuka, Penuh, Verifikasi Dokumen, Berangkat, Kembali, Selesai, and Dibatalkan. Each departure has quota derived from the selected package, consumed quota from confirmed sale orders, and availability percentage. A team is assigned from employees, including a group leader and multiple guides or muthawwif. Go and return flights can be selected independently from the package default.</p>
 <p>During registration, the sale order captures the package, departure, and room type. Pricing is automatic from the selected room type, and quota availability is validated at confirmation. Payment schedules are auto-generated with three configurable terms, defaulting to DP 30%, Angsuran 40%, and Pelunasan 30%. Each term can be invoiced with one click, with tracking of total invoiced, paid, and remaining amounts. Overpayment is prevented by validating that totals do not exceed the package price. Document completeness is flagged automatically from jamaah records.</p>
-<h3>Procurement, inventory, dan distribusi perlengkapan</h3>
+<h3>Procurement, Inventory, and Equipment Distribution</h3>
 <p>Purchase integration handles four PO types: Hotel Makkah, Hotel Madinah, Flight, and Visa. A wizard auto-fills vendors from hotel records and line quantities from confirmed jamaah counts. Duplicate prevention stops the same PO type from being created twice for a given departure. Purchase count and status are tracked per departure, and product descriptions are generated automatically with departure context.</p>
 <p>Equipment templates differ per package type and include more than 15 items such as koper, tas jinjing, tas paspor, kain ihram, mukena, seragam batik, buku panduan, sandal, sabuk uang, ID card, spray, and P3K. Distribution is gender-aware: male jamaah receive ihram, while female jamaah receive mukena. Clothing sizes are tracked per jamaah from S to XXXL. Distribution documents are auto-generated from confirmed sale orders per departure and follow a workflow of Draft, Confirmed, Packed, Distributed, and Cancelled. They generate outgoing stock picking and reduce inventory automatically, with aggregate product summaries for packing and per-jamaah distribution flags.</p>
-<h3>Reporting, reminders, dan control tower</h3>
+<h3>Reporting, Reminders, and Control Tower</h3>
 <p>Xerpium provides three bilingual reports in Bahasa Indonesia and English: manifest report with passenger, flight, hotel, team, room summary, gender summary, and document status; payment report with per-jamaah payment status, totals, percentage, paid/partial/unpaid summary, and revenue realization; and equipment report with quantity needed, distributed quantity, per-jamaah item listing, and acceptance status.</p>
 <p>Automated reminders include a daily cron check for passports expiring within six months, H-30 and H-7 departure reminders, and notifications when documents are approved or rejected with notes. KPI tiles surface total jamaah, total revenue, active departures, pending documents, passports near expiry, complete documents, departures this month, and rejected documents. Charts show jamaah per package, document status, departure status, registration trend, revenue trend, upcoming departures, and passport status.</p>
-<h3>Accounting, taxes, dan operasi multi-entitas</h3>
+<h3>Accounting, Taxes, and Multi-Entity Operations</h3>
 <p>The travel-specific tax setup includes PPN 11%, PPh 23 jasa 2%, PPh 23 jasa 4% without NPWP, PPh 26 jasa luar negeri 20%, PPh final Pasal 4(2) sewa 10%, PPN JKP luar negeri reverse charge 12%, and bea materai Rp 10.000. Fiscal positions support Travel/Haji/Umroh Exempt mapping. The chart of accounts for travel includes 180 accounts, 33 groups, and 9 tax types, supporting balance sheet, profit and loss, and trial balance reporting. Invoices are generated automatically from payment schedules.</p>
 <p>For multi-branch operations, Xerpium supports multi-company travel structures with consolidated financial reports and shared master data for hotels and packages. HR integration uses employees for group leaders and muthawwif assignments, including scheduling, payroll, and guide commission. Dashboard Studio provides 15 widgets for jamaah, revenue, documents, passport, and departure data, with AI-generated dashboards. The AI assistant can create jamaah registrations via natural language, check document and passport status, and generate manifest reports through chat.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A typical cycle starts with configuring a package such as Reguler, including hotels in Makkah and Madinah, room prices, package facilities, and equipment template. The agency then opens a departure with an automatic code, selects the package, assigns a group leader and muthawwif, and defines go and return flights. A jamaah registers through a sale order by choosing the package, departure, and room type. The system auto-fills the price, validates quota, and generates the three payment terms. Documents are uploaded and verified, triggering automatic reminders for missing or expiring records. Once confirmed, the registration consumes departure quota. Procurement then creates POs for Hotel Makkah, Hotel Madinah, Flight, and Visa with quantities derived from jamaah counts. Equipment distribution generates stock picking and reduces inventory. H-30 and H-7 reminders keep the jamaah informed. After departure, the agency closes the trip and uses manifest, payment, and equipment reports alongside financial statements to complete the cycle.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>One source of truth for packages, departures, jamaah, documents, payments, procurement, inventory, and accounting.</li>
 <li>Quota validation and duplicate PO prevention reduce overbooking and double purchasing.</li>
@@ -115,7 +115,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Multi-company consolidation supports travel groups with multiple branches using shared master data.</li>
 <li>AI assistant and dashboard widgets accelerate daily operational tasks and management review.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Persiapkan data master.</strong> Load the travel chart of accounts, tax mappings, vendors, hotels, airlines, package definitions, product variants for equipment, document types, and employee records.</li>
 <li><strong>Konfigurasi parameter.</strong> Set payment schedule defaults such as 30/40/30, fiscal positions including Travel/Haji/Umroh Exempt, departure stages and user access, inventory locations, and email reminder rules.</li>
@@ -145,7 +145,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Travel, Hajj &amp; Umrah end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Travel, Hajj &amp; Umrah end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Livestock operations often run on a patchwork of spreadsheets, paper logs, and disconnected systems. One team records animal data, another tracks feed, another manages health records, while finance tries to calculate cost per head and margins from incomplete operational data. This fragmentation creates slow reporting, inaccurate Average Daily Gain (ADG), unclear Feed Conversion Ratio (FCR), weak traceability, and difficulty proving halal compliance. Xerpium ERP addresses this by providing a unified livestock platform that connects animal registry, pen management, feeding, weighing, health, SOPs, traceability, blockchain-ready halal certificates, accounting, and profitability in one system.</p>
-<h2>Tantangan umum di Livestock</h2>
+<h2>Common Challenges in Livestock</h2>
 <ul>
 <li>Animal identity and origin data are scattered across ear tags, paper cards, and local files.</li>
 <li>Feed consumption, weight gain, and FCR are calculated manually, causing delays and errors.</li>
@@ -83,24 +83,24 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>HPP per animal or per kg live weight is hard to compute because feed, medicine, labor, and overhead costs are not allocated per batch.</li>
 <li>Halal slaughter records and certificates are not connected to a tamper-evident, immutable audit trail.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
-<h3>Animal Registry dan Pen Management</h3>
+<h2>Xerpium Solution Coverage</h2>
+<h3>Animal Registry and Pen Management</h3>
 <p>Xerpium starts with a structured animal registry. Each animal can be identified by ear tag, RFID code, or QR code. The system supports multiple species and breeds, including Bali, Madura, PO, Limousin, Simmental, Brahman, Angus, FH, and others. Origin tracking captures province, district, and source farm in a structured way. Photos and documents are stored per animal, along with purchase information such as supplier, purchase order, purchase price, initial weight, and entry date.</p>
 <p>Pen management covers pen types such as fattening, quarantine, isolation, and holding. Each pen records capacity, current count, utilization percentage, location or block, area in m², and a responsible person from HR employee data. Pens can be assigned to livestock batches through a many-to-many relationship, so operations always know where each animal group is located.</p>
-<h3>Batch Management dan Feed Management</h3>
+<h3>Batch Management and Feed Management</h3>
 <p>Batch management organizes fattening periods with start date, end date, and state from draft to active to done. Each batch links to pens and animal lists. Performance KPIs include FCR, average ADG, total weight gain, and mortality rate. The batch also carries full costing for feed, medicine, labor, overhead, and purchasing. HPP per head and per kg live weight is computed automatically.</p>
 <p>Feed management records ingredients such as forage, concentrate, BIS, rice bran, tofu waste, molasses, and minerals. Users can define total mixed ration feed formulas with dry matter percentage and cost per kg. Feed stock is tracked per pen with quantity on hand. Daily feeding records are captured per batch or pen and per feeding time such as morning, afternoon, and evening. Dry matter tracking is automatic from ingredient or formula data.</p>
-<h3>Weighing, ADG, dan FCR</h3>
+<h3>Weighing, ADG, and FCR</h3>
 <p>Weighing records store routine weight measurements per animal, with date and method such as manual, RFID, or digital. ADG is computed automatically from the difference in weight divided by the interval in days. The system displays a growth curve as an interactive line chart per animal and automatically shows previous weight and interval days. Duplicate weighing on the same date is blocked to keep data clean.</p>
 <p>Feeding and FCR features support a schedule for morning, afternoon, evening, or night per batch or pen. In formula mode, users select a ration formula and quantity is taken from daily feed per head. In ingredient mode, direct ingredient recording includes automatic cost calculation. Dry matter per head and feed per head are calculated automatically.</p>
-<h3>Health, Pharmacy, dan SOP Management</h3>
+<h3>Health, Pharmacy, and SOP Management</h3>
 <p>Health records capture event types such as vaccination, treatment, sickness, death, quarantine, routine checkup, and surgery. Medicine tracking records product, dose, unit, cost, and withdrawal period. Withdrawal date is calculated as the safe selling date after medicine administration. Vaccination schedules can be preventive per species with reminder cron jobs. Photo documentation is available for before and after medical actions.</p>
 <p>Pharmacy stock is tracked per pen and central warehouse. Movement tracking covers receipt, issue, and stock adjustments. Low stock alerts use minimum stock levels and automatic low-stock flags. Expiry tracking records batch expiry dates for medicines. Stock is automatically deducted when a medical record is created.</p>
 <p>SOP management supports SOP types such as feeding, health, hygiene, weighing, vaccination, biosecurity, and slaughter. Each SOP contains checklist items with guidance, estimated time, and photo documentation. A daily cron job can automatically create SOP executions for every pen. Execution tracking moves from draft to in_progress to done or skipped, and completion percentage is calculated automatically.</p>
-<h3>Traceability, Halal Chain, dan Blockchain</h3>
+<h3>Traceability, Halal Chain, and Blockchain</h3>
 <p>The traceability module records chain of custody as an event log per animal from intake to active to sold or slaughtered. Records are append-only with SHA-256 hash, making them immutable after hashing. The hash chain includes previous hash structured for blockchain readiness.</p>
 <p>Halal slaughter records include ante-mortem checks, bismillah, qibla, blood drained, and post-mortem checks. Halal compliance is computed from the checklist and requires all mandatory items to be fulfilled. Karkas data records live weight, carcass weight, dressing percentage, and offal. The system stores SHA-256 hash and blockchain transaction hash for verification. Halal certificates include number, institution such as MUI, LPPOM, or BPJPH, type, and validity period. Certificates auto-expire based on date, and record tamper evidence is verified automatically.</p>
-<h3>HPP &amp; Profitability Engine dan Accounting</h3>
+<h3>HPP &amp; Profitability Engine and Accounting</h3>
 <p>The profitability engine calculates feed cost from feeding records, medicine cost from health events, labor cost from labor assignment, and overhead such as electricity, water, and pen depreciation. Total revenue comes from sold animal sales. Gross profit and margin percentage are calculated automatically per batch.</p>
 <p>Accounting features include automatic HPP computation per head and per kg from total batch cost, automatic sale journal posting when an animal is marked sold, cost allocation for feed, medicine, and labor per batch, multi-branch consolidation, analytic accounts as cost centers per batch or pen, and profit and loss per batch with gross profit and margin percentage.</p>
 <h3>Cross-Module Integrations</h3>
@@ -117,11 +117,11 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </ul>
 <h3>AI Dashboard</h3>
 <p>Xerpium includes AI dashboard features that generate complete dashboards from natural language via DeepSeek, convert natural language into real-time SQL queries, analyze trends, peaks, anomalies, and recommendations through chart insights, provide an interactive growth chart widget per animal, and apply conditional formatting based on values.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A typical fattening cycle begins with a purchase order for feeder cattle. The PO includes species and expected weight. When the PO is approved, animal records are created automatically from the line items. The destination pen and batch are filled directly from the PO, and origin province is taken from the supplier address. An intake trace event is automatically recorded in the traceability log.</p>
 <p>During the fattening period, daily SOPs are created automatically for each pen. Workers record feeding by formula or ingredient mode, and dry matter and feed per head are calculated. Weighing is done routinely, with ADG and growth curves updated automatically. Health events deduct pharmacy stock, calculate withdrawal dates, and schedule follow-up vaccinations. All costs flow into the batch costing engine.</p>
 <p>At sale or slaughter, a sales order selects the animals, marks them sold, and posts the journal automatically. HPP is calculated from batch costs. For halal slaughter, the slaughter checklist is completed, compliance is verified, carcass data is recorded, and the certificate is hashed and blockchain-ready. The chain of custody closes from intake to sold or slaughtered with immutable audit evidence.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>Single source of truth for animal identity, origin, health, weight, and movement.</li>
 <li>Real-time ADG, FCR, dry matter, and feed cost without manual spreadsheet work.</li>
@@ -130,7 +130,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Verifiable halal compliance and blockchain-ready traceability from farm to slaughter.</li>
 <li>Cleaner procurement, inventory, and multi-branch financial consolidation.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li>Persiapan data: collect master data for species, breeds, pens, suppliers, employees, feed ingredients, medicine products, and chart of accounts.</li>
 <li>Parameter dan konfigurasi: define batch periods, feed formulas, SOP templates, vaccination schedules, withdrawal rules, analytic accounts, and low-stock thresholds.</li>
@@ -138,7 +138,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Rollout: expand to all pens and locations with multi-branch setup, train field staff on daily feeding, weighing, health, and SOP execution, and train finance on HPP and journal posting.</li>
 <li>Evaluasi dan optimasi: review AI dashboard insights, SOP completion rates, low stock alerts, certificate expiry, and batch profitability; adjust parameters and SOPs as needed.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Xerpium provides a complete ERP solution for livestock that connects animal registry, pen and batch operations, feed and weighing, health and pharmacy, SOP compliance, halal slaughter, blockchain-ready traceability, accounting, and profitability. It removes the gaps between farm operations and financial reporting, so livestock companies can run with accurate data, stronger compliance, and clearer margins. To start onboarding or discuss your livestock workflow, visit onboard.xerpium.com.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for Livestock: End-to-End Management from Animal Registry to Halal Traceability" data-share-text="Complete ERP solution for Livestock: End-to-End Management from Animal Registry to Halal Traceability
 
@@ -161,7 +161,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Livestock end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Livestock end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

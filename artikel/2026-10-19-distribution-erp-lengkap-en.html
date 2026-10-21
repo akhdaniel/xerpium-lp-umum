@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Distribution businesses often run on a patchwork of spreadsheets, separate sales apps, manual delivery notes, and accounting tools that do not share data. A field salesperson may record a visit in one system, the warehouse may process a transfer in another, and finance may only see the invoice days later. In that gap, stock forecasts become guesses, discount schemes are applied inconsistently, proof of delivery is missing, and collection payments are hard to reconcile. A complete ERP solution for Distribution must connect the field, warehouse, fleet, and back office in one operational record. Xerpium ERP provides that end-to-end scope: from territory structure and principal pricing to delivery manifests, field collection, and AI-assisted reporting.</p>
-<h2>Tantangan umum di Distribution</h2>
+<h2>Common Challenges in Distribution</h2>
 <ul>
 <li>Territory and route data are managed manually, making salesman assignment and zone coverage inconsistent.</li>
 <li>Principal discount schemes are disconnected from sales orders, causing pricing errors and margin leakage.</li>
@@ -84,7 +84,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Field visits, order capture, and collection payments happen on paper or in separate apps, delaying settlement and creating reconciliation work for accounting.</li>
 <li>Approval workflows for sales and purchase orders are rigid, without clear credit checks, budget limits, or configurable stages.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>Territory and sales force structure</h3>
 <p>Xerpium organizes distribution coverage using a clear hierarchy: Region, Area, and Zone. Regions group large territories such as Sumatera, Jawa, or Kalimantan. Each Area links to a Region, and each Zone becomes the smallest distribution unit, linked to customers through a one-to-many relationship with customer records. Zone, Area, and Region counts are calculated automatically. Salesman Territory assignment places one salesman per zone within a date range, with a unique constraint that prevents duplicate assignment. Related area and region fields are available from the zone record, so route ownership stays clean.</p>
 <h3>Principal, discount, and sales order workflow</h3>
@@ -97,9 +97,9 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <p>Visit Plan schedules daily salesman visits with visit types such as sales call, canvassing, collection, and survey. Route optimization orders visits by zone, and status tracks Planned, Done, and Cancelled. Visit Log captures on-site reports in real time, including photo evidence, order capture from the field, and geo tagging via coordinates. Collection Payment records on-site collection from customers with payment methods such as cash, transfer, and QRIS. Payments link to account.move receivables and update settlement status immediately.</p>
 <h3>Sales target, accounting, and AI dashboard</h3>
 <p>Sales Target defines monthly targets per salesman, with breakdown per principal, tracks realization versus target percentages, integrates distribution reports via report_id_distribution, and presents visual performance through dashboard views. Distribution accounting handles principal discounts automatically, multi-warehouse valuation per branch or warehouse, collection payment recording from the field, consignment tracking, and salesman commission calculation. The AI Dashboard can auto-generate dashboards from natural language using DeepSeek, translate natural language into real-time SQL, analyze trends, peaks, and anomalies, and run a copilot chat with SSE-streamed responses in the dashboard context.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A typical distribution cycle in Xerpium can run like this. A sales order is created for a customer in a Zone. The system automatically applies the principal discount scheme from the Principal &amp; Discount module and validates the order against credit limits and discount rules. If within limits, the order is auto-approved; if not, it moves through a configured approval stage. A delivery order is then created from the sale order using the delivery wizard. The warehouse processes stock according to route and daily manifest, supported by barcode scanning and internal transfers if stock must move between warehouses. Fleet integration assigns the vehicle and driver. The driver or salesman delivers goods, captures proof of delivery and photo evidence, and records field collection payment against the invoice. Seasonal forecast and sales target data feed back into purchasing and sales planning. Accounting journals, commissions, and multi-warehouse valuations are updated from the same records. An AI dashboard can then answer operational questions such as “Target sales bulan ini untuk salesman X” or “Realisasi visit vs plan minggu ini” directly from the connected data.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>One territory hierarchy keeps Region, Area, Zone, customer, and salesman assignment consistent.</li>
 <li>Principal discount schemes apply automatically to sales orders, reducing manual pricing errors.</li>
@@ -109,15 +109,15 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Configurable SO and PO approval stages enforce credit, budget, and principal limits without slowing routine transactions.</li>
 <li>AI dashboards turn natural language questions into live operational insight for sales targets, delivery performance, and forecast stock.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
-<li><strong>Persiapan data wilayah dan partner</strong> – Define regions, areas, zones, customer links, and salesman territories. Clean customer and principal data before loading.</li>
-<li><strong>Konfigurasi parameter, COA, dan approval</strong> – Set principal discount schemes, sales targets, credit limits, purchase budget limits, dynamic stage rules, and chart of accounts for distribution transactions.</li>
-<li><strong>Pilot pada satu zona atau area</strong> – Run a controlled pilot covering sales order, delivery route, manifest, POD, visit log, and collection payment. Validate integration with inventory and accounting.</li>
+<li><strong>Region and partner data preparation</strong> – Define regions, areas, zones, customer links, and salesman territories. Clean customer and principal data before loading.</li>
+<li><strong>Parameter, COA, and approval configuration</strong> – Set principal discount schemes, sales targets, credit limits, purchase budget limits, dynamic stage rules, and chart of accounts for distribution transactions.</li>
+<li><strong>Pilot in one zone or area</strong> – Run a controlled pilot covering sales order, delivery route, manifest, POD, visit log, and collection payment. Validate integration with inventory and accounting.</li>
 <li><strong>Rollout bertahap</strong> – Expand to additional zones, warehouses, and fleets. Add seasonal forecast computation, barcode scanning, and AI dashboard usage once the core flow stabilizes.</li>
-<li><strong>Evaluasi dan tuning</strong> – Compare realization versus target, review delivery performance and forecast accuracy, adjust approval stages, and refine route and visit planning based on operational data.</li>
+<li><strong>Evaluate and tune</strong> – Compare realization versus target, review delivery performance and forecast accuracy, adjust approval stages, and refine route and visit planning based on operational data.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Xerpium provides a complete ERP solution for Distribution by connecting territory hierarchy, principal pricing, sales and purchase approvals, warehouse transfers, delivery routes, field visits, collection, accounting, and AI reporting in one system. Distribution teams get a single operational flow from sales order to proof of delivery and payment, while management gains visibility into targets, routes, and seasonal stock needs. To see how Xerpium can fit your distribution operation, start onboarding at onboard.xerpium.com.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for Distribution: How Xerpium Connects Territory, Sales, Inventory, Delivery, and Accounting" data-share-text="Complete ERP solution for Distribution: How Xerpium Connects Territory, Sales, Inventory, Delivery, and Accounting
 
@@ -140,7 +140,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Distribution end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Distribution end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Retail operations rarely run in one system. A physical store depends on POS terminals, online orders live in Shopee and Tokopedia, food delivery flows through GoBiz/GoFood, inventory is tracked in spreadsheets, and finance manually journals sales into separate accounting software. The result is stock mismatch, delayed closing, duplicated data entry, weak tax control, and little visibility into per-channel margin. Xerpium addresses this by combining POS Multi-Outlet, marketplace integrations, sales, purchase, inventory, accounting, HR, e-commerce, Dashboard Studio, and AI Assistant into one enterprise ERP suite for retail.</p>
-<h2>Tantangan umum di Retail</h2>
+<h2>Common Challenges in Retail</h2>
 <ul>
 <li><strong>Multi-channel fragmentation:</strong> POS, Shopee, Tokopedia, and GoFood update stock, prices, and orders separately, creating frequent discrepancies.</li>
 <li><strong>Manual accounting:</strong> Every POS and marketplace transaction must be re-keyed into accounting, making PPN 11% input/output tracking and reconciliation slow.</li>
@@ -83,7 +83,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Reactive procurement:</strong> Without min/max reorder rules or three-way matching, stores order too late, overstock, or pay without verifying receipt.</li>
 <li><strong>Complex workforce operations:</strong> Shift attendance, overtime, sales commission, BPJS, PPh 21, and payroll are often managed outside the core system.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>POS Multi-Outlet and offline-ready store operations</h3>
 <p>Xerpium supports multi-cashier sessions, shift management, automatic closing, and cash control through opening balance, cash in/out, and three-tier closing reconciliation. It accepts cash, debit, credit, QRIS, e-wallet, and transfer payments. Offline Mode lets the POS keep processing transactions and sync in batch when connectivity returns. A REST API with 11 endpoints under <code>/xerpium/pos/*</code> supports standalone POS clients, while <code>/ping</code>, <code>/configs</code>, <code>/products</code>, <code>/customers</code>, <code>/session</code>, and <code>/payment_methods</code> enable synchronization, stock updates, and CORS-ready POS integration. Discounts cover per-item, per-order, buy-1-get-1, and happy hour promotions.</p>
 <h3>Marketplace and GoFood delivery integrations</h3>
@@ -95,9 +95,9 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <p>Xerpium provides a retail-specific chart of accounts with 113 accounts and 32 account groups. It handles PPN 11% for input and output VAT, prepaid VAT, AR/AP aging, dunning, reconciliation, bank and cash reconciliation, petty cash, transfer, fiscal position mapping for retail exempt cases, and multi-currency with automatic exchange rates. Standard reports include Balance Sheet, Profit &amp; Loss, Trial Balance, and tax positions for PPN 11%, PPh 21/23/4(2), and fiscal exemptions. Special retail accounts cover marketplace revenue, vendor rebate, promo support, and shrinkage. Dashboard Studio adds 14 KPI widgets with 8 tiles and 6 charts, including a 12-month revenue trend area chart, top 10 products horizontal bar, revenue by category doughnut chart, and low stock alert for items with stock ≤ 5. AI Generate can turn natural language into a complete dashboard.</p>
 <h3>HR, payroll, AI assistant, and multi-outlet governance</h3>
 <p>HR &amp; Payroll manages employee data such as NIK, BPJS, NPWP, attendance check-in/out, shift, overtime, payroll, BPJS, PPh 21, sales commission per transaction or product, and leave workflows with approval. The AI Assistant answers natural language questions such as “Berapa penjualan hari ini?” or “Buat invoice”, performs data lookup, generates reports, creates POS orders, posts journal entries, and offers 100+ tools across sales, purchase, inventory, accounting, and HR in 11 languages. Multi-Company supports multi-outlet head office and branch models, inter-branch stock and fund transfers, consolidated financial reports per outlet, and shared master data for products and accounts. Dynamic Stage provides configurable workflows for SO, PO, and stock transfer, with RBAC so cashiers submit and supervisors approve, plus Python hooks and server actions.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A single transaction shows how the modules connect. A cashier opens a POS session with opening balance, scans a barcode, applies a per-order discount, and receives payment via QRIS. The POS updates warehouse stock in real time and creates a sale order and invoice with automatic GL posting into the retail COA, including PPN 11%. If a Shopee or GoFood order comes in, the webhook creates a sale order, syncs stock across the channel, and updates shipment status. When stock falls below the reorder rule, Xerpium creates a PO to the vendor. The warehouse receives goods by barcode scanning, and the finance team performs three-way matching before approving the vendor bill. At month-end, bank and marketplace settlement reconciliation, AR/AP aging, and tax reporting are available directly from the same system. Employee attendance and sales commission feed payroll, while Dashboard Studio shows revenue trend, category performance, and low stock alerts.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>One source of truth for stock, pricing, orders, and financial postings across POS, Shopee, Tokopedia, and GoFood.</li>
 <li>Real-time GL and PPN 11% compliance from every POS and marketplace transaction.</li>
@@ -107,7 +107,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Faster decisions through Dashboard Studio KPI widgets and AI Assistant natural-language reporting.</li>
 <li>Scalable multi-outlet operations with consolidated financial reports and shared master data.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Prepare data:</strong> Import product catalogs with variants, images, barcodes, customers, vendors, warehouses, employees, and marketplace or GoFood credentials for synchronization.</li>
 <li><strong>Configure COA and parameters:</strong> Activate the 113-account retail COA, PPN 11%, fiscal position exemptions, payment</li>
@@ -133,7 +133,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Retail end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Retail end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

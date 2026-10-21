@@ -76,7 +76,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <div class="content">
 <p>Agriculture and plantation businesses do not operate on a clean, predictable calendar. Costs for fertilizer, seed, pesticide, land preparation, and seasonal labor occur continuously, while revenue arrives around harvest cycles. At the same time, finance teams must account for biological assets, separate harvest COGS from other expenses, and produce reports that comply with Indonesian agricultural accounting standards. When these processes run on fragmented spreadsheets, disconnected purchase and sales records, manual attendance logs, and generic accounting tools, the result is slow reconciliation and poor visibility into margin by commodity.</p>
 <p>Xerpium ERP addresses this with an end-to-end agriculture scope that connects localized accounting, financial reporting, KPI dashboards, HR operations, procurement, inventory, and sales in one system. This article explains the vertical challenges, the relevant Xerpium capabilities, how they flow together in a real harvest cycle, and how to implement the solution.</p>
-<h2>Tantangan umum di Agriculture</h2>
+<h2>Common Challenges in Agriculture</h2>
 <ul>
 <li>Seasonal cash flow makes revenue irregular, while input purchases such as fertilizer, seed, and pesticide often happen before harvest income is received.</li>
 <li>Biological assets such as productive crops and livestock require proper grouping, valuation, and depreciation treatment.</li>
@@ -84,7 +84,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Seasonal and daily workers create payroll complexity because wages may be daily or piece-rate, not standard monthly salaries.</li>
 <li>Generic financial reports rarely separate harvest COGS from other costs, making it hard to measure profitability per commodity or buyer.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>Agriculture Accounting Localization</h3>
 <p>Xerpium provides a dedicated agriculture and plantation chart of accounts with 6-digit account codes using the <code>ag_XXXXXX</code> prefix. The localization includes pre-configured receivable and payable accounts such as <code>ag_120100</code> for AR and <code>ag_210100</code> for AP, revenue under <code>ag_410100</code>, COGS under <code>ag_510100</code>, and PPN 11% tax defaults for both sale and purchase transactions. It also includes currency exchange accounts for gain and loss under <code>ag_710200</code> and <code>ag_720200</code>, and cash difference accounts under <code>ag_710300</code> and <code>ag_720300</code>.</p>
 <p>The account structure supports asset groups for biological assets, separate harvest COGS, subsidy accounts for government fertilizer or seed programs, land management accounts for land rent or tax, and depreciation for agricultural equipment. Sale and purchase journals are pre-configured with refund sequence support.</p>
@@ -96,11 +96,11 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <p>The dashboard also includes four charts: monthly revenue trend, cost trend, top commodities by revenue, and top buyers. The underlying data is pulled from sale orders, purchase orders, stock quantities, employees, and account moves, with SQL-based analytics for monthly trends and top products or buyers. The dashboard uses a green agribusiness theme, a 12-column responsive grid, a global date filter, and a 5-minute refresh.</p>
 <h3>HR, Operations, and Harvest Management</h3>
 <p>Xerpium supports the operational side of agriculture with worker management for permanent and seasonal employees, payroll for daily or piece-rate harvest workers, attendance records for field and plantation staff, and departments organized by commodity or land. Equipment tracking covers agricultural assets such as tractors and sprayers, while the calendar module helps schedule planting, harvest, and fertilizer application.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>Consider one planting-to-sale cycle in a plantation operation. The procurement team creates a purchase order for fertilizer, seed, and pesticide, with PPN 11% applied automatically. While the PO is still pending, it appears in the dashboard’s pending input PO KPI. When goods arrive, inventory is received and the stock value of harvest inputs is updated.</p>
 <p>The HR team records daily attendance for field workers and processes payroll as daily or piece-rate wages. The active worker count refreshes in the dashboard. After harvest, output enters stock and the system records the cost of harvest under <code>ag_510100</code> COGS, separate from other input costs. A sales order is created for a distributor, market buyer, or exporter; revenue is recognized under <code>ag_410100</code> and AR under <code>ag_120100</code>. When the invoice is issued, it counts toward the month’s invoice KPI. Payment reduces residual AR and updates the buyer receivables metric.</p>
 <p>Throughout the cycle, the dashboard updates revenue, cost trend, top commodities, and top buyers. The financial statements reflect the harvest revenue, input COGS, biological assets, and cash flow in the correct account groups.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>A single agriculture-specific chart of accounts aligned with Indonesian agricultural accounting standards.</li>
 <li>Real-time visibility into revenue, input costs, receivables, workers, stock value, pending POs, and invoices from one dashboard.</li>
@@ -109,7 +109,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Faster financial closing with agriculture-specific balance sheet, P&amp;L, cash flow, harvest, input, and land usage reports.</li>
 <li>Scalable operational management for seasonal workers, daily payroll, attendance, and agricultural equipment.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Persiapan data</strong>: Prepare master data for commodities, land or departments, workers, buyers, suppliers, equipment, and opening balances for biological assets and inventory.</li>
 <li><strong>Configure accounting and parameters</strong>: Apply the agriculture chart of accounts template, set PPN 11% defaults, configure sale and purchase journals, currency exchange accounts, cash difference accounts, and report mappings.</li>
@@ -117,7 +117,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Rollout across departments</strong>: Extend the setup to all commodities and lands, integrate worker attendance, payroll, equipment tracking, and the planting or harvest calendar.</li>
 <li><strong>Evaluate and tune</strong>: Review monthly revenue and cost trends, COGS by commodity, AR aging, pending input POs, and biological asset reporting, then adjust account mapping or workflows as needed.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Xerpium ERP brings the financial, operational, and reporting requirements of agriculture into one connected system. The combination of a localized agriculture chart of accounts, agriculture-specific financial reports, an operational KPI dashboard, and HR or field management removes the data fragmentation that slows plantation and agribusiness decisions. For teams ready to start, the onboarding path is available at onboard.xerpium.com.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for Agriculture: Unified Financial, Operational, and Harvest Control with Xerpium ERP" data-share-text="Complete ERP solution for Agriculture: Unified Financial, Operational, and Harvest Control with Xerpium ERP
 
@@ -140,7 +140,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Agriculture end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Agriculture end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

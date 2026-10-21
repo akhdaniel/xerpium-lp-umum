@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Electronic OEM manufacturers operate in a highly interconnected environment. They manage customer-specific product models, version-controlled BOMs, imported raw materials, AQL inspections, yield and downtime records, KITE duty exemption, export documentation, and a dedicated chart of accounts. When these processes run on separate spreadsheets or disconnected applications, data gets duplicated, BOM versions drift, landed costs become unclear, and export compliance becomes a manual burden. Xerpium ERP addresses this by connecting the entire electronic OEM lifecycle in one system—from product model and BOM to manufacturing, quality, export, finance, and AI-assisted operational queries.</p>
-<h2>Tantangan umum di Electronic OEM Manufacturing</h2>
+<h2>Common Challenges in Electronic OEM Manufacturing</h2>
 <ul>
 <li><strong>Version-controlled product data:</strong> Every OEM customer may have unique specifications, BOM versions, HS codes, FOB prices, and packaging details. Keeping draft, approved, and obsolete BOM versions aligned across sales, purchasing, and production is difficult without a single source of truth.</li>
 <li><strong>Trade compliance and duty exemption:</strong> KITE facility ratios, LC terms, import values versus export values, and landed cost calculations must be tracked accurately to avoid compliance risk and margin leakage.</li>
@@ -83,7 +83,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Quality and traceability pressure:</strong> Inbound AQL sampling, reject counts, supplier certificates, yield records, and component-to-finished-good lot traceability are difficult to maintain when quality data is not linked to manufacturing orders and customer POs.</li>
 <li><strong>Fragmented finance visibility:</strong> Revenue, COGS, PPN, PPh, depreciation of SMT/Assembly/QC machines, scrap, and export versus local sales need a chart of accounts built for electronic OEM workflows—not a generic accounting setup.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>Product Model, BOM, and Partner Master Data</h3>
 <p>Xerpium manages product models with customer part numbers, HS codes, FOB prices in USD, weight, volume, and linked products. Each model supports version-controlled BOMs with draft, approved, and obsolete statuses. BOM lines capture component, quantity, scrap rate percentage, supplier, and notes. Customer specifications are documented per BOM version. On the partner side, the system distinguishes OEM customers by Korean HQ, Korean subsidiary, local, and export categories, while OEM suppliers can be Korean, local, Chinese, or Singapore. Credit limits, incoterms, ports, payment terms, supplier ratings, and certificates such as ISO 9001, ISO 14001, RoHS, REACH, UL, and CE are tracked with expiry dates.</p>
 <h3>Export Operations and Trade Finance</h3>
@@ -96,9 +96,9 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <p>Xerpium provides a 168-account chart of accounts designed for electronic OEM operations. Revenue accounts cover export thermostat and parts, local sales, scrap, and discounts. COGS includes raw material, imported raw material, direct labor, overhead, and variance. Expense accounts track selling costs such as freight and commission, administrative costs such as salary and BPJS, and depreciation for SMT, Assembly, and Calibration machines. Tax handling includes PPN 11%/12% and PPh 21/23/25/26. The KPI dashboard presents total revenue MTD, open customer POs, active product models, active BOMs, active work centers, OEM customers, OEM suppliers, HS codes, monthly revenue trends, and top customers by revenue.</p>
 <h3>AI Assistant Tools</h3>
 <p>Xerpium includes AI tools for electronic OEM workflows: <code>electronic_product_model</code> searches product models by code or name, <code>electronic_supplier</code> finds OEM suppliers by name or country, <code>electronic_customer_po</code> locates customer POs by reference or customer, <code>electronic_suggest_hs_code</code> suggests HS codes from description, and <code>electronic_check_kite_ratio</code> checks KITE ratio by facility number.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>One connected cycle illustrates the system. A customer PO arrives for a specific product model. The manufacturing order links to that customer PO and line, pulls the approved BOM version, and sets the target ship date. Procurement creates an import PO in USD with incoterm, port, ETD/ETA, and LC number. At goods receipt, inbound AQL inspection records sample size and pass/fail. Production runs through SMT, Assembly, and QC work centers with yield and downtime recorded per shift. Finished goods inherit lot traceability back to components and the customer PO. Export operations generate the delivery order, packing list, PEB through CEISA, certificate of origin, and export invoice. Finance posts export revenue and landed cost, updates KITE realization, and the KPI dashboard reflects revenue and open POs.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>Single source of truth for product models, BOM versions, customer specifications, and HS codes.</li>
 <li>Clear visibility into KITE ratio, LC status, landed cost, and export documentation.</li>
@@ -107,7 +107,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Accurate electronic OEM accounting with a dedicated chart of accounts, tax handling, and COGS tracking.</li>
 <li>Faster operational answers through AI tools for product models, suppliers, customer POs, HS codes, and KITE ratio.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Prepare master data:</strong> Register product models, BOM versions and lines, HS codes, OEM customers, OEM suppliers, supplier certificates, and work centers.</li>
 <li><strong>Configure finance and trade parameters:</strong> Set up the 168-account COA, PPN/PPh treatments, currency USD, incoterms, KITE target ratios, LC terms, and landed cost components.</li>
@@ -115,7 +115,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Roll out to other models and customers:</strong> Expand the connected flow across SMT, Assembly, Injection Molding, QC Inspection, and Packing while enabling AI assistant queries.</li>
 <li><strong>Evaluate and improve:</strong> Monitor KPI dashboard metrics, actual versus target KITE ratio, supplier ratings, downtime records, and open customer POs to refine processes.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Xerpium ERP gives electronic OEM manufacturers a complete, connected system that covers the full operational chain—from customer specification and approved BOM to SMT production, AQL inspection, lot traceability, KITE realization, export documentation, and dedicated accounting. Instead of managing separate tools for engineering, trade, manufacturing, quality, and finance, teams can work from one source of truth and answer day-to-day questions through AI. For organizations ready to streamline electronic OEM operations, Xerpium offers a structured path from master data preparation to full rollout.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for Electronic OEM Manufacturing: A Unified System for BOM, KITE, Export, and Quality" data-share-text="Complete ERP solution for Electronic OEM Manufacturing: A Unified System for BOM, KITE, Export, and Quality
 
@@ -138,7 +138,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Electronic OEM Manufacturing end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Electronic OEM Manufacturing end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

@@ -76,7 +76,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <div class="content">
 <p>Koperasi operate in a uniquely interconnected environment. A single institution may manage member savings, disburse loans, run a convenience store or minimarket, coordinate goods distribution, and even handle agricultural or service-based business units. The operational reality, however, is often fragmented: one system for simpan pinjam, another for point of sale, spreadsheets for inventory, and manual journals for accounting. That separation makes it difficult to track member financial health, reconcile inter-unit transactions, calculate SHU accurately, and maintain compliance.</p>
 <p>Xerpium provides an end-to-end ERP scope designed specifically for the Koperasi vertical. It connects membership, savings, loans, retail, supply chain, accounting, and reporting in one platform, so every transaction from every business unit flows into a single chart of accounts and member record.</p>
-<h2>Tantangan umum di Koperasi</h2>
+<h2>Common Challenges in Koperasi (Cooperatives)</h2>
 <ul>
 <li>Simpan pinjam and serba usaha units often run on separate systems, making consolidated reporting slow and error-prone.</li>
 <li>Manual interest accrual, loan amortization, penalty calculation, and overdue tracking create significant back-office workload.</li>
@@ -85,8 +85,8 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Retail and inventory operations are frequently disconnected from member savings, limiting options such as potong simpanan, membership discounts, and loyalty points.</li>
 <li>Compliance and financial statements must follow national cooperative standards, but fragmented tools make audit preparation difficult.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
-<h3>Simpanan dan Pinjaman</h3>
+<h2>Xerpium Solution Coverage</h2>
+<h3>Savings and Loans</h3>
 <p>Xerpium manages the full savings and loan lifecycle. For savings, the system supports five products: Pokok at 0%, Wajib at 4%, Sukarela at 5%, Berjangka 12bln at 7.5%, and Hari Raya at 6%. Each member can hold savings accounts with structured numbering such as SAV/YYYY/NNNNNN, while deposits, withdrawals, interest, fees, transfers, and corrections are recorded through transaction references. Withdrawal requests follow a defined workflow from draft to submitted, approved, and completed or rejected. Monthly interest posting runs automatically, calculates daily interest, and generates the corresponding journal entries.</p>
 <p>For loans, Xerpium covers four products: Konsumtif with flat 1.5%, Produktif with flat 1.2%, Modal Usaha with reducing 18%, and Darurat with flat 1%. Loan applications move through draft, submitted, reviewed, approved, and disbursed or rejected stages. The system supports flat and reducing amortization, including equal principal and constant interest calculations or annuity-based PMT formulas. A daily cron marks overdue installments, calculates penalties, and respects configured grace periods. Guarantor data, collateral descriptions, and document uploads are also part of the loan record. Disbursement and payment transactions automatically post to the general ledger, such as debit piutang and credit bank.</p>
 <h3>Self-Service Portal</h3>
@@ -94,16 +94,16 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <h3>Serba Usaha and Operational Modules</h3>
 <p>Beyond simpan pinjam, Xerpium supports the business units that many koperasi operate. The Retail module provides multi-cashier point of sale, multi-payment methods including tunai, kartu, QRIS, e-wallet, and potong simpanan, plus a product catalog with SKU, barcode, discount, tax, and images. Stock management handles multi-warehouse inventory, reorder rules, and stock opname. Membership integration enables automatic tier-based discounts and loyalty points, while the promotion engine supports bundle, buy-1-get-1, happy hour, and seasonal discounts. E-commerce features include an online catalog, WhatsApp ordering, and delivery scheduling.</p>
 <p>Distribution and Logistik modules cover sales orders, route planning, fleet management, warehouse operations, customer order tracking, auto-invoice from delivery, dunning, and delivery analytics. Shipment management, freight forwarding, warehouse zones, cross-docking, cold chain, claims management, and rate cards are also available. Produksi supports multi-level BOM, manufacturing orders, work centers, quality control, cost accounting, raw material purchase requests, and finished goods stock updates. Jasa includes project management, timesheets, service quotations, contract management, and expense tracking. Pertanian covers crop management, livestock, quality grading, cold storage, contract farming, and farm-to-table traceability. Kebersihan &amp; Perawatan manages service scheduling, checklists, staff assignment, quality score, and material usage.</p>
-<h3>Integrasi Simpan Pinjam &amp; Serba Usaha</h3>
+<h3>Savings &amp; Loans and Serba Usaha Integration</h3>
 <p>Xerpium unifies all business units under a single chart of accounts. Consolidated reporting combines simpan pinjam and operational business units into one balance sheet and P&amp;L. Inter-unit transfers allow funds to move from retail to simpan pinjam, and member cross-sell connects savings and loan members with retail and distribution activity. A unified dashboard presents savings, loans, sales, and stock KPIs together. SHU distribution pulls from all business units and allocates results back to members based on their participation. The system also supports financial statements in line with national cooperative standards.</p>
 <h3>Accounting, Reporting, and Koperasi Business Apps</h3>
 <p>Every savings and loan transaction generates a double-entry journal. The Koperasi chart of accounts includes 26 special accounts across 52 account groups covering assets, liabilities, equity, revenue, and expenses. Financial reports include balance sheet, P&amp;L, trial balance, and comparative P&amp;L. Monthly interest posting debits interest expense and credits savings interest payable. SHU distribution runs per member based on savings and loan activity. Multi-currency transaction support and automatic bank reconciliation are also available.</p>
 <p>For commercial operations, Koperasi &amp; Sales handles sale orders for simpanan pokok, iuran, merchandise, and other items, with automatic invoice generation including PPN. Members can view invoices, download PDFs, and pay online through the customer portal. Dunning reminders, credit limits, and loyalty programs are supported. Koperasi &amp; Purchase manages purchase orders for operational goods such as ATK, furniture, and IT equipment, including vendor management, RFQ workflows, goods receipt, vendor bills, and payment terms. Koperasi &amp; Inventory provides multi-warehouse stock, lot tracking, serial numbers, stock adjustments, internal transfers, reorder rules, FIFO or average cost valuation, and barcode scanning. Koperasi &amp; POS enables direct sales at the cooperative store with potong simpanan as a payment method, membership discounts, loyalty points, and real-time stock updates.</p>
 <p>Dashboard KPI tracks total revenue, total purchases, outstanding AR, top members, top suppliers, monthly revenue trends, and monthly purchase trends. Laporan Koperasi includes balance sheet, P&amp;L, comparative P&amp;L, SQL views for savings, loan portfolio, and member analytics, NPL ratio, and SHU distribution.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A new member registers with KYC documents such as KTP, KK, salary slip, photo, NPWP, or business certificates. The system generates a member number using the KOP/YYYY/NNNNN sequence. The member opens mandatory and voluntary savings accounts and makes a deposit, which automatically posts a journal entry debiting bank and crediting savings. Later, the member applies for a productive loan through the self-service portal. The application moves through review and approval, and disbursement creates a loan record with amortization schedule and journals debiting piutang and crediting bank.</p>
 <p>The same member visits the cooperative store and completes a POS transaction, paying with potong simpanan or another method such as QRIS. The POS transaction updates inventory in real time, records membership discount, and accumulates loyalty points. Surplus from the retail unit can be transferred to the simpan pinjam unit through inter-unit transfer. At month-end, the system posts savings interest and marks overdue installments with penalties. SHU distribution then allocates results from savings, loans, and operational units back to the member accounts. Management reviews consolidated financial statements, NPL ratio, and sales performance from the same dashboard.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>One unified member record across savings, loans, retail, and operational transactions.</li>
 <li>Automatic journal entries and reporting reduce manual accounting work and audit risk.</li>
@@ -112,7 +112,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Consolidated financial statements and SHU distribution become faster and more accurate.</li>
 <li>Multi-branch, multi-unit, and multi-currency operations are managed in a single platform.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Persiapan data</strong>: Migrate member data including NIK, KTP, address, membership type, savings and loan balances, product catalogs, warehouse stock, and existing chart of accounts.</li>
 <li><strong>Konfigurasi parameter</strong>: Configure company-level settings for savings interest rates, loan products, penalties, grace periods, document sequences, and role-based access for Member, Staff, Manager, and Admin.</li>
@@ -142,7 +142,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Koperasi end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Koperasi end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

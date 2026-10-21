@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Managing a hospital or pharmacy network with separate tools for patient records, outpatient queues, inpatient wards, medication dispensing, insurance claims and accounting creates daily friction. Medical staff retype data across systems, billing loses track of procedures, pharmacists struggle to verify prescriptions, and BPJS/SatuSehat reporting becomes a manual burden. Xerpium ERP for Hospital &amp; Pharmacy brings these operations into one vertical-native suite — from the first patient registration to the final invoice and regulatory sync.</p>
-<h2>Tantangan umum di Hospital &amp; Pharmacy</h2>
+<h2>Common Challenges in Hospital &amp; Pharmacy</h2>
 <ul>
 <li><strong>Fragmented patient data</strong>: Medical records, visit history, allergies, and insurance details are scattered across spreadsheets or legacy modules, increasing clinical and administrative risk.</li>
 <li><strong>Manual queue and bed management</strong>: Without a structured queue and ward status system, waiting times rise and bed capacity is not visible in real time.</li>
@@ -83,7 +83,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Complex BPJS and SatuSehat compliance</strong>: Eligibility checks, referrals, claims, and FHIR resource sync require repeated API calls and manual reconciliation.</li>
 <li><strong>Disconnected clinical and financial data</strong>: Billing lines for consultation, procedures, medicines, lab, radiology, and room charges are often created manually after the service, causing underbilling and delayed revenue recognition.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <p>Xerpium covers the full Hospital &amp; Pharmacy vertical with modules that share a single data backbone based on <code>res.partner</code> for patient profiles and <code>product</code> for medicines and procedures.</p>
 <h3>Patient &amp; Clinical Foundation</h3>
 <p>The solution builds on an extended Patient Profile including Medical Record number (auto-generated from sequence), NIK, BPJS number, insurance name and policy number, demographics (age, gender, blood group, religion, nationality), allergies, chronic conditions, emergency contact, and lifetime visit/admission/bill counts. Doctor Master tracks SIP, STR, specialization, department, consultation fee, active status, and visit count. Ward &amp; Kamar Rawat Inap manages room types (VIP, VVIP, Kelas 1-3, ICU, NICU, Isolasi, UGD), capacity, rate per night, floor/building, department link, occupancy count, and status (Available, Occupied, Maintenance). An ICD-10 catalog provides international diagnosis codes used across visits, admissions, and discharge summaries.</p>
@@ -100,9 +100,9 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <p>BPJS Kesehatan Integration supports eligibility check via VClaim/PCare API, BPJS referral creation, claim submission for outpatient, inpatient, UGD, procedure, medicine, lab, claim status tracking, SEP number per visit, and configurable VClaim/PCare URLs, credentials, and faskes code.</p>
 <p>SatuSehat / FHIR Integration provides FHIR Patient, Encounter, Practitioner, Location, Organization, Condition, Medication, Observation, and additional resources (Composition, Clinical Impression, Service Request, Procedure, Allergy Intolerance, Medication Request, Medication Dispense). OAuth 2.0 token management, sandbox/production environment, retry logic, API logs, sync state (Draft/Synced/Error), and multi-company config are handled in API Management.</p>
 <p>Hospital &amp; Accounting analyzes bill invoices, insurance coverage vs amount due, payment tracking, and revenue per department or polyclinic.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A patient arrives at the front desk and receives an automatic Medical Record number and daily queue number for a polyclinic. The nurse calls the queue, creates an Outpatient Visit, records vital signs, and the doctor adds anamnesis, multiple ICD-10 diagnoses, and a SOAP note. The doctor prescribes medication; the system checks allergy notes and generates a Prescription with dosage, route, and instructions. Lab or radiology orders are created from the visit, with sample collection and result entry linked back to the patient record. The pharmacist opens the prescription in Drug Dispensing, sees batch/lot and expiry, dispenses the medicine, and the system creates a stock picking automatically. The outpatient bill is generated with consultation, procedure, medicine, and lab lines; insurance coverage is applied; an invoice is created in accounting. If the patient needs admission, an Inpatient Admission is created with ward and bed, vital signs are monitored periodically, procedures are recorded, and upon discharge the ward is released and the room charge is added to the bill. A Discharge Summary is issued, BPJS claim is submitted, and SatuSehat FHIR resources are synced in the background. Payment tracking updates paid, partial, or unpaid status, and revenue per polyclinic is visible in real time.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li><strong>Single source of truth</strong> for patient, clinical, pharmacy, and billing data — no double entry between departments.</li>
 <li><strong>Clinical safety</strong> through allergy checks, controlled substance tracking, vital sign history, and ICD-10 diagnosis linkage on prescriptions.</li>
@@ -111,7 +111,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Financial visibility</strong> via automatic invoicing, insurance coverage computation, payment tracking, and revenue analysis per department.</li>
 <li><strong>Traceability</strong> across every step — from queue call time to discharge summary and medication batch.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Persiapan data master</strong>: Import patient profiles, doctor masters, ward/room definitions, medicine catalog with BPOM registration and ICD-10 codes, procedure catalog, and Chart of Accounts.</li>
 <li><strong>Konfigurasi workflow &amp; parameter</strong>: Set up queue priorities, prescription workflow stages, admission dynamic stages, ward statuses, billing line types, and insurance coverage rules.</li>
@@ -141,7 +141,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Hospital &amp; Pharmacy end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Hospital &amp; Pharmacy end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

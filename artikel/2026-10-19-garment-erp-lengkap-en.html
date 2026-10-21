@@ -76,7 +76,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <div class="content">
 <p>Garment manufacturers operate in one of the most detail-heavy environments in B2B production: every style has its own bill of materials, fabric consumption varies by cutting plan, work-in-process moves through cutting, sewing, finishing, and packing, and buyers expect consistent quality with on-time delivery. When accounting, inventory, production, purchasing, and quality live in separate systems, the result is manual reconciliation, delayed cost visibility, and limited confidence in margin per style.</p>
 <p>Xerpium ERP addresses this with a single, end-to-end ERP scope for the garment vertical. The platform connects a garment-specific chart of accounts, multi-level BOM and routing, production orders, bundle tracking, quality control checkpoints, KPI dashboards, purchasing, HR, and financial postings in one system.</p>
-<h2>Tantangan umum di Garment</h2>
+<h2>Common Challenges in Garment</h2>
 <ul>
 <li><strong>Complex BOM and scrap management</strong> — garment styles have multi-level BOMs with fabric, trim, thread, labels, and packaging, plus scrap allowance that varies per style.</li>
 <li><strong>Production tracking across cutting and sewing</strong> — work moves from cutting plans to sewing lines and bundles, making real-time WIP visibility difficult without a dedicated manufacturing flow.</li>
@@ -84,7 +84,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Cost and margin visibility</strong> — raw material, direct labor, overhead, trim, makloon, and subcon costs must roll up into cost per unit and gross margin per style.</li>
 <li><strong>Financial integration</strong> — garment-specific accounts such as WIP, finished goods, PPN masukan, and PPN keluaran need automatic journal entries from production orders to avoid double entry and reporting lag.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>Chart of Accounts and production costing built for garment</h3>
 <p>Xerpium uses a dedicated garment COA structure with 6-digit codes under the <code>ga_XXXXX</code> format. The account set separates receivables (<code>ga_120100</code>), payables (<code>ga_210100</code>), raw material, WIP, and finished goods inventory (<code>ga_130100</code>–<code>ga_130800</code>), apparel revenue and makloon services (<code>ga_430100</code>), production expenses (<code>ga_510100</code>), and PPN at 11% through <code>tax_sale_11</code> and <code>tax_purchase_11</code>.</p>
 <p>Production and inventory accounts include raw materials (<code>ga_130100</code>), WIP (<code>ga_130200</code>), finished goods (<code>ga_130300</code>), consumables and trim (<code>ga_130600</code>), garment assets such as sewing, overlock, and cutting machines (<code>ga_170100</code>), and accumulated depreciation (<code>ga_170200</code>). Production cost accounts separate raw material cost (<code>ga_510200</code>), direct labor (<code>ga_510300</code>), factory overhead (<code>ga_510400</code>), trim cost (<code>ga_510500</code>), makloon cost (<code>ga_510600</code>), and subcon cost (<code>ga_510700</code>).</p>
@@ -106,11 +106,11 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Garment &amp;harr; Purchase</strong> — purchase orders for raw materials generated from BOM requirements, purchase orders for trim and accessories, and supplier management for fabric and trim.</li>
 <li><strong>Garment &amp;harr; HR</strong> — operator working time recording, payroll based on output per line, and attendance per production shift.</li>
 </ul>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A typical cycle in Xerpium starts with a garment style and its multi-level BOM. The system calculates cost roll-up per unit, including scrap allowance. Purchase suggests raw material and trim requirements from the BOM, and the purchasing team issues POs to fabric and trim suppliers.</p>
 <p>Once materials arrive, a manufacturing order is created with lot sizing for the cutting batch. Components are released from inventory to production. The cutting plan tracks fabric usage per layer. Bundles move from cutting through sewing lines to finishing, with defect tracking and QC checkpoints at each stage. Labor hours per operation are recorded for direct labor costing.</p>
 <p>Finished goods are transferred from production into finished goods inventory. Accounting journals are generated automatically from the manufacturing order using the garment COA: raw material cost, direct labor, overhead, trim, and subcon costs are posted to their respective accounts, while WIP is cleared. The dashboard updates daily output, line efficiency, QC pass rate, cost per unit, and gross margin per style.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li><strong>One source of truth for garment data</strong> — BOM, production orders, QC, inventory, purchasing, HR, and accounting are connected in the same platform.</li>
 <li><strong>Accurate production costing</strong> — direct material, labor, trim, overhead, makloon, and subcon costs roll up into cost per unit and gross margin per style.</li>
@@ -119,7 +119,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Stronger delivery control</strong> — OTIF, supplier score, and target vs actual production help garment teams meet buyer commitments.</li>
 <li><strong>Financial control</strong> — garment COA and automatic production journals reduce manual accounting work and improve reporting accuracy.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Prepare master data</strong> — map the garment-specific COA (<code>ga_XXXXX</code>), set up fabric and trim items, BOMs per style, routing operations, suppliers, and production lines.</li>
 <li><strong>Configure parameters</strong> — define PPN 11% tax codes, scrap percentage per style, QC checkpoints, defect categories, SMV values, and production KPI targets.</li>
@@ -127,7 +127,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Roll out to additional lines and styles</strong> — expand to more cutting lots and sewing lines, validate labor recording and payroll by output, and tune dashboard KPIs.</li>
 <li><strong>Evaluate and improve</strong> — review pass rate, defect rate, rework cost, WIP value, inventory turnover, and gross margin per style, then adjust routing, scrap allowance, or QC checkpoints as needed.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Garment production needs more than generic manufacturing software. Xerpium ERP combines a garment-specific chart of accounts, multi-level BOM and routing, bundle-level production tracking, quality control, purchasing, HR, and KPI dashboards into one connected solution. The result is clearer cost per unit, real-time WIP, measurable quality performance, and financial control from the cutting table to the balance sheet.</p>
 <p>To see how Xerpium can support your garment operation, start at onboard.xerpium.com.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for Garment: From Fabric to Financial Close with Xerpium ERP" data-share-text="Complete ERP solution for Garment: From Fabric to Financial Close with Xerpium ERP
@@ -151,7 +151,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Garment end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Garment end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

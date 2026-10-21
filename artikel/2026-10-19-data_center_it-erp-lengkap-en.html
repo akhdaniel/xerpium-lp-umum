@@ -76,7 +76,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <div class="content">
 <p>Operating a data center and IT system business involves far more than keeping servers online. Finance teams need localized revenue recognition, service delivery teams need asset and ticket control, and management needs a real-time view of capacity, SLA compliance, and recurring revenue. When these functions run on separate spreadsheets, ticketing tools, and accounting software, the business loses time reconciling data and risks underbilling usage, missing contract renewals, or failing SLA commitments.</p>
 <p>Xerpium ERP addresses this by combining localized Indonesian accounting, data center facility management, IT asset lifecycle, service contracts, ticketing, capacity planning, usage billing, and analytics in one system.</p>
-<h2>Tantangan umum di Data Center &amp; IT System</h2>
+<h2>Common Challenges in Data Center &amp; IT System</h2>
 <ul>
 <li>Facility, rack, power, and cooling data are disconnected from IT asset lifecycle and client contracts.</li>
 <li>SLA monitoring, incident management, and billing are not linked, making it difficult to prove compliance or invoice correctly.</li>
@@ -85,7 +85,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Change management and ticket escalation lack consistent approval workflows and audit trails.</li>
 <li>Localized financial reporting must follow Indonesian standards, including 6-digit account codes and PPN 11% tax defaults.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>Localized accounting and financial reporting</h3>
 <p>Xerpium provides a chart of accounts template designed specifically for data center and IT system businesses through <code>l10n_id_data_center_it</code>. The template uses 6-digit account codes with an account structure aligned to IT services. Key accounts include <code>dc_120100</code> for accounts receivable, <code>dc_210100</code> for accounts payable, <code>dc_710200</code> for currency exchange gains, <code>dc_720200</code> for currency exchange losses, <code>dc_710300</code> for cash difference income, and <code>dc_720300</code> for cash difference expense. Revenue streams cover colocation, cloud hosting, managed services, and license revenue. PPN 11% sale and purchase tax defaults are pre-configured.</p>
 <p>The financial report structure from <code>report_id_data_center_it</code> includes balance sheet, profit and loss, and cash flow reports with IT asset groups such as server and network equipment. The report template syncs account groups from the COA template, parses the report structure XML, and runs a post-load hook when the chart template is applied.</p>
@@ -106,11 +106,11 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Managed Services:</strong> server management covering OS patching, monitoring, and troubleshooting, database administration for MySQL, PostgreSQL, and MongoDB, security including firewall, IDS/IPS, and vulnerability scanning, 24x7 monitoring with alert notification, 24x7 NOC incident response with SLA-based response, and monthly uptime, incident, and performance reporting.</li>
 <li><strong>Professional Services:</strong> IT infrastructure design and architecture review consulting, server and cloud migration projects, new server deployment and network setup, disaster recovery planning and failover testing, training for client IT teams, and IT security or compliance audits.</li>
 </ul>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A typical colocation plus managed services engagement shows how Xerpium connects the modules. A client signs an annual colocation contract with managed services and SLA tiers. The contract enters the Draft stage in <code>xerpium_data_center_it</code>, then moves to Active through the dynamic stage workflow. A subscription is created for recurring monthly billing, and prepaid revenue is recognized as deferred revenue under the data center accounting rules.</p>
 <p>The operations team assigns a full rack, allocates power in kW, and provisions bandwidth and public IP addresses. IT assets move from Available to Installed and Active as servers and network devices are deployed. When the NOC receives an incident, a service ticket is created in the New stage, auto-escalated based on SLA, and moves through In Progress to Resolved. The AI Ticket Pattern Analyzer categorizes the issue and suggests a resolution. Usage billing meters any bandwidth or power overage charges, which are added to the next invoice.</p>
 <p>At month-end, the dashboard shows MRR, SLA compliance, rack utilization, and incident trends. Financial reports reflect recurring revenue, usage revenue, COGS for power and bandwidth, depreciation for IT assets, and PPN 11% tax. The report structure syncs account groups and produces balance sheet, P&amp;L, and cash flow statements without manual reclassification.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>A single ERP system connects facility, assets, contracts, tickets, usage billing, accounting, and analytics.</li>
 <li>Localized Indonesian accounting with 6-digit COA, PPN 11%, deferred revenue, depreciation, and financial reports reduces compliance effort.</li>
@@ -119,7 +119,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Stage-based workflows enforce consistent asset, ticket, contract, and change management processes with automatic on-enter actions.</li>
 <li>Recurring and usage-based revenue are billed accurately, including colocation, cloud, managed services, and professional service projects.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Persiapan data.</strong> Collect customer and vendor records, IT asset inventories, data center rooms and racks, active service contracts, SLA tiers, service catalog items, and tax settings.</li>
 <li><strong>COA and parameter setup.</strong> Apply the <code>l10n_id_data_center_it</code> chart of accounts template, configure PPN 11% sale and purchase defaults, journals with <code>refund_sequence=True</code>, depreciation schedules, deferred revenue accounts, and dynamic stage configurations.</li>
@@ -127,7 +127,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Rollout.</strong> Expand to all service lines, activate the <code>vit_dashboard_data_center_it</code> dashboard and AI tools, assign access groups to NOC, facility, finance, and project teams, and train users on tickets, change management, and billing.</li>
 <li><strong>Evaluasi.</strong> Review dashboard KPIs, SLA compliance, capacity forecasts, financial reports, and user feedback. Adjust stage rules, SLA thresholds, and accounting parameters before scaling to additional sites or service offerings.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Xerpium ERP gives data center and IT system businesses a structured, localized, and automated operating model. From colocation and cloud hosting to managed services and professional projects, teams can manage contracts, assets, incidents, capacity, usage billing, and financial reporting in one place. For implementation support, the Xerpium team can be reached at onboard.xerpium.com.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for Data Center & IT System: End-to-End Operations for Colocation, Cloud, and Managed Services" data-share-text="Complete ERP solution for Data Center &amp; IT System: End-to-End Operations for Colocation, Cloud, and Managed Services
 
@@ -150,7 +150,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Data Center &amp; IT System end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Data Center &amp; IT System end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Gold mining and refining is one of the most operationally demanding verticals for enterprise software. A single company may manage multiple mine sites, dozens of blocks or pits, complex grade estimations, shift-based production orders, ore stockpiles, assay laboratories, refinery jobs, bullion inventories, purity certificates, and government royalties. When these functions run on separate spreadsheets or disconnected applications, finance loses visibility into production costs, production loses traceability into grade and recovery, and compliance teams struggle to prove quality and safety. Xerpium ERP addresses this with one integrated suite that connects mining operations, quality, refining, inventory, sales, accounting, HR, HSE, dashboards, and AI assistant tools in a single system.</p>
-<h2>Tantangan umum di Gold Mining &amp; Refinery</h2>
+<h2>Common Challenges in Gold Mining &amp; Refinery</h2>
 <ul>
 <li>Reserve and grade data are often kept in spreadsheets, making it difficult to reconcile block status, estimated gold content, and depletion across sites.</li>
 <li>Production, equipment, fuel, and stockpile movements are recorded per shift but rarely flow automatically into accounting or inventory valuation.</li>
@@ -84,7 +84,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Bullion sales require up-to-date purity-based pricing, tax and royalty handling, and revenue recognition matched to production costs.</li>
 <li>HSE incidents, permits to work, inspections, and training records often sit outside operational systems, increasing compliance risk.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
+<h2>Xerpium Solution Coverage</h2>
 <h3>Mine site, block, and ore type management</h3>
 <p>Xerpium models the operational hierarchy with <code>gold.mine.site</code>, <code>gold.mine.block</code>, and <code>gold.ore.type</code>. Each mine site stores a unique site code, GPS coordinates, total area, province, district, address, and permit information such as permit number, type (IUP/IUPK/IPR), issue date, expiry date, and computed days remaining. Site status can be Active, Suspended, or Closed with workflow actions. Each block is linked to a site and records sequence, area, depth, mining type (Open Pit, Underground, Alluvial), geological zone, ore type, estimated reserve in tons, and grade in grams per ton. Estimated gold in kilograms is computed as reserve multiplied by grade divided by 1000. Block status moves from Exploration to Development to In Production to Depleted.</p>
 <h3>Production order, production line, and equipment</h3>
@@ -99,9 +99,9 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <p><code>gold.hse.incident</code> records personal injury, near miss, property damage, environmental, fire, vehicle, chemical spill, and structural incidents. It tracks severity, root cause analysis, corrective and preventive actions, lost time days, medical treatment, witnesses, and photos. Safety inspections and permit to work cover daily, weekly, and monthly checklists, hot work, confined space, working at height, and excavation permits with validity periods, responsible persons, and environmental monitoring.</p>
 <h3>AI Assistant and dashboards</h3>
 <p>The AI Assistant includes seven gold mining tools: <code>get_gold_price</code>, <code>get_production_summary</code>, <code>get_refinery_output</code>, <code>get_bullion_inventory</code>, <code>get_pending_assays</code>, <code>get_top_gold_buyers</code>, and <code>create_gold_sale_quotation</code>. Users can check gold prices, production summaries, refinery output, bullion inventory, pending assays, and top buyers through natural language, and create a gold sale quotation directly. Dashboard Studio provides the <code>vit_dashboard_gold_mining</code> KPI dashboard, 19 chart types, and AI auto-generated dashboards and insights.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A typical cycle starts with a mine site and its blocks configured with permits, ore types, and estimated reserves. A shift production order is created for an in-production block. Operators and equipment are recorded in production lines with actual tonnage, grade, and fuel. When the order is done, ore is automatically added to the linked stockpile, the weighted average grade recalculates, and the production journal posts to the analytic account for that site and block. A sample is collected from the stockpile or block, assay results are entered and verified, and the grade feeds back into inventory quality. The stockpile ore then moves to a refinery job with the selected process type. The refinery job computes theoretical gold input, gross bullion output, fine gold, recovery, and losses. A purity certificate is issued, and the bullion bars are recorded in vault stock. The price board supplies the latest purity-based price, a sale order is created for the bullion, invoice integration handles the accounting, and royalty is calculated on the revenue. HSE incidents and inspections run alongside these operations, and AI tools provide real-time summary and quotation support.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>Single source of truth from mine site, block, and stockpile through refinery, bullion inventory, and sales.</li>
 <li>Automatic reconciliation of production tonnage, grade, fuel, and stockpile movement into accounting.</li>
@@ -111,7 +111,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Embedded HSE and permit-to-work workflows that keep compliance in the same operational system.</li>
 <li>AI assistant and dashboards that reduce manual reporting and speed up decisions.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Data preparation</strong> — Prepare company structures, mine sites, blocks, ore types, equipment registers, employee and shift data, stockpile locations, and chart of accounts with analytic accounts per site and block.</li>
 <li><strong>Configuration</strong> — Set up workflows and dynamic stages for production and refinery, COA and journal rules, royalty percentages, price board data sources, inventory locations, and HSE checklists and permit types.</li>
@@ -141,7 +141,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu Gold Mining &amp; Refinery end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps Gold Mining &amp; Refinery end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>

@@ -75,7 +75,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 </div></div>
 <div class="content">
 <p>Product lifecycle management rarely happens in isolation. A single engineering change can affect bills of materials, routings, work instructions, approval chains, and active manufacturing orders. When ECOs, BOM revisions, and product data live in spreadsheets or disconnected PLM tools, manufacturers face revision mismatches, approval delays, and document drift between engineering and production. Xerpium ERP addresses this with a complete PLM scope inside the ERP environment: change control, dynamic approval stages, BOM revisioning, impact analysis, document management, manufacturing integration, and multi-company governance.</p>
-<h2>Tantangan umum di PLM (Product Lifecycle Management)</h2>
+<h2>Common Challenges in PLM (Product Lifecycle Management)</h2>
 <ul>
 <li>Uncontrolled ECO numbering and fragmented change history make audit trails difficult.</li>
 <li>BOM revisions are often copied manually without clear links to the previous version.</li>
@@ -84,25 +84,25 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Operation documents and work instructions are not synchronized when a BOM changes.</li>
 <li>Multi-company product data and change records lack consistent isolation and access rules.</li>
 </ul>
-<h2>Cakupan solusi Xerpium</h2>
-<h3>ECO core, tipe perubahan, dan mail alias</h3>
+<h2>Xerpium Solution Coverage</h2>
+<h3>ECO Core, Change Types, and Mail Aliases</h3>
 <p>Xerpium starts with structured engineering change orders. ECO references are generated automatically through <code>ir.sequence</code> as <code>ECO/#####</code>. Each ECO can carry a description, priority such as Normal or High, and a change type that applies to the Bill of Materials or the product only. Effectivity can be set as “as soon as possible” or at a specific effective date via At Date. Tags and colour coding support categorization, while Kanban states — Normal, Approved, Blocked — provide visual tracking.</p>
 <p>ECO Types allow teams to categorize changes such as “BOM Change” or “Product Update”. Each type can have its own stage mapping. Mail aliases connect directly to this structure: sending an email to an alias automatically creates an ECO with the corresponding type. Smart counters like <code>nb_ecos</code>, <code>nb_approvals</code>, <code>nb_approvals_my</code>, and <code>nb_validation</code> give quick visibility into workload. ECO types also support multi-company scoping, so different entities can maintain their own configurations.</p>
-<h3>BOM revision, apply, dan change impact analysis</h3>
+<h3>BOM Revision, Apply, and Change Impact Analysis</h3>
 <p>When an ECO moves into revision work, Xerpium can start a BOM revision. The system copies the BOM into a working copy, increments the version by one, and sets the working copy as inactive. A <code>previous_bom_id</code> link preserves the audit chain. On apply, the new BOM becomes active, the old BOM is deactivated, and operation documents are synchronized to the new BOM operations. A <code>will_update_version</code> flag allows applying changes without bumping the version when needed. Product versioning is also automated: applying an ECO increments <code>product.template.version</code>.</p>
 <p>Change impact analysis is built into the same workflow. Xerpium automatically diffs component changes, showing additions, removals, and updates with quantity and unit-of-measure deltas. It also tracks by-product changes on the BOM and operation or routing changes with time cycle deltas. Colour coding helps reviewers quickly interpret the diff: green for added, red for removed, and blue for updated. Rebase tracking through <code>previous_change_ids</code> and <code>bom_rebase_ids</code> supports conflict handling when upstream data changes. If an upstream BOM changes while an ECO is in progress, the record can enter a <code>rebase</code> state. In more complex cases, a <code>conflict</code> state is used for manual resolution, while <code>current_bom_id</code> tracks the intermediate BOM. The full changelog remains available through the mail thread chatter.</p>
-<h3>Approval mechanism dan dynamic stage</h3>
+<h3>Approval Mechanism and Dynamic Stages</h3>
 <p>Approval management is automatic and stage-aware. The system creates approval records and mail activities through <code>_create_approvals()</code>. Stage advancement is blocked if mandatory approvals are not complete. Approve and reject actions are restricted to users listed in <code>template.user_ids</code>. Moving to another stage closes processed approvals and removes pending ones. Approvers receive auto-created todo activities through mail activities.</p>
 <p>Approval types add flexibility. Mandatory approvals must be approved before a stage can advance; optional approvals are allowed but do not block the flow; comment approvals only capture input without influencing status; and constraints prevent the same user from being assigned more than once per stage. Dynamic stages are configurable per model, in this case <code>xerpium.plm.eco</code>. Stages can trigger Python hooks through <code>enter_method</code> and server actions automatically when a record enters a stage. RBAC groups restrict who can move a record to a specific stage. Native state synchronization keeps the stage and state field aligned across confirmed, progress, and done states. Back navigation is configurable with <code>allow_back</code>, and approval templates can be attached to stages via <code>xerpium_dynamic_stage_plm</code>.</p>
-<h3>Documents, external links, dan operation documents</h3>
+<h3>Documents, External Links, and Operation Documents</h3>
 <p>Xerpium PLM supports three document types in one polymorphic structure. File documents upload PDFs and images through <code>ir.attachment</code>, with automatic mimetype detection, copy during BOM revision, and cover image support. External links open Google Slides or any external URL without uploading a file. Text notes provide plain text content for quick instructions or notes.</p>
 <p>Documents can be attached to different models through <code>res_model</code> and <code>res_id</code>. Kanban views render different card layouts based on document type. Operation documents can be linked to a specific <code>bom_operation_id</code> for SOPs per operation. When an ECO is applied, <code>_sync_operation_documents()</code> copies operation documents to the new BOM. File-type documents are duplicated with their attachments during copy, and multi-company isolation is applied through <code>company_id</code>.</p>
-<h3>Manufacturing, product, dashboard, dan multi-company</h3>
+<h3>Manufacturing, Product, Dashboard, and Multi-Company</h3>
 <p>Manufacturing integration keeps PLM and MRP aligned. Users can create an ECO directly from a Manufacturing Order with one click, and the system auto-fills the BOM and product. The ECO stores <code>production_id</code>, while the manufacturing order shows related <code>eco_ids</code>. Applying an ECO activates the new BOM version and synchronizes operation documents, including work center documents in <code>mrp.routing.workcenter.document_ids</code>.</p>
 <p>Product integration is equally direct. Product forms display <code>eco_ids</code> and an ECO notebook tab for change history. Product version numbers update automatically when an ECO is applied. Spec sheets and datasheets can be attached as documents. The PLM dashboard is built on Dashboard Studio infrastructure and includes auto-refresh every 300 seconds, auto-applied filters, dual ORM and SQL data sources, and a green theme consistent with PLM branding. Multi-company record rules isolate ECOs, documents, and ECO types by <code>company_id</code>, while PLM Users have read, write, and create access without delete rights, and PLM Managers have full CRUD.</p>
-<h2>Alur end-to-end</h2>
+<h2>End-to-End Flow</h2>
 <p>A manufacturing engineer identifies a required BOM change from an active Manufacturing Order. From the MO, the engineer creates an ECO with one click. Xerpium auto-fills the BOM and product, applies the correct ECO type, and generates the <code>ECO/#####</code> reference. The ECO enters the first stage defined by the type. Mandatory approvers receive mail activities and approve or reject through the stage-gated workflow. If an upstream BOM changes while the ECO is open, the system moves the ECO into rebase or conflict state for review. Once approved, the engineer applies the change: the working BOM becomes active, the previous BOM is deactivated, product version increments, and operation documents sync to the new BOM. The dashboard and product form reflect the updated ECO history immediately.</p>
-<h2>Manfaat bisnis</h2>
+<h2>Business Benefits</h2>
 <ul>
 <li>Full traceability from ECO creation through approval, BOM apply, and product version update.</li>
 <li>Clear change impact visibility for components, quantities, by-products, and operations.</li>
@@ -111,7 +111,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li>Synchronized operation documents and SOPs during BOM revision.</li>
 <li>Multi-company governance with consistent record rules and data isolation.</li>
 </ul>
-<h2>Langkah implementasi</h2>
+<h2>Implementation Steps</h2>
 <ol>
 <li><strong>Persiapan data</strong>: Clean product and BOM master data, map users and approvers, define companies, and prepare document repositories.</li>
 <li><strong>Konfigurasi parameter</strong>: Configure ECO types, dynamic stages, approval templates, mail aliases, smart counters, record rules, and company scoping.</li>
@@ -119,7 +119,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
 <li><strong>Rollout</strong>: Extend access to PLM Users and Managers across relevant teams. Train on Kanban states, stage navigation, and rebase or conflict handling.</li>
 <li><strong>Evaluasi</strong>: Review dashboard KPIs, audit trails, and stage performance. Adjust approval templates and stage rules, then expand to additional companies or product lines.</li>
 </ol>
-<h2>Kesimpulan</h2>
+<h2>Conclusion</h2>
 <p>Xerpium ERP provides a complete PLM solution that connects change control, BOM revision, impact analysis, approvals, documents, manufacturing, and multi-company governance in one system. By eliminating fragmented ECO and BOM processes, manufacturers can keep product data consistent and production-ready. To explore how Xerpium can support your PLM operation, visit onboard.xerpium.com.</p>
 <div class="x-share x-share--block" id="x-share" data-title="Complete ERP solution for PLM (Product Lifecycle Management): End-to-End Change Control, BOM Revision, and Manufacturing Alignment with Xerpium ERP" data-share-text="Complete ERP solution for PLM (Product Lifecycle Management): End-to-End Change Control, BOM Revision, and Manufacturing Alignment with Xerpium ERP
 
@@ -142,7 +142,7 @@ body{font-family:'Inter','Segoe UI',system-ui,sans-serif;background:var(--bg);co
   </div>
 </div>
 <div class="cta-box">
-  <p>Lihat bagaimana Xerpium membantu PLM (Product Lifecycle Management) end-to-end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
+  <p>See how Xerpium helps PLM (Product Lifecycle Management) end to end. <a href="https://onboard.xerpium.com" target="_blank" rel="noreferrer" style="color:#0e7490;font-weight:600">Try Xerpium free</a></p>
   <a class="btn" href="https://onboard.xerpium.com" target="_blank" rel="noreferrer">Start free trial</a>
 </div>
 </div>
