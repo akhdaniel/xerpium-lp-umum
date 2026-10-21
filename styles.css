@@ -770,7 +770,7 @@ h3 {
   gap: 10px;
 }
 
-.industry-tags span {
+.industry-tags a {
   display: inline-flex;
   align-items: center;
   min-height: 34px;
@@ -782,6 +782,19 @@ h3 {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(247, 250, 252, 0.92));
   border: 1px solid var(--border);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.industry-tags a {
+  text-decoration: none;
+  color: var(--text);
+}
+
+.industry-tags a:hover,
+.industry-tags a:focus-visible {
+  color: var(--accent-strong);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+  transition: color 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
 }
 
 .industries-cta {
