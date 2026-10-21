@@ -23,7 +23,7 @@
 - [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 8 artikel
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 8 artikel
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 8 artikel
-- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 7 artikel
+- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 8 artikel
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 8 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 8 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 8 artikel
@@ -31,12 +31,12 @@
 - [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 8 artikel
 - [Rental / Rental](https://www.xerpium.com/rental): 6 artikel
 - [Retail / Retail](https://www.xerpium.com/retail): 6 artikel
-- [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite): 6 artikel
+- [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite): 8 artikel
 - [Industri Sawit / Palm Oil Industry](https://www.xerpium.com/sawit): 8 artikel
-- [Software House / Software House](https://www.xerpium.com/software): 5 artikel
+- [Software House / Software House](https://www.xerpium.com/software): 6 artikel
 - [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://www.xerpium.com/theme_park_recreation): 6 artikel
 - [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://www.xerpium.com/travel): 6 artikel
-- [Manajemen Universitas / University Management](https://www.xerpium.com/university): 5 artikel
+- [Manajemen Universitas / University Management](https://www.xerpium.com/university): 6 artikel
 
 ## Use Case
 - [Xerpium untuk Startup](https://www.xerpium.com/artikel-startup)
@@ -54,13 +54,21 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [10 Solusi ERP Kota Satelit Terbaik untuk Operasional Kota Satelit](https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-id): Temukan 10 solusi ERP terbaik untuk operasional kota satelit, dari manajemen proyek, cluster, kavling, PPJB, pembayaran, infrastruktur, serah terima, hingga IPL billing, dalam satu platform terintegrasi XERPIUM.
+- [10 Best ERP Solutions for Satellite City Developer Operations](https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-en): Discover 10 ERP solutions for satellite city developer operations — from project, cluster, and kavling management to PPJB, payment schedules, infrastructure, handover, IPL billing, and AI dashboards.
+- [Optimalkan Strategi Pemasaran B2B dengan Xerpium ERP: Solusi CRM, WhatsApp, Loyalty, dan AI](https://www.xerpium.com/artikel/2026-10-22-pemasaran-id): Optimalkan pemasaran B2B dengan Xerpium ERP: kelola leads, integrasi WhatsApp, program loyalitas, dan analisis pasar berbasis AI dalam satu platform terpadu.
+- [Streamline Your Marketing Operations with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-22-pemasaran-en): Discover how Xerpium ERP helps marketing teams centralize CRM data, integrate WhatsApp follow-ups, manage loyalty and promotions, and use AI for data-driven market analysis.
+- [Asisten AI dalam Xerpium ERP: Otomasi Proses dan Copilot Bisnis untuk Perusahaan Modern](https://www.xerpium.com/artikel/2026-10-22-base-ai-assistant-id): Asisten AI Xerpium ERP untuk otomasi proses, insight real-time, dan copilot bisnis—mendukung multi-company, multi-currency, serta audit trail terintegrasi.
+- [How AI Assistant in Xerpium ERP Streamlines Multi-Company Operations](https://www.xerpium.com/artikel/2026-10-22-base-ai-assistant-en): Discover how Xerpium ERP’s AI Assistant automates processes, delivers real‑time insights, and supports multi‑company operations with a full audit trail.
 - [10 Solusi ERP Universitas Terbaik untuk Operasional Kampus](https://www.xerpium.com/artikel/2026-10-21-university-10-solusi-id): Temukan 10 solusi ERP universitas terbaik untuk operasional kampus dari Xerpium, mencakup fakultas, prodi, mahasiswa, dosen, KRS, nilai, jadwal, ruangan, SPP, dan portal.
+- [10 Best ERP Solutions for University Management Operations](https://www.xerpium.com/artikel/2026-10-21-university-10-solusi-en): Explore 10 ERP modules for university operations—student records, KRS, grading, thesis, tuition, scheduling, and room management—with workflow control and integrated accounting.
 - [Xerpium ERP untuk UMKM: Satu Platform untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-21-umkm-id): Xerpium ERP membantu UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform, mulai Rp150.000/user/bulan. Pelajari solusi ERP untuk UMKM di sini.
 - [Xerpium ERP for SMBs: A Unified, AI-Assisted Platform for Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-21-umkm-en): Discover how Xerpium ERP helps SMBs unify Sales, CRM, Purchasing, Inventory, and Accounting in one affordable platform with a built-in AI Assistant.
 - [10 Solusi ERP Travel dan Umroh Terbaik untuk Operasional Wisata](https://www.xerpium.com/artikel/2026-10-21-travel-10-solusi-id): Cari ERP travel dan umroh? Simak 10 solusi Xerpium untuk hotel, penerbangan, jamaah, dokumen, keberangkatan, pembayaran, purchase, perlengkapan, dan laporan operasional wisata.
 - [10 Best ERP Solutions for Travel, Hajj & Umrah Operations](https://www.xerpium.com/artikel/2026-10-21-travel-10-solusi-en): Compare 10 ERP solutions for travel, Hajj & Umrah operations—hotel, flight, package, document, departure, payment, purchase, and equipment modules in Xerpium.
 - [10 Solusi ERP Taman Hiburan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-21-theme_park_recreation-10-solusi-id): Temukan 10 solusi ERP taman hiburan terbaik untuk operasional harian, mulai dari ticketing, POS F&B, inventory, hingga maintenance wahana.
 - [10 Best ERP Solutions for Theme Park & Recreation Operations](https://www.xerpium.com/artikel/2026-10-21-theme_park_recreation-10-solusi-en): Explore 10 Xerpium ERP solutions for theme park and recreation operations, from ticketing, F&B, and ride maintenance to accounting, inventory, POS, HR, dashboard, and AI integration.
+- [10 Solusi ERP Software House Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-21-software-10-solusi-id): Temukan 10 solusi ERP software house terbaik untuk operasional harian: Scrum, Waterfall, Kanban, budget, alokasi tim, technology stack, timesheet, dan laporan terintegrasi dalam satu sistem Xerpium.
 - [10 Best ERP Solutions for Software House Operations](https://www.xerpium.com/artikel/2026-10-21-software-10-solusi-en): Discover the 10 best ERP solutions for software house operations, from Scrum, Kanban, and sprint management to timesheet, sales, and profitability reporting.
 - [10 Solusi ERP Sawit Terbaik untuk Operasional Industri Sawit](https://www.xerpium.com/artikel/2026-10-21-sawit-10-solusi-id): 10 solusi ERP sawit terbaik untuk operasional industri sawit: kelola blok, panen TBS, pabrik CPO, quality control, inventori, akuntansi, ekspor, trade, KPI, dan dashboard operasional secara terintegrasi.
 - [10 Best ERP Solutions for Palm Oil Industry Operations](https://www.xerpium.com/artikel/2026-10-21-sawit-10-solusi-en): Discover 10 essential ERP solutions for palm oil operations, from block management and TBS harvest to CPO milling, export, and trade finance.
@@ -76,14 +84,6 @@
 - [10 Best ERP Solutions for PLM (Product Lifecycle Management) Operations](https://www.xerpium.com/artikel/2026-10-21-plm-10-solusi-en): Explore 10 ERP solution areas for PLM operations, including ECO core features, BOM revision, change impact analysis, approvals, dynamic stages, documents, and dashboards.
 - [10 Solusi ERP Layanan Perawatan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-21-maintenance_service-10-solusi-id): Temukan 10 solusi ERP layanan perawatan Xerpium untuk operasional harian: service order, work order, checklist, jadwal preventif, invoicing, dan analisis variance.
 - [10 Best ERP Solutions for Maintenance Service Operations](https://www.xerpium.com/artikel/2026-10-21-maintenance_service-10-solusi-en): Explore 10 Xerpium ERP solutions for maintenance service operations, from service orders and work orders to variance analysis, checklists, scheduling, and invoicing.
-- [10 Solusi ERP Logistik Terbaik untuk Operasional Logistik](https://www.xerpium.com/artikel/2026-10-21-logistics-10-solusi-id): Kenali 10 solusi ERP logistik Xerpium untuk operasional logistik: shipment, route, rate card, fleet, container, freight forwarding, warehouse, tracking, dan proof of delivery.
-- [10 Best ERP Solutions for Logistics Operations](https://www.xerpium.com/artikel/2026-10-21-logistics-10-solusi-en): Explore the 10 best ERP solutions for logistics operations, including shipment, route, rate card, fleet, container, tracking, and proof of delivery.
-- [10 Solusi ERP Peternakan Terbaik untuk Operasional Peternakan](https://www.xerpium.com/artikel/2026-10-21-livestock-10-solusi-id): 10 solusi ERP peternakan dari Xerpium untuk kelola registri ternak, kandang, batch, pakan, ADG/FCR, kesehatan, SOP, traceability halal, dan HPP secara terpadu.
-- [10 Best ERP Solutions for Livestock Operations](https://www.xerpium.com/artikel/2026-10-21-livestock-10-solusi-en): Compare 10 ERP modules for livestock operations: animal registry, pen, batch, feed, ADG, health, halal traceability, HPP. Discover how Xerpium helps.
-- [10 Solusi ERP Koperasi Terbaik untuk Operasional Simpan Pinjam](https://www.xerpium.com/artikel/2026-10-21-koperasi-10-solusi-id): Temukan 10 solusi ERP koperasi terbaik untuk operasional simpan pinjam, dari manajemen anggota, simpanan, pinjaman, akuntansi, hingga AI assistant dan dashboard terpadu.
-- [10 Best ERP Solutions for Koperasi Operations](https://www.xerpium.com/artikel/2026-10-21-koperasi-10-solusi-en): Discover 10 essential ERP solutions for koperasi operations — savings, loans, member portal, accounting, POS, inventory, HR, unified reporting, KPI dashboards, and approval workflows.
-- [10 Solusi ERP Hotel Terbaik untuk Operasional Perhotelan](https://www.xerpium.com/artikel/2026-10-21-hotel-10-solusi-id): Kenali 10 solusi ERP hotel untuk operasional perhotelan: reservasi multi-channel, check-in/out, folio, housekeeping, maintenance, hingga profil tamu VIP.
-- [10 Solusi ERP Rumah Sakit Terbaik untuk Operasional Rumah Sakit](https://www.xerpium.com/artikel/2026-10-21-hospital_pharmacy-10-solusi-id): Kenali 10 solusi ERP rumah sakit Xerpium untuk operasional RS, mulai dari master pasien, antrian, rawat inap, farmasi, billing, hingga integrasi BPJS dan SatuSehat.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
