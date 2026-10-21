@@ -30,7 +30,7 @@
 - [Layanan Perawatan / Maintenance Service](https://www.xerpium.com/maintenance_service): 6 artikel
 - [PLM (Manajemen Siklus Produk) / PLM (Product Lifecycle Management)](https://www.xerpium.com/plm): 6 artikel
 - [Rental / Rental](https://www.xerpium.com/rental): 4 artikel
-- [Retail / Retail](https://www.xerpium.com/retail): 4 artikel
+- [Retail / Retail](https://www.xerpium.com/retail): 6 artikel
 - [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite): 4 artikel
 - [Industri Sawit / Palm Oil Industry](https://www.xerpium.com/sawit): 6 artikel
 - [Software House / Software House](https://www.xerpium.com/software): 4 artikel
@@ -56,6 +56,8 @@
 ## Artikel Terbaru
 - [Xerpium ERP untuk UMKM: Satu Platform untuk Jualan, Stok, dan Keuangan](https://www.xerpium.com/artikel/2026-10-21-umkm-id): Xerpium ERP membantu UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform, mulai Rp150.000/user/bulan. Pelajari solusi ERP untuk UMKM di sini.
 - [Xerpium ERP for SMBs: A Unified, AI-Assisted Platform for Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-21-umkm-en): Discover how Xerpium ERP helps SMBs unify Sales, CRM, Purchasing, Inventory, and Accounting in one affordable platform with a built-in AI Assistant.
+- [10 Solusi ERP Retail Terbaik untuk Operasional Retail](https://www.xerpium.com/artikel/2026-10-21-retail-10-solusi-id): 10 solusi ERP retail terbaik untuk operasional retail: POS multi-outlet, inventory, akuntansi, purchase, sales, marketplace Shopee Tokopedia, GoFood, HR payroll, e-commerce, dan dashboard analytics dari Xerpium.
+- [10 Best ERP Solutions for Retail Operations](https://www.xerpium.com/artikel/2026-10-21-retail-10-solusi-en): Discover 10 ERP solutions for retail operations—POS multi-outlet, marketplace integration, inventory, accounting, HR, and analytics—to unify your retail workflows.
 - [PLM Xerpium ERP: Kontrol Penuh atas Engineering Change Order, Revisi BOM, dan Siklus Hidup Produk](https://www.xerpium.com/artikel/2026-10-21-plm-id): Pelajari cara modul PLM Xerpium ERP mengelola ECO, revisi BOM, analisis dampak, dan persetujuan perubahan produk secara terintegrasi dengan manufaktur untuk mengurangi risiko dan rework.
 - [PLM in ERP: How Xerpium Manages ECOs, BOM Revisions, and Change Approvals](https://www.xerpium.com/artikel/2026-10-21-plm-en): Learn how Xerpium ERP supports Product Lifecycle Management with structured ECOs, BOM revision control, change impact analysis, approvals, and manufacturing integration.
 - [Kendalikan Proses Manufaktur Lebih Presisi dengan Modul MRP Xerpium ERP](https://www.xerpium.com/artikel/2026-10-21-base-manufacturing-id): Optimalkan manufaktur Anda dengan modul MRP Xerpium ERP untuk kelola BOM, routing, work order, dan biaya produksi secara real-time.
@@ -82,8 +84,6 @@
 - [Artikel Xerpium](https://www.xerpium.com/artikel/2026-10-19-satellite-erp-lengkap-en): Explore Xerpium's complete ERP for satellite city developers — manage projects, kavling, PPJB, installments, infrastructure, handover, IPL billing, accounting, and tax in one platform.
 - [Solusi lengkap ERP untuk Retail: Satu Platform untuk POS, Marketplace, Inventori, dan Keuangan](https://www.xerpium.com/artikel/2026-10-19-retail-erp-lengkap-id): Solusi lengkap ERP untuk retail dari Xerpium: POS multi-outlet, integrasi Shopee, Tokopedia, GoFood, inventori, akuntansi PPN 11%, HR, dan AI dalam satu platform.
 - [Complete ERP solution for Retail: Unifying POS, Marketplace, Inventory, and Accounting with Xerpium](https://www.xerpium.com/artikel/2026-10-19-retail-erp-lengkap-en): Retail operations rarely run in one system. A physical store depends on POS terminals, online orders live in Shopee and Tokopedia, food delivery flows through G
-- [Solusi lengkap ERP untuk Rental: Kendaraan, Alat Berat, Aset, dan General Rental dengan Xerpium](https://www.xerpium.com/artikel/2026-10-19-rental-erp-lengkap-id): Solusi lengkap ERP untuk rental kendaraan, alat berat, aset, dan general rental dari Xerpium. Kelola kontrak, pickup, return, denda, pajak, inventori, hingga laporan keuangan dalam satu platform.
-- [Complete ERP solution for Rental: Fleet, Heavy Equipment, Assets and General Items](https://www.xerpium.com/artikel/2026-10-19-rental-erp-lengkap-en): Explore Xerpium’s complete ERP solution for rental—fleet, heavy equipment, asset, and general rental with automated pickup-return, accounting, and real-time KPIs.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
