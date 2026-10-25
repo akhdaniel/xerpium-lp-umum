@@ -34,7 +34,7 @@
 - [Pengembang Kota Satelit / Satellite City Developer](https://www.xerpium.com/satellite): 8 artikel
 - [Industri Sawit / Palm Oil Industry](https://www.xerpium.com/sawit): 8 artikel
 - [Software House / Software House](https://www.xerpium.com/software): 6 artikel
-- [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://www.xerpium.com/theme_park_recreation): 6 artikel
+- [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://www.xerpium.com/theme_park_recreation): 8 artikel
 - [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://www.xerpium.com/travel): 6 artikel
 - [Manajemen Universitas / University Management](https://www.xerpium.com/university): 6 artikel
 
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [10 Solusi ERP Taman Hiburan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-26-theme_park_recreation-10-solusi-id): Temukan 10 solusi ERP taman hiburan terbaik dari Xerpium untuk operasional harian — ticketing, F&B, maintenance wahana, akuntansi, hingga AI dashboard dalam satu platform terintegrasi.
+- [10 Best ERP Solutions for Theme Park & Recreation Operations](https://www.xerpium.com/artikel/2026-10-26-theme_park_recreation-10-solusi-en): A practical guide to the 10 best ERP solutions for theme park and recreation operations, covering ticketing, visitor management, F&B, ride maintenance, safety inspection, inventory, and accounting with Xerpium.
+- [Kelola SDM Lebih Efisien dengan Solusi HR Xerpium ERP](https://www.xerpium.com/artikel/2026-10-26-hr-id): Pelajari bagaimana Xerpium ERP menyederhanakan pengelolaan HR, payroll BPJS & PPh 21, rekrutmen berbasis AI, dan ESS mobile app dalam satu platform terintegrasi untuk bisnis Anda.
+- [How Xerpium ERP Solves the Most Pressing HR Challenges for Growing Businesses](https://www.xerpium.com/artikel/2026-10-26-hr-en): Discover how Xerpium ERP streamlines HR management with integrated payroll, BPJS and PPh 21 compliance, AI recruitment, ESS mobile app, and automatic accounting integration — all in one platform.
+- [Efisiensi Pengadaan Dimulai dari Sini: Solusi Pembelian & Procurement dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-26-base-purchase-id): Pelajari bagaimana modul Pembelian & Pengadaan Xerpium ERP—dengan fitur PR, RFQ, PO, 3-way matching, dan AI Assistant—membantu perusahaan Anda mengelola procurement secara efisien, transparan, dan terintegrasi penuh.
+- [How Xerpium ERP Transforms Purchase & Procurement: From Requisition to Payment](https://www.xerpium.com/artikel/2026-10-26-base-purchase-en): Discover how Xerpium ERP's Purchase & Procurement module — featuring PR, RFQ, PO management, vendor management, three-way matching, and AI integration — helps enterprises streamline sourcing, reduce risk, and gain real-time spend visibility.
 - [10 Solusi ERP Kota Satelit Terbaik untuk Operasional Kota Satelit](https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-id): Temukan 10 solusi ERP terbaik untuk operasional kota satelit, dari manajemen proyek, cluster, kavling, PPJB, pembayaran, infrastruktur, serah terima, hingga IPL billing, dalam satu platform terintegrasi XERPIUM.
 - [10 Best ERP Solutions for Satellite City Developer Operations](https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-en): Discover 10 ERP solutions for satellite city developer operations — from project, cluster, and kavling management to PPJB, payment schedules, infrastructure, handover, IPL billing, and AI dashboards.
 - [Optimalkan Strategi Pemasaran B2B dengan Xerpium ERP: Solusi CRM, WhatsApp, Loyalty, dan AI](https://www.xerpium.com/artikel/2026-10-22-pemasaran-id): Optimalkan pemasaran B2B dengan Xerpium ERP: kelola leads, integrasi WhatsApp, program loyalitas, dan analisis pasar berbasis AI dalam satu platform terpadu.
@@ -78,12 +84,6 @@
 - [10 Best ERP Solutions for Retail Operations](https://www.xerpium.com/artikel/2026-10-21-retail-10-solusi-en): Discover 10 best ERP solutions for retail operations, including POS multi-outlet, Shopee/Tokopedia and GoFood integration, inventory, accounting, HR, dashboard, and AI assistant.
 - [10 Solusi ERP Rental Terbaik untuk Operasional Penyewaan Aset](https://www.xerpium.com/artikel/2026-10-21-rental-10-solusi-id): Temukan 10 solusi ERP rental terbaik untuk operasional penyewaan aset: kelola kendaraan, alat berat, aset tetap, kontrak, pickup/return, keuangan, dan inventaris dalam satu sistem terintegrasi.
 - [10 Best ERP Solutions for Rental Operations](https://www.xerpium.com/artikel/2026-10-21-rental-10-solusi-en): Compare 10 ERP solutions for rental operations: contract management, pickup and return tracking, vehicle and equipment rental, asset depreciation, financial billing, accounting, and inventory.
-- [PLM Xerpium ERP: Kontrol Penuh atas Engineering Change Order, Revisi BOM, dan Siklus Hidup Produk](https://www.xerpium.com/artikel/2026-10-21-plm-id): Pelajari cara modul PLM Xerpium ERP mengelola ECO, revisi BOM, analisis dampak, dan persetujuan perubahan produk secara terintegrasi dengan manufaktur untuk mengurangi risiko dan rework.
-- [PLM in ERP: How Xerpium Manages ECOs, BOM Revisions, and Change Approvals](https://www.xerpium.com/artikel/2026-10-21-plm-en): Learn how Xerpium ERP supports Product Lifecycle Management with structured ECOs, BOM revision control, change impact analysis, approvals, and manufacturing integration.
-- [10 Solusi ERP PLM Terbaik untuk Operasional Siklus Produk](https://www.xerpium.com/artikel/2026-10-21-plm-10-solusi-id): Temukan 10 solusi ERP PLM Xerpium untuk operasional siklus produk, mulai dari ECO, revisi BOM, analisis dampak, approval dinamis, dokumen, hingga dashboard.
-- [10 Best ERP Solutions for PLM (Product Lifecycle Management) Operations](https://www.xerpium.com/artikel/2026-10-21-plm-10-solusi-en): Explore 10 ERP solution areas for PLM operations, including ECO core features, BOM revision, change impact analysis, approvals, dynamic stages, documents, and dashboards.
-- [10 Solusi ERP Layanan Perawatan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-21-maintenance_service-10-solusi-id): Temukan 10 solusi ERP layanan perawatan Xerpium untuk operasional harian: service order, work order, checklist, jadwal preventif, invoicing, dan analisis variance.
-- [10 Best ERP Solutions for Maintenance Service Operations](https://www.xerpium.com/artikel/2026-10-21-maintenance_service-10-solusi-en): Explore 10 Xerpium ERP solutions for maintenance service operations, from service orders and work orders to variance analysis, checklists, scheduling, and invoicing.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
