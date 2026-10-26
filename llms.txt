@@ -36,7 +36,7 @@
 - [Software House / Software House](https://www.xerpium.com/software): 6 artikel
 - [Taman Hiburan & Rekreasi / Theme Park & Recreation](https://www.xerpium.com/theme_park_recreation): 8 artikel
 - [Travel, Haji & Umroh / Travel, Hajj & Umrah](https://www.xerpium.com/travel): 8 artikel
-- [Manajemen Universitas / University Management](https://www.xerpium.com/university): 6 artikel
+- [Manajemen Universitas / University Management](https://www.xerpium.com/university): 8 artikel
 
 ## Use Case
 - [Xerpium untuk Startup](https://www.xerpium.com/artikel-startup)
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi lengkap ERP untuk Manajemen Universitas: Mengintegrasikan Akademik, Keuangan, dan Operasional dalam Satu Platform](https://www.xerpium.com/artikel/2026-10-27-university-erp-lengkap-id): Solusi lengkap ERP Xerpium untuk Manajemen Universitas: integrasikan akademik, KRS, penilaian, SPP, jadwal, HR, dan CRM dalam satu platform ber-AI.
+- [Complete ERP solution for University Management: Unifying Academics, Finance, and Operations with Xerpium](https://www.xerpium.com/artikel/2026-10-27-university-erp-lengkap-en): Discover how Xerpium delivers a complete ERP solution for university management—unifying faculties, KRS, grading, thesis, scheduling, and tuition with AI dashboards and portal access.
+- [Xerpium untuk UMKM: Satukan Penjualan, Stok, dan Keuangan dalam Satu ERP Terjangkau](https://www.xerpium.com/artikel/2026-10-27-umkm-id): Xerpium ERP untuk UMKM menyatukan Sales, CRM, Purchasing, Inventory, dan Accounting dalam satu platform mulai Rp150.000/user/bulan dengan AI Assistant dan onboarding instan.
+- [Xerpium for SMBs: One Affordable ERP to Run Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-27-umkm-en): Discover how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting in one affordable platform with instant onboarding and a built-in AI assistant.
+- [Akuntansi & Keuangan Lebih Terkendali dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-27-base-accounting-id): Kelola akuntansi & keuangan lebih akurat dengan Xerpium ERP—chart of accounts, jurnal, pajak, laporan real-time, multi-company, multi-currency, audit trail, dan AI Assistant.
+- [Streamlining Accounting & Finance with Xerpium ERP: A Unified Foundation for Financial Control](https://www.xerpium.com/artikel/2026-10-27-base-accounting-en): Discover how Xerpium ERP unifies Accounting & Finance with multi-company, multi-currency, audit trail, real-time reporting, and AI Assistant integration for complete financial control.
 - [Kelola Bisnis Travel Haji & Umroh Lebih Profesional dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-26-travel-id): Xerpium ERP hadir sebagai solusi terintegrasi untuk biro travel haji dan umroh — kelola jamaah, dokumen, pembayaran, perlengkapan, hingga keuangan dalam satu platform yang efisien dan profesional.
 - [How Xerpium ERP Transforms Hajj & Umrah Travel Operations from Registration to Return](https://www.xerpium.com/artikel/2026-10-26-travel-en): Discover how Xerpium ERP streamlines Hajj and Umrah travel operations with automated pilgrim management, document workflows, payment scheduling, equipment distribution, and Indonesian tax compliance in one integrated platform.
 - [10 Solusi ERP Taman Hiburan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-26-theme_park_recreation-10-solusi-id): Temukan 10 solusi ERP taman hiburan terbaik dari Xerpium untuk operasional harian — ticketing, F&B, maintenance wahana, akuntansi, hingga AI dashboard dalam satu platform terintegrasi.
@@ -78,12 +84,6 @@
 - [Xerpium ERP for SMBs: A Unified, AI-Assisted Platform for Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-21-umkm-en): Discover how Xerpium ERP helps SMBs unify Sales, CRM, Purchasing, Inventory, and Accounting in one affordable platform with a built-in AI Assistant.
 - [10 Solusi ERP Travel dan Umroh Terbaik untuk Operasional Wisata](https://www.xerpium.com/artikel/2026-10-21-travel-10-solusi-id): Cari ERP travel dan umroh? Simak 10 solusi Xerpium untuk hotel, penerbangan, jamaah, dokumen, keberangkatan, pembayaran, purchase, perlengkapan, dan laporan operasional wisata.
 - [10 Best ERP Solutions for Travel, Hajj & Umrah Operations](https://www.xerpium.com/artikel/2026-10-21-travel-10-solusi-en): Compare 10 ERP solutions for travel, Hajj & Umrah operations—hotel, flight, package, document, departure, payment, purchase, and equipment modules in Xerpium.
-- [10 Solusi ERP Taman Hiburan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-21-theme_park_recreation-10-solusi-id): Temukan 10 solusi ERP taman hiburan terbaik untuk operasional harian, mulai dari ticketing, POS F&B, inventory, hingga maintenance wahana.
-- [10 Best ERP Solutions for Theme Park & Recreation Operations](https://www.xerpium.com/artikel/2026-10-21-theme_park_recreation-10-solusi-en): Explore 10 Xerpium ERP solutions for theme park and recreation operations, from ticketing, F&B, and ride maintenance to accounting, inventory, POS, HR, dashboard, and AI integration.
-- [10 Solusi ERP Software House Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-21-software-10-solusi-id): Temukan 10 solusi ERP software house terbaik untuk operasional harian: Scrum, Waterfall, Kanban, budget, alokasi tim, technology stack, timesheet, dan laporan terintegrasi dalam satu sistem Xerpium.
-- [10 Best ERP Solutions for Software House Operations](https://www.xerpium.com/artikel/2026-10-21-software-10-solusi-en): Discover the 10 best ERP solutions for software house operations, from Scrum, Kanban, and sprint management to timesheet, sales, and profitability reporting.
-- [10 Solusi ERP Sawit Terbaik untuk Operasional Industri Sawit](https://www.xerpium.com/artikel/2026-10-21-sawit-10-solusi-id): 10 solusi ERP sawit terbaik untuk operasional industri sawit: kelola blok, panen TBS, pabrik CPO, quality control, inventori, akuntansi, ekspor, trade, KPI, dan dashboard operasional secara terintegrasi.
-- [10 Best ERP Solutions for Palm Oil Industry Operations](https://www.xerpium.com/artikel/2026-10-21-sawit-10-solusi-en): Discover 10 essential ERP solutions for palm oil operations, from block management and TBS harvest to CPO milling, export, and trade finance.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
