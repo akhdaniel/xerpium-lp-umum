@@ -5,7 +5,7 @@
 ## Artikel per Industri
 - [Manufaktur Dirgantara / Aerospace Manufacturing](https://www.xerpium.com/aerospace): 8 artikel
 - [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 10 artikel
-- [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 8 artikel
+- [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 10 artikel
 - [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 8 artikel
 - [Penerbangan / Aviation](https://www.xerpium.com/aviation): 8 artikel
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 8 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Solusi lengkap ERP untuk Pakan Ternak: Integrasi Formulasi, QC, dan Distribusi dalam Satu Platform](https://www.xerpium.com/artikel/solusi-lengkap-erp-untuk-pakan-ternak-integrasi-formulasi-qc-dan-distr-id): Solusi lengkap ERP untuk Pakan Ternak dari Xerpium—integrasi procurement, formulasi, QC lab, costing HPP per ton, distribusi, dan keuangan dalam satu platform.
+- [Complete ERP solution for Animal Feed: Managing Formulation, Quality, and Distribution in One System](https://www.xerpium.com/artikel/complete-erp-solution-for-animal-feed-managing-formulation-quality-and-en): Discover how Xerpium ERP delivers a complete solution for Animal Feed — covering procurement, formulation, QC lab, distribution, and finance in one integrated system.
+- [Solusi untuk Pemasaran dengan Software ERP Xerpium: Kelola Lead hingga Loyalitas dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-29-pemasaran-id): Pelajari solusi pemasaran dengan software ERP Xerpium berbasis Odoo—CRM terpusat, integrasi WhatsApp, program loyalitas, dan AI untuk analisis pasar.
+- [Marketing Solutions with Xerpium ERP: A Data-Driven Software for Smarter Campaigns](https://www.xerpium.com/artikel/2026-10-29-pemasaran-en): Discover how Xerpium ERP, built on Odoo, helps marketing teams unify CRM data, WhatsApp follow-ups, loyalty promotions, and AI-driven market analysis in one system.
+- [Manajemen Proyek Lebih Terkendali dengan Software ERP Xerpium Berbasis Odoo](https://www.xerpium.com/artikel/2026-10-29-base-project-id): Kelola task, timesheet, hingga progress billing dalam satu sistem terintegrasi bersama modul Manajemen Proyek software ERP Xerpium berbasis Odoo.
+- [Streamline Delivery with Xerpium Project Management Software: An Odoo-Based ERP System for Modern Teams](https://www.xerpium.com/artikel/2026-10-29-base-project-en): Discover how the Xerpium Project Management software unifies tasks, timesheets, and progress billing in one Odoo-based ERP system with real-time dashboards and AI support.
 - [Solusi untuk Penjualan: Optimalkan Siklus Order-to-Delivery dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-28-penjualan-id): Pelajari bagaimana Xerpium ERP mengoptimalkan penjualan melalui Sales & CRM, Retail & POS, sinergi stok-pesanan, dan analisis AI untuk proses order-to-delivery yang mulus.
 - [Solutions for Sales: How Xerpium ERP Unifies Pipeline, Retail, and AI-Driven Insight](https://www.xerpium.com/artikel/2026-10-28-penjualan-en): Discover how Xerpium ERP unifies Sales & CRM, Retail & POS, synchronized inventory, and AI-driven insight to streamline sales and order-to-delivery.
 - [Manufaktur Lebih Terkendali dengan Modul MRP Xerpium ERP](https://www.xerpium.com/artikel/2026-10-28-base-manufacturing-id): Kelola produksi lebih efisien dengan modul Manufaktur (MRP) Xerpium ERP — BOM, routing, work order, biaya produksi, dashboard real-time, dan AI Assistant dalam satu platform terintegrasi.
@@ -78,12 +84,6 @@
 - [10 Best ERP Solutions for Theme Park & Recreation Operations](https://www.xerpium.com/artikel/2026-10-26-theme_park_recreation-10-solusi-en): A practical guide to the 10 best ERP solutions for theme park and recreation operations, covering ticketing, visitor management, F&B, ride maintenance, safety inspection, inventory, and accounting with Xerpium.
 - [ERP untuk Startup: Cara Xerpium Membantu Bisnis Anda Tumbuh Tanpa Ganti Sistem](https://www.xerpium.com/artikel/2026-10-26-startup-id): Xerpium ERP membantu startup mengelola operasional bisnis dari satu platform SaaS yang fleksibel dan terjangkau — mulai dari akuntansi, sales, inventaris, hingga HR, dengan dukungan AI Assistant dan harga per user mulai Rp150.000/bulan.
 - [Why Startups Need a Scalable ERP from Day One — and How Xerpium Delivers It](https://www.xerpium.com/artikel/2026-10-26-startup-en): Discover how Xerpium ERP helps startups scale operations without system migration — with modular SaaS pricing, AI-powered reporting, and ten core business applications on one platform.
-- [Kelola SDM Lebih Efisien dengan Solusi HR Xerpium ERP](https://www.xerpium.com/artikel/2026-10-26-hr-id): Pelajari bagaimana Xerpium ERP menyederhanakan pengelolaan HR, payroll BPJS & PPh 21, rekrutmen berbasis AI, dan ESS mobile app dalam satu platform terintegrasi untuk bisnis Anda.
-- [How Xerpium ERP Solves the Most Pressing HR Challenges for Growing Businesses](https://www.xerpium.com/artikel/2026-10-26-hr-en): Discover how Xerpium ERP streamlines HR management with integrated payroll, BPJS and PPh 21 compliance, AI recruitment, ESS mobile app, and automatic accounting integration — all in one platform.
-- [Efisiensi Pengadaan Dimulai dari Sini: Solusi Pembelian & Procurement dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-26-base-purchase-id): Pelajari bagaimana modul Pembelian & Pengadaan Xerpium ERP—dengan fitur PR, RFQ, PO, 3-way matching, dan AI Assistant—membantu perusahaan Anda mengelola procurement secara efisien, transparan, dan terintegrasi penuh.
-- [How Xerpium ERP Transforms Purchase & Procurement: From Requisition to Payment](https://www.xerpium.com/artikel/2026-10-26-base-purchase-en): Discover how Xerpium ERP's Purchase & Procurement module — featuring PR, RFQ, PO management, vendor management, three-way matching, and AI integration — helps enterprises streamline sourcing, reduce risk, and gain real-time spend visibility.
-- [Kelola Gudang Lebih Cerdas dengan Modul Inventori & Gudang Xerpium ERP](https://www.xerpium.com/artikel/2026-10-26-base-inventory-id): Pelajari bagaimana modul Inventori & Gudang Xerpium ERP membantu bisnis mengelola multi-warehouse, lot/serial tracking, replenishment otomatis, dan laporan real-time dalam satu platform terintegrasi.
-- [How Xerpium ERP Transforms Inventory & Warehouse Management for Growing Enterprises](https://www.xerpium.com/artikel/2026-10-26-base-inventory-en): Discover how Xerpium ERP's Inventory & Warehouse module helps enterprises manage multi-warehouse operations, lot tracking, automated replenishment, and real-time reporting across multiple companies and currencies.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
