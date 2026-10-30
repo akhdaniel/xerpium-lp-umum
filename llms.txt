@@ -7,7 +7,7 @@
 - [Pertanian / Agriculture](https://www.xerpium.com/agriculture): 10 artikel
 - [Pakan Ternak / Animal Feed](https://www.xerpium.com/animal_feed): 10 artikel
 - [Kantor Audit & Konsultan Pajak / Auditor & Tax Consultant](https://www.xerpium.com/auditor): 10 artikel
-- [Penerbangan / Aviation](https://www.xerpium.com/aviation): 8 artikel
+- [Penerbangan / Aviation](https://www.xerpium.com/aviation): 10 artikel
 - [Klinik Kecantikan / Beauty Clinic](https://www.xerpium.com/beauty_clinic): 8 artikel
 - [Manajemen Gedung / Building Management](https://www.xerpium.com/building_management): 8 artikel
 - [Konstruksi Sipil / Civil Construction](https://www.xerpium.com/civil_construction): 8 artikel
@@ -54,6 +54,12 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [5 Tantangan dan Solusi Implementasi ERP untuk Penerbangan dengan Xerpium](https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-penerbangan-dengan-xerpi-id): Pelajari 5 tantangan implementasi ERP di industri penerbangan dan solusinya dengan Xerpium — dari manajemen armada, kru, OTP, hingga MRO dalam satu platform.
+- [5 ERP Implementation Challenges and Solutions for Aviation with Xerpium ERP](https://www.xerpium.com/artikel/5-erp-implementation-challenges-and-solutions-for-aviation-with-xerpiu-en): Discover 5 real ERP implementation challenges in aviation and how Xerpium's Odoo-based aviation ERP solves each with fleet, compliance, finance, and AI tools.
+- [Software ERP Keuangan Xerpium: Solusi Cerdas untuk Tim Finance Modern](https://www.xerpium.com/artikel/2026-10-31-keuangan-id): Temukan solusi keuangan lengkap dengan software ERP Xerpium — COA standar Indonesia, Turbo Report, AI Reconciliation, dan integrasi seluruh modul untuk tutup buku lebih cepat.
+- [Solutions for Finance: Streamlining Accounting with the Xerpium ERP System](https://www.xerpium.com/artikel/2026-10-31-keuangan-en): Discover how the Xerpium ERP system streamlines finance with complete accounting, Turbo Report, AI Reconciliation, and full module integration for faster, audit-ready closes.
+- [Asisten AI dalam Software ERP Xerpium: Otomasi Cerdas untuk Bisnis Modern](https://www.xerpium.com/artikel/2026-10-31-base-ai-assistant-id): Pelajari modul Asisten AI dalam software ERP Xerpium berbasis Odoo—otomasi proses, insight real-time, copilot bisnis, dukungan multi-company & audit trail untuk bisnis yang lebih efisien.
+- [AI Assistant in Xerpium ERP: Turning Enterprise Data into Decisions with an Intelligent Business Copilot](https://www.xerpium.com/artikel/2026-10-31-base-ai-assistant-en): Discover how the AI Assistant in Xerpium ERP delivers process automation, real-time insight, and an integrated business copilot across multi-company, multi-currency operations.
 - [Software ERP Manufaktur Xerpium: Solusi Produksi Terintegrasi Berbasis Odoo](https://www.xerpium.com/artikel/2026-10-30-manufaktur-id): Pelajari solusi manufaktur Xerpium, software ERP berbasis Odoo dengan MRP, work order, quality control, dan integrasi otomatis ke stok serta pembelian.
 - [Manufacturing Solutions with Xerpium ERP: A Smarter Production System Built on Odoo](https://www.xerpium.com/artikel/2026-10-30-manufaktur-en): Discover how Xerpium ERP, built on Odoo, streamlines manufacturing with MRP, integrated quality control, by-product tracking, and automatic links to inventory and purchasing.
 - [Website & eCommerce Terintegrasi: Membangun Toko Online dengan Software ERP Xerpium](https://www.xerpium.com/artikel/2026-10-30-base-website-ecommerce-id): Bangun website dan toko online yang menyatu dengan operasional bisnis lewat modul Website & eCommerce Xerpium—software ERP berbasis Odoo dengan dukungan multi-company, multi-currency, dan AI Assistant.
@@ -78,12 +84,6 @@
 - [Xerpium for SMBs: One Affordable ERP to Run Sales, Inventory, and Accounting](https://www.xerpium.com/artikel/2026-10-27-umkm-en): Discover how Xerpium ERP helps SMBs unify sales, CRM, purchasing, inventory, and accounting in one affordable platform with instant onboarding and a built-in AI assistant.
 - [Xerpium ERP untuk Large Enterprise: Satu Platform untuk Operasional Skala Besar](https://www.xerpium.com/artikel/2026-10-27-enterprise-id): Xerpium ERP untuk large enterprise: modul lengkap, 34+ solusi industri, opsi on premise & kustomisasi, serta performa cepat untuk volume transaksi besar.
 - [Xerpium for Large Enterprise: A Unified ERP Built for Scale and Complexity](https://www.xerpium.com/artikel/2026-10-27-enterprise-en): Discover how Xerpium ERP unifies accounting, manufacturing, HR & payroll, CRM, and more for large enterprises — with 34+ vertical solutions and scalable performance.
-- [HR & Penggajian Lebih Efisien dengan Xerpium ERP: Kelola Karyawan hingga Payroll dalam Satu Sistem](https://www.xerpium.com/artikel/2026-10-27-base-hr-payroll-id): Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu sistem terintegrasi dengan modul HR & Penggajian Xerpium ERP—didukung multi-company, audit trail, dan AI Assistant.
-- [Streamline HR & Payroll Operations with Xerpium ERP](https://www.xerpium.com/artikel/2026-10-27-base-hr-payroll-en): Discover how Xerpium ERP's integrated HR & Payroll module streamlines employee management, attendance, payroll, and reimbursement with multi-company support, real-time reporting, and an AI Assistant.
-- [Akuntansi & Keuangan Lebih Terkendali dengan Xerpium ERP](https://www.xerpium.com/artikel/2026-10-27-base-accounting-id): Kelola akuntansi & keuangan lebih akurat dengan Xerpium ERP—chart of accounts, jurnal, pajak, laporan real-time, multi-company, multi-currency, audit trail, dan AI Assistant.
-- [Streamlining Accounting & Finance with Xerpium ERP: A Unified Foundation for Financial Control](https://www.xerpium.com/artikel/2026-10-27-base-accounting-en): Discover how Xerpium ERP unifies Accounting & Finance with multi-company, multi-currency, audit trail, real-time reporting, and AI Assistant integration for complete financial control.
-- [10 Solusi ERP Kedirgantaraan Terbaik untuk Operasional Harian](https://www.xerpium.com/artikel/2026-10-27-aerospace-10-solusi-id): 10 solusi ERP kedirgantaraan XERPIUM AEROSPACE untuk operasional harian—dari serial tracking, ECO, NCR, FAI, hingga KPI dashboard dalam satu ekosistem terintegrasi.
-- [10 Best ERP Solutions for Aerospace Manufacturing Operations](https://www.xerpium.com/artikel/2026-10-27-aerospace-10-solusi-en): Discover the 10 best ERP solutions for aerospace manufacturing — from serialized tracking and AS9102 FAI to ECO, material traceability, and quality control with XERPIUM AEROSPACE.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
