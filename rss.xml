@@ -5,6 +5,48 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>Trik Implementasi ERP pada Industri Klinik Kecantikan Bersama Xerpium</title>
+      <link>https://www.xerpium.com/artikel/trik-implementasi-erp-pada-industri-klinik-kecantikan-bersama-xerpium-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/trik-implementasi-erp-pada-industri-klinik-kecantikan-bersama-xerpium-id</guid>
+      <description>Panduan trik implementasi ERP untuk klinik kecantikan: urutan master data, skema komisi dokter, quick win appointment, dan migrasi membership dengan Xerpium ERP berbasis Odoo.</description>
+      <pubDate>2026-11-01T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>ERP Implementation Tips &amp; Tricks for the Beauty Clinic Industry with Xerpium</title>
+      <link>https://www.xerpium.com/artikel/erp-implementation-tips-tricks-for-the-beauty-clinic-industry-with-xer-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/erp-implementation-tips-tricks-for-the-beauty-clinic-industry-with-xer-en</guid>
+      <description>Practical ERP implementation tips for beauty clinics — phasing, master data, team structure, change management, and quick wins using Xerpium&#x27;s patient, appointment, membership, and doctor commission modules.</description>
+      <pubDate>2026-11-01T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP untuk HR: Mengelola SDM, Payroll, dan Rekrutmen dalam Satu Sistem Xerpium</title>
+      <link>https://www.xerpium.com/artikel/2026-11-01-hr-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-01-hr-id</guid>
+      <description>Pelajari bagaimana software ERP Xerpium menyatukan HR, payroll BPJS &amp; PPh21, absensi, ESS mobile app, dan AI recruitment dalam satu sistem terintegrasi dengan akuntansi.</description>
+      <pubDate>2026-11-01T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>HR Software for Modern Enterprises: How Xerpium ERP Connects People, Payroll, and Accounting</title>
+      <link>https://www.xerpium.com/artikel/2026-11-01-hr-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-01-hr-en</guid>
+      <description>Discover how Xerpium ERP unifies HR, payroll with BPJS and PPh21, attendance, ESS mobile self-service, and AI recruitment — with salary costs posting directly into accounting.</description>
+      <pubDate>2026-11-01T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP untuk Pelaporan &amp; Dashboard: Cara Xerpium Menyatukan Data Bisnis dalam Satu Layar</title>
+      <link>https://www.xerpium.com/artikel/2026-11-01-base-reporting-dashboard-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-01-base-reporting-dashboard-id</guid>
+      <description>Pelajari bagaimana modul Pelaporan &amp; Dashboard Xerpium ERP menyajikan KPI real-time, laporan custom, dan analitik lintas modul dengan dukungan multi-company, multi-currency, audit trail, serta AI Assistant.</description>
+      <pubDate>2026-11-01T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Real-Time Reporting &amp; Dashboard: Building a Single Source of Truth with Xerpium ERP Software</title>
+      <link>https://www.xerpium.com/artikel/2026-11-01-base-reporting-dashboard-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-01-base-reporting-dashboard-en</guid>
+      <description>Discover how Xerpium ERP&#x27;s Reporting &amp; Dashboard module delivers real-time KPIs, custom reports, cross-module analytics, multi-company and multi-currency support, and AI Assistant integration.</description>
+      <pubDate>2026-11-01T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>5 Tantangan dan Solusi Implementasi ERP untuk Penerbangan dengan Xerpium</title>
       <link>https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-penerbangan-dengan-xerpi-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-penerbangan-dengan-xerpi-id</guid>
@@ -311,47 +353,5 @@
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-26-hr-en</guid>
       <description>Discover how Xerpium ERP streamlines HR management with integrated payroll, BPJS and PPh 21 compliance, AI recruitment, ESS mobile app, and automatic accounting integration — all in one platform.</description>
       <pubDate>2026-10-26T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Efisiensi Pengadaan Dimulai dari Sini: Solusi Pembelian &amp; Procurement dengan Xerpium ERP</title>
-      <link>https://www.xerpium.com/artikel/2026-10-26-base-purchase-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-26-base-purchase-id</guid>
-      <description>Pelajari bagaimana modul Pembelian &amp; Pengadaan Xerpium ERP—dengan fitur PR, RFQ, PO, 3-way matching, dan AI Assistant—membantu perusahaan Anda mengelola procurement secara efisien, transparan, dan terintegrasi penuh.</description>
-      <pubDate>2026-10-26T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>How Xerpium ERP Transforms Purchase &amp; Procurement: From Requisition to Payment</title>
-      <link>https://www.xerpium.com/artikel/2026-10-26-base-purchase-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-26-base-purchase-en</guid>
-      <description>Discover how Xerpium ERP&#x27;s Purchase &amp; Procurement module — featuring PR, RFQ, PO management, vendor management, three-way matching, and AI integration — helps enterprises streamline sourcing, reduce risk, and gain real-time spend visibility.</description>
-      <pubDate>2026-10-26T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Kelola Gudang Lebih Cerdas dengan Modul Inventori &amp; Gudang Xerpium ERP</title>
-      <link>https://www.xerpium.com/artikel/2026-10-26-base-inventory-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-26-base-inventory-id</guid>
-      <description>Pelajari bagaimana modul Inventori &amp; Gudang Xerpium ERP membantu bisnis mengelola multi-warehouse, lot/serial tracking, replenishment otomatis, dan laporan real-time dalam satu platform terintegrasi.</description>
-      <pubDate>2026-10-26T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>How Xerpium ERP Transforms Inventory &amp; Warehouse Management for Growing Enterprises</title>
-      <link>https://www.xerpium.com/artikel/2026-10-26-base-inventory-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-26-base-inventory-en</guid>
-      <description>Discover how Xerpium ERP&#x27;s Inventory &amp; Warehouse module helps enterprises manage multi-warehouse operations, lot tracking, automated replenishment, and real-time reporting across multiple companies and currencies.</description>
-      <pubDate>2026-10-26T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>10 Solusi ERP Kota Satelit Terbaik untuk Operasional Kota Satelit</title>
-      <link>https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-id</guid>
-      <description>Temukan 10 solusi ERP terbaik untuk operasional kota satelit, dari manajemen proyek, cluster, kavling, PPJB, pembayaran, infrastruktur, serah terima, hingga IPL billing, dalam satu platform terintegrasi XERPIUM.</description>
-      <pubDate>2026-10-22T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>10 Best ERP Solutions for Satellite City Developer Operations</title>
-      <link>https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-22-satellite-10-solusi-en</guid>
-      <description>Discover 10 ERP solutions for satellite city developer operations — from project, cluster, and kavling management to PPJB, payment schedules, infrastructure, handover, IPL billing, and AI dashboards.</description>
-      <pubDate>2026-10-22T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>
