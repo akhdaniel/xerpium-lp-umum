@@ -5,6 +5,48 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>Trik Implementasi ERP pada Industri Pendidikan (Sekolah &amp; Vokasi) dengan Xerpium</title>
+      <link>https://www.xerpium.com/artikel/trik-implementasi-erp-pada-industri-pendidikan-sekolah-vokasi-dengan-x-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/trik-implementasi-erp-pada-industri-pendidikan-sekolah-vokasi-dengan-x-id</guid>
+      <description>Trik praktis implementasi ERP di sekolah &amp; vokasi dengan Xerpium: urutan tahapan, migrasi data induk, konfigurasi penilaian, quick win presensi, hingga integrasi pembayaran Xendit.</description>
+      <pubDate>2026-11-07T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>ERP Implementation Tips &amp; Tricks for the Education (Schools &amp; Vocational) Industry with Xerpium</title>
+      <link>https://www.xerpium.com/artikel/erp-implementation-tips-tricks-for-the-education-schools-vocational-in-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/erp-implementation-tips-tricks-for-the-education-schools-vocational-in-en</guid>
+      <description>Practical ERP implementation tips for schools and vocational institutions — phasing, master data, team roles, change management and quick wins with Xerpium&#x27;s Odoo-based education system.</description>
+      <pubDate>2026-11-07T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP Manufaktur Xerpium: Dari Bill of Materials sampai Quality Control dalam Satu Sistem</title>
+      <link>https://www.xerpium.com/artikel/2026-11-07-manufaktur-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-07-manufaktur-id</guid>
+      <description>Pelajari bagaimana software ERP manufaktur Xerpium menyatukan Bill of Materials, MRP, work order, quality control, serta pelacakan by-product dan limbah dengan stok dan pembelian dalam satu sistem terintegrasi.</description>
+      <pubDate>2026-11-07T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing ERP Software for Production Control: How Xerpium Connects MRP, Quality, and Inventory</title>
+      <link>https://www.xerpium.com/artikel/2026-11-07-manufaktur-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-07-manufaktur-en</guid>
+      <description>Discover how Xerpium&#x27;s Odoo-based manufacturing ERP software connects BOMs, work orders, MRP, quality control, and by-product tracking to inventory and purchasing in one system.</description>
+      <pubDate>2026-11-07T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP Manufaktur: Mengelola BOM, Routing, dan Work Order Lebih Rapi dengan Xerpium</title>
+      <link>https://www.xerpium.com/artikel/2026-11-07-base-manufacturing-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-07-base-manufacturing-id</guid>
+      <description>Pelajari bagaimana modul Manufaktur (MRP) Xerpium ERP mengelola BOM, routing, work order, dan biaya produksi dalam satu sistem terintegrasi dengan dashboard real-time dan AI Assistant.</description>
+      <pubDate>2026-11-07T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing ERP Software for MRP: Managing BOM, Routing, and Work Orders with Xerpium</title>
+      <link>https://www.xerpium.com/artikel/2026-11-07-base-manufacturing-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-07-base-manufacturing-en</guid>
+      <description>Discover how Xerpium&#x27;s Manufacturing (MRP) module unifies BOM, routing, work orders, and production costing in one integrated, Odoo-based ERP system with real-time dashboards and AI Assistant support.</description>
+      <pubDate>2026-11-07T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>5 Tantangan dan Solusi Implementasi ERP untuk Distribusi dengan Xerpium</title>
       <link>https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-distribusi-dengan-xerpiu-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-distribusi-dengan-xerpiu-id</guid>
@@ -311,47 +353,5 @@
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-30-manufaktur-en</guid>
       <description>Discover how Xerpium ERP, built on Odoo, streamlines manufacturing with MRP, integrated quality control, by-product tracking, and automatic links to inventory and purchasing.</description>
       <pubDate>2026-10-30T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Website &amp; eCommerce Terintegrasi: Membangun Toko Online dengan Software ERP Xerpium</title>
-      <link>https://www.xerpium.com/artikel/2026-10-30-base-website-ecommerce-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-30-base-website-ecommerce-id</guid>
-      <description>Bangun website dan toko online yang menyatu dengan operasional bisnis lewat modul Website &amp; eCommerce Xerpium—software ERP berbasis Odoo dengan dukungan multi-company, multi-currency, dan AI Assistant.</description>
-      <pubDate>2026-10-30T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Website &amp; eCommerce Software: Building a Connected Online Store with Xerpium ERP</title>
-      <link>https://www.xerpium.com/artikel/2026-10-30-base-website-ecommerce-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-10-30-base-website-ecommerce-en</guid>
-      <description>Discover how the Xerpium Website &amp; eCommerce software unifies your online store, catalog, and checkout with your entire ERP system through this Odoo-based, AI-integrated application.</description>
-      <pubDate>2026-10-30T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>10 Solusi ERP Auditor Terbaik untuk Operasional Kantor Audit</title>
-      <link>https://www.xerpium.com/artikel/10-solusi-erp-auditor-terbaik-untuk-operasional-kantor-audit-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/10-solusi-erp-auditor-terbaik-untuk-operasional-kantor-audit-id</guid>
-      <description>Pelajari 10 solusi ERP XERPIUM AUDITOR untuk operasional Kantor Audit — dari engagement management, working paper, time tracking, billing, hingga compliance dalam satu sistem terintegrasi.</description>
-      <pubDate>2026-10-30T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>10 Best ERP Solutions for Auditor &amp; Tax Consultant Operations</title>
-      <link>https://www.xerpium.com/artikel/10-best-erp-solutions-for-auditor-tax-consultant-operations-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/10-best-erp-solutions-for-auditor-tax-consultant-operations-en</guid>
-      <description>Discover 10 ERP solutions for auditor and tax consultant operations—covering engagement management, working papers, time tracking, billing, and compliance reporting.</description>
-      <pubDate>2026-10-30T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Solusi lengkap ERP untuk Pakan Ternak: Integrasi Formulasi, QC, dan Distribusi dalam Satu Platform</title>
-      <link>https://www.xerpium.com/artikel/solusi-lengkap-erp-untuk-pakan-ternak-integrasi-formulasi-qc-dan-distr-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/solusi-lengkap-erp-untuk-pakan-ternak-integrasi-formulasi-qc-dan-distr-id</guid>
-      <description>Solusi lengkap ERP untuk Pakan Ternak dari Xerpium—integrasi procurement, formulasi, QC lab, costing HPP per ton, distribusi, dan keuangan dalam satu platform.</description>
-      <pubDate>2026-10-29T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Complete ERP solution for Animal Feed: Managing Formulation, Quality, and Distribution in One System</title>
-      <link>https://www.xerpium.com/artikel/complete-erp-solution-for-animal-feed-managing-formulation-quality-and-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/complete-erp-solution-for-animal-feed-managing-formulation-quality-and-en</guid>
-      <description>Discover how Xerpium ERP delivers a complete solution for Animal Feed — covering procurement, formulation, QC lab, distribution, and finance in one integrated system.</description>
-      <pubDate>2026-10-29T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>
