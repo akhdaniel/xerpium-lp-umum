@@ -5,6 +5,48 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>Trik Implementasi ERP pada Industri Tambang Emas &amp; Refinery</title>
+      <link>https://www.xerpium.com/artikel/trik-implementasi-erp-pada-industri-tambang-emas-refinery-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/trik-implementasi-erp-pada-industri-tambang-emas-refinery-id</guid>
+      <description>Trik praktis implementasi ERP di industri tambang emas &amp; refinery — dari master data site, costing, pilot site, assay &amp; refinery, hingga dashboard dan AI Assistant Xerpium ERP.</description>
+      <pubDate>2026-11-14T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>ERP Implementation Tips &amp; Tricks for the Gold Mining &amp; Refinery Industry with Xerpium</title>
+      <link>https://www.xerpium.com/artikel/erp-implementation-tips-tricks-for-the-gold-mining-refinery-industry-w-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/erp-implementation-tips-tricks-for-the-gold-mining-refinery-industry-w-en</guid>
+      <description>Practical ERP implementation tips for gold mining and refinery companies — phasing, master data, workflow design, quick wins, and change management using Xerpium&#x27;s Odoo-based gold mining ERP modules.</description>
+      <pubDate>2026-11-14T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP untuk Tim Pemasaran: Cara Xerpium Menyatukan CRM, WhatsApp, dan Program Loyalitas</title>
+      <link>https://www.xerpium.com/artikel/2026-11-14-pemasaran-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-14-pemasaran-id</guid>
+      <description>Pelajari bagaimana software ERP Xerpium membantu tim pemasaran melalui CRM terpusat, integrasi WhatsApp, program loyalitas dan promosi, serta AI Assistant untuk analisis tren pasar.</description>
+      <pubDate>2026-11-14T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Marketing Solutions with Xerpium ERP: A Unified System for CRM, WhatsApp, and Data-Driven Campaigns</title>
+      <link>https://www.xerpium.com/artikel/2026-11-14-pemasaran-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-14-pemasaran-en</guid>
+      <description>Discover how Xerpium ERP supports marketing teams with centralized CRM, WhatsApp integration, loyalty and promotion management, and AI-assisted market analysis in one unified system.</description>
+      <pubDate>2026-11-14T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP Inventori &amp; Gudang: Cara Xerpium (Berbasis Odoo) Merapikan Stok Multi-Gudang</title>
+      <link>https://www.xerpium.com/artikel/2026-11-14-base-inventory-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-14-base-inventory-id</guid>
+      <description>Pelajari bagaimana modul Inventori &amp; Gudang Xerpium — software ERP berbasis Odoo — membantu mengelola multi-warehouse, lot/serial, putaway, dan replenishment dengan dashboard real-time.</description>
+      <pubDate>2026-11-14T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Inventory &amp; Warehouse Management Software: How the Xerpium ERP System Brings Order to Multi-Warehouse Operations</title>
+      <link>https://www.xerpium.com/artikel/2026-11-14-base-inventory-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-14-base-inventory-en</guid>
+      <description>Discover how Xerpium ERP&#x27;s Inventory &amp; Warehouse module handles multi-warehouse operations, lot and serial tracking, putaway, and replenishment with real-time dashboards and AI assistance.</description>
+      <pubDate>2026-11-14T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>5 Tantangan dan Solusi Implementasi Software ERP Perusahaan Terintegrasi bersama Xerpium</title>
       <link>https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-software-erp-perusahaan-terintegra-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-software-erp-perusahaan-terintegra-id</guid>
@@ -311,47 +353,5 @@
       <guid isPermaLink="true">https://www.xerpium.com/artikel/5-erp-implementation-challenges-and-solutions-for-distribution-with-xe-en</guid>
       <description>Five common ERP implementation challenges in distribution — territory data, principal discounts, delivery visibility, seasonal demand, and approvals — with practical solutions using Xerpium ERP&#x27;s Odoo-based distribution modules.</description>
       <pubDate>2026-11-06T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software ERP untuk Tim Pemasaran: Mengelola Leads, WhatsApp, dan Program Loyalitas dalam Satu Sistem Xerpium</title>
-      <link>https://www.xerpium.com/artikel/2026-11-06-pemasaran-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-06-pemasaran-id</guid>
-      <description>Pelajari bagaimana software ERP Xerpium membantu tim pemasaran mengelola leads di CRM terpusat, follow-up via integrasi WhatsApp, menjalankan program loyalty &amp; promosi, serta membaca tren pasar dengan AI Assistant.</description>
-      <pubDate>2026-11-06T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Marketing Software That Actually Connects: How Xerpium ERP Unifies CRM, WhatsApp, and Loyalty Programs</title>
-      <link>https://www.xerpium.com/artikel/2026-11-06-pemasaran-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-06-pemasaran-en</guid>
-      <description>Discover how Xerpium ERP supports marketing teams with centralized CRM, WhatsApp integration, loyalty and promotion management, and an AI Assistant for data-driven market analysis.</description>
-      <pubDate>2026-11-06T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software HR &amp; Penggajian Berbasis ERP: Bagaimana Xerpium Merapikan Administrasi Karyawan hingga Payroll</title>
-      <link>https://www.xerpium.com/artikel/2026-11-06-base-hr-payroll-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-06-base-hr-payroll-id</guid>
-      <description>Kelola karyawan, absensi, cuti, payroll, dan reimbursement dalam satu sistem ERP terpadu. Xerpium mendukung multi-company, multi-currency, audit trail, dan laporan real-time.</description>
-      <pubDate>2026-11-06T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>HR &amp; Payroll ERP Software: How Xerpium Unifies Employee Data, Attendance, and Payroll in One System</title>
-      <link>https://www.xerpium.com/artikel/2026-11-06-base-hr-payroll-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-06-base-hr-payroll-en</guid>
-      <description>Discover how Xerpium&#x27;s HR &amp; Payroll ERP module unifies employee data, attendance, leave, payroll, and reimbursement — with multi-company support, audit trail, real-time dashboards, and AI Assistant integration.</description>
-      <pubDate>2026-11-06T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software ERP untuk Tim Penjualan: Cara Xerpium Menyatukan Pipeline, POS, dan Stok dalam Satu Sistem</title>
-      <link>https://www.xerpium.com/artikel/2026-11-05-penjualan-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-05-penjualan-id</guid>
-      <description>Pelajari bagaimana software ERP Xerpium menyatukan pipeline Sales &amp; CRM, POS multi-outlet, marketplace, dan inventory dalam satu sistem — dilengkapi AI Assistant untuk insight dan forecast penjualan.</description>
-      <pubDate>2026-11-05T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Sales ERP Software for Modern Commerce: How Xerpium Connects Pipeline, POS, and Fulfillment</title>
-      <link>https://www.xerpium.com/artikel/2026-11-05-penjualan-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-05-penjualan-en</guid>
-      <description>Discover how Xerpium ERP software unifies Sales &amp; CRM, Retail &amp; POS, marketplace channels, and inventory into one connected order-to-delivery process with AI-powered sales analysis.</description>
-      <pubDate>2026-11-05T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>
