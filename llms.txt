@@ -23,7 +23,7 @@
 - [ERP Generik / Generic ERP](https://www.xerpium.com/generic): 10 artikel
 - [Tambang Emas & Refinery / Gold Mining & Refinery](https://www.xerpium.com/gold): 10 artikel
 - [Rumah Sakit & Farmasi / Hospital & Pharmacy](https://www.xerpium.com/hospital_pharmacy): 10 artikel
-- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 10 artikel
+- [Hotel & Properti / Hotel & Property](https://www.xerpium.com/hotel): 11 artikel
 - [Koperasi / Koperasi](https://www.xerpium.com/koperasi): 8 artikel
 - [Peternakan / Livestock](https://www.xerpium.com/livestock): 8 artikel
 - [Logistik / Logistics](https://www.xerpium.com/logistics): 8 artikel
@@ -54,6 +54,7 @@
 - [RSS](https://www.xerpium.com/rss.xml)
 
 ## Artikel Terbaru
+- [Software Manajemen Hotel (PMS) Berbasis ERP: Mengelola Properti dengan Xerpium](https://www.xerpium.com/artikel/software-manajemen-hotel-pms-berbasis-erp-mengelola-properti-dengan-xe-id): Panduan software manajemen hotel (PMS) berbasis ERP Xerpium: reservasi multi-channel, folio, housekeeping, maintenance, dan integrasi akuntansi dalam satu sistem.
 - [Rekomendasi Software ERP Terbaik untuk Industri Hotel & Properti di Indonesia](https://www.xerpium.com/artikel/rekomendasi-software-erp-terbaik-untuk-industri-hotel-properti-di-indo-id): Rekomendasi vendor software ERP terbaik untuk industri hotel & properti di Indonesia, dengan ulasan Xerpium berbasis Odoo serta faktor dan tips memilih vendor yang tepat.
 - [Software ERP untuk Tim Keuangan: Bagaimana Xerpium Mempercepat Tutup Buku dan Pelaporan](https://www.xerpium.com/artikel/2026-11-16-keuangan-id): Pelajari bagaimana software ERP Xerpium membantu tim keuangan mempercepat tutup buku lewat Accounting & Finance, Turbo Report, AI Reconciliation, dan jurnal otomatis terintegrasi.
 - [Finance ERP Software for Indonesian Businesses: How Xerpium Streamlines Accounting, Reporting, and Reconciliation](https://www.xerpium.com/artikel/2026-11-16-keuangan-en): Discover how Xerpium ERP software streamlines finance operations with Indonesian-standard COA, Turbo Report, AI Reconciliation, and automatic journals from every module.
@@ -83,7 +84,6 @@
 - [Software ERP & CRM Terintegrasi: Cara Xerpium Merapikan Pipeline hingga Order to Cash](https://www.xerpium.com/artikel/2026-11-12-base-sales-crm-id): Pelajari bagaimana modul Penjualan & CRM Xerpium ERP menyatukan pipeline, quotation, dan order to cash dengan dukungan multi-company, multi-currency, audit trail, dashboard real-time, dan AI Assistant.
 - [Sales & CRM ERP Software: How Xerpium Unifies Pipeline, Quotation, and Order-to-Cash](https://www.xerpium.com/artikel/2026-11-12-base-sales-crm-en): Discover how Xerpium ERP unifies pipeline, quotation, and order-to-cash in one integrated Sales & CRM module — with multi-company, multi-currency, audit trail, real-time dashboards, and AI Assistant support.
 - [10 Solusi ERP Garmen Terbaik untuk Operasional Garmen](https://www.xerpium.com/artikel/10-solusi-erp-garmen-terbaik-untuk-operasional-garmen-id): Panduan 10 solusi ERP garmen dari XERPIUM GARMENT — dari Chart of Account Garment, BOM per style, cutting & sewing, quality control, hingga dashboard KPI dan integrasi purchase serta HR.
-- [10 Best ERP Solutions for Garment Operations](https://www.xerpium.com/artikel/10-best-erp-solutions-for-garment-operations-en): A practical guide to the 10 best ERP solutions for garment operations — from garment-specific chart of accounts and BOM per style to cutting, sewing, QC, and KPI dashboards.
 
 ## Optional
 - [Brosur Produk](https://brosur.xerpium.com/): brosur resmi tiap industri
