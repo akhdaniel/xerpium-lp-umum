@@ -5,6 +5,48 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>5 Tantangan dan Solusi Implementasi ERP untuk Layanan Perawatan</title>
+      <link>https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-layanan-perawatan-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/5-tantangan-dan-solusi-implementasi-erp-untuk-layanan-perawatan-id</guid>
+      <description>Pelajari 5 tantangan implementasi ERP di industri layanan perawatan dan solusinya dengan modul Maintenance Xerpium: service order, equipment pelanggan, variance analysis, checklist, dan jadwal preventif otomatis.</description>
+      <pubDate>2026-11-20T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>5 ERP Implementation Challenges and Solutions for Maintenance Service with Xerpium</title>
+      <link>https://www.xerpium.com/artikel/5-erp-implementation-challenges-and-solutions-for-maintenance-service-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/5-erp-implementation-challenges-and-solutions-for-maintenance-service-en</guid>
+      <description>Five common ERP implementation challenges in maintenance service — workflow mismatch, asset data gaps, cost variance, schedule slippage, and broken handoffs — with practical solutions using Xerpium&#x27;s service order, work order, and preventive maintenance modules.</description>
+      <pubDate>2026-11-20T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP untuk Large Enterprise: Bagaimana Xerpium Menyatukan Operasi Multi-Divisi</title>
+      <link>https://www.xerpium.com/artikel/2026-11-20-enterprise-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-20-enterprise-id</guid>
+      <description>Panduan software ERP untuk large enterprise bersama Xerpium: modul lengkap dalam satu platform, 34+ vertical markets, opsi on premise full source, dan performa untuk volume transaksi besar.</description>
+      <pubDate>2026-11-20T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Enterprise ERP Software for Large Organizations: How Xerpium Handles Complexity Without Slowing Teams Down</title>
+      <link>https://www.xerpium.com/artikel/2026-11-20-enterprise-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-20-enterprise-en</guid>
+      <description>Enterprise ERP software for large organizations — how Xerpium&#x27;s full module suite, 34+ vertical solutions, on-premise option, and high-volume performance address complex operations.</description>
+      <pubDate>2026-11-20T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Asisten AI dalam Sistem ERP: Bagaimana Xerpium Berbasis Odoo Mengubah Data Operasional Jadi Keputusan</title>
+      <link>https://www.xerpium.com/artikel/2026-11-20-base-ai-assistant-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-20-base-ai-assistant-id</guid>
+      <description>Pelajari bagaimana modul Asisten AI Xerpium ERP berbasis Odoo membantu otomasi proses, insight real-time, dan copilot bisnis dengan dukungan multi-company, multi-currency, dan audit trail.</description>
+      <pubDate>2026-11-20T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>AI Assistant in ERP: How Xerpium&#x27;s Odoo-Based System Turns Data Into Business Decisions</title>
+      <link>https://www.xerpium.com/artikel/2026-11-20-base-ai-assistant-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-20-base-ai-assistant-en</guid>
+      <description>Learn how Xerpium&#x27;s AI Assistant module brings process automation, real-time dashboards, multi-company support, and audit trails into an Odoo-based ERP system.</description>
+      <pubDate>2026-11-20T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>Software ERP untuk UMKM: Cara Xerpium Menyatukan Penjualan, Stok, dan Keuangan dalam Satu Sistem</title>
       <link>https://www.xerpium.com/artikel/2026-11-19-umkm-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-19-umkm-id</guid>
@@ -311,47 +353,5 @@
       <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-13-base-purchase-en</guid>
       <description>Discover how Xerpium ERP software unifies PR, RFQ, PO, vendor management, and 3-way matching in one integrated procurement system with multi-company, multi-currency, and audit trail support.</description>
       <pubDate>2026-11-13T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software ERP untuk Large Enterprise: Bagaimana Xerpium Menyatukan Operasi Skala Besar dalam Satu Sistem</title>
-      <link>https://www.xerpium.com/artikel/2026-11-12-enterprise-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-12-enterprise-id</guid>
-      <description>Xerpium ERP untuk large enterprise — full ERP (Accounting, Purchasing, Manufacturing, HR &amp; Payroll, CRM, Project), 34+ vertical market, opsi on premise, kustomisasi, dan performa cepat untuk volume transaksi besar.</description>
-      <pubDate>2026-11-12T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Xerpium ERP for Large Enterprise: One Odoo-Based System for Complex Multi-Division Operations</title>
-      <link>https://www.xerpium.com/artikel/2026-11-12-enterprise-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-12-enterprise-en</guid>
-      <description>Xerpium ERP for large enterprise — a full Odoo-based suite covering Accounting, Purchasing, Manufacturing, HR &amp; Payroll, CRM and Project, with 34+ vertical solutions, on-premise options, and performance built for high transaction volumes.</description>
-      <pubDate>2026-11-12T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software ERP &amp; CRM Terintegrasi: Cara Xerpium Merapikan Pipeline hingga Order to Cash</title>
-      <link>https://www.xerpium.com/artikel/2026-11-12-base-sales-crm-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-12-base-sales-crm-id</guid>
-      <description>Pelajari bagaimana modul Penjualan &amp; CRM Xerpium ERP menyatukan pipeline, quotation, dan order to cash dengan dukungan multi-company, multi-currency, audit trail, dashboard real-time, dan AI Assistant.</description>
-      <pubDate>2026-11-12T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Sales &amp; CRM ERP Software: How Xerpium Unifies Pipeline, Quotation, and Order-to-Cash</title>
-      <link>https://www.xerpium.com/artikel/2026-11-12-base-sales-crm-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-12-base-sales-crm-en</guid>
-      <description>Discover how Xerpium ERP unifies pipeline, quotation, and order-to-cash in one integrated Sales &amp; CRM module — with multi-company, multi-currency, audit trail, real-time dashboards, and AI Assistant support.</description>
-      <pubDate>2026-11-12T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>10 Solusi ERP Garmen Terbaik untuk Operasional Garmen</title>
-      <link>https://www.xerpium.com/artikel/10-solusi-erp-garmen-terbaik-untuk-operasional-garmen-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/10-solusi-erp-garmen-terbaik-untuk-operasional-garmen-id</guid>
-      <description>Panduan 10 solusi ERP garmen dari XERPIUM GARMENT — dari Chart of Account Garment, BOM per style, cutting &amp; sewing, quality control, hingga dashboard KPI dan integrasi purchase serta HR.</description>
-      <pubDate>2026-11-12T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>10 Best ERP Solutions for Garment Operations</title>
-      <link>https://www.xerpium.com/artikel/10-best-erp-solutions-for-garment-operations-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/10-best-erp-solutions-for-garment-operations-en</guid>
-      <description>A practical guide to the 10 best ERP solutions for garment operations — from garment-specific chart of accounts and BOM per style to cutting, sewing, QC, and KPI dashboards.</description>
-      <pubDate>2026-11-12T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>
