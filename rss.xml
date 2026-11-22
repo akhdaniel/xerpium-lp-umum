@@ -5,6 +5,34 @@
   <description>Artikel ERP harian per industri & modul — Xerpium</description>
   <language>id-ID</language>
     <item>
+      <title>Software ERP Manufaktur: Cara Xerpium Menyatukan MRP, Quality Control, dan Stok dalam Satu Sistem</title>
+      <link>https://www.xerpium.com/artikel/2026-11-23-manufaktur-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-23-manufaktur-id</guid>
+      <description>Pelajari bagaimana software ERP manufaktur Xerpium menyatukan Bill of Materials, MRP, work order, Quality Control, serta pelacakan by-product dengan stok dan pembelian dalam satu alur kerja.</description>
+      <pubDate>2026-11-23T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Manufacturing ERP Software: How Xerpium Connects MRP, Quality Control, and Inventory in One System</title>
+      <link>https://www.xerpium.com/artikel/2026-11-23-manufaktur-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-23-manufaktur-en</guid>
+      <description>Discover how Xerpium manufacturing ERP software connects Bill of Materials, MRP, work orders, quality control, and by-product tracking to inventory and purchasing in one integrated system.</description>
+      <pubDate>2026-11-23T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Software ERP Pembelian &amp; Pengadaan: Mengelola PR, RFQ, PO, hingga 3-Way Matching dengan Xerpium</title>
+      <link>https://www.xerpium.com/artikel/2026-11-23-base-purchase-id</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-23-base-purchase-id</guid>
+      <description>Panduan modul Pembelian &amp; Pengadaan Xerpium ERP: alur PR, RFQ, PO, vendor management, dan 3-way matching dengan dukungan multi-company, multi-currency, serta audit trail.</description>
+      <pubDate>2026-11-23T07:00:00+07:00</pubDate>
+    </item>
+    <item>
+      <title>Procurement Software That Closes the Loop: Managing PR, RFQ, PO, and 3-Way Matching in Xerpium ERP</title>
+      <link>https://www.xerpium.com/artikel/2026-11-23-base-purchase-en</link>
+      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-23-base-purchase-en</guid>
+      <description>Learn how Xerpium ERP connects PR, RFQ, PO, vendor management, and 3-way matching in one Odoo-based procurement module — with multi-company, multi-currency, and real-time dashboards.</description>
+      <pubDate>2026-11-23T07:00:00+07:00</pubDate>
+    </item>
+    <item>
       <title>Manfaat Software ERP untuk Industri Rental: Dari Unit Keluar sampai Invoice Tertagih dengan Xerpium</title>
       <link>https://www.xerpium.com/artikel/manfaat-software-erp-untuk-industri-rental-dari-unit-keluar-sampai-inv-id</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/manfaat-software-erp-untuk-industri-rental-dari-unit-keluar-sampai-inv-id</guid>
@@ -324,34 +352,6 @@
       <link>https://www.xerpium.com/artikel/benefits-of-erp-software-for-the-hospital-pharmacy-industry-why-xerpiu-en</link>
       <guid isPermaLink="true">https://www.xerpium.com/artikel/benefits-of-erp-software-for-the-hospital-pharmacy-industry-why-xerpiu-en</guid>
       <description>Discover the real business benefits of ERP software for hospitals and pharmacies — efficiency, visibility, cost control, BPJS and SatuSehat compliance — with Xerpium&#x27;s Odoo-based system.</description>
-      <pubDate>2026-11-15T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software ERP Manufaktur: Cara Xerpium Menyatukan Produksi, Kualitas, dan Stok dalam Satu Sistem</title>
-      <link>https://www.xerpium.com/artikel/2026-11-15-manufaktur-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-15-manufaktur-id</guid>
-      <description>Pelajari bagaimana software ERP Xerpium membantu industri manufaktur mengelola Bill of Materials, work order, MRP, quality control, serta pelacakan by-product dan limbah dalam satu sistem terintegrasi.</description>
-      <pubDate>2026-11-15T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Manufacturing ERP Software: How Xerpium Connects Production, Quality, and Inventory in One System</title>
-      <link>https://www.xerpium.com/artikel/2026-11-15-manufaktur-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-15-manufaktur-en</guid>
-      <description>Discover how Xerpium ERP software connects manufacturing, MRP, quality control, and inventory — reducing material shortages, rework, and manual data entry on the shop floor.</description>
-      <pubDate>2026-11-15T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Software Akuntansi &amp; Keuangan dalam Satu Sistem ERP: Cara Xerpium Merapikan Pembukuan Perusahaan</title>
-      <link>https://www.xerpium.com/artikel/2026-11-15-base-accounting-id</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-15-base-accounting-id</guid>
-      <description>Pelajari bagaimana modul Akuntansi &amp; Keuangan Xerpium ERP — dengan chart of accounts, jurnal, pajak, multi-company, multi-currency, audit trail, dan dashboard real-time — merapikan pembukuan dan mempercepat laporan keuangan perusahaan Anda.</description>
-      <pubDate>2026-11-15T07:00:00+07:00</pubDate>
-    </item>
-    <item>
-      <title>Accounting &amp; Finance ERP Software: How Xerpium Unifies Your Financial Core on Odoo</title>
-      <link>https://www.xerpium.com/artikel/2026-11-15-base-accounting-en</link>
-      <guid isPermaLink="true">https://www.xerpium.com/artikel/2026-11-15-base-accounting-en</guid>
-      <description>Discover how Xerpium&#x27;s Odoo-based Accounting &amp; Finance ERP software unifies your chart of accounts, tax, multi-company and multi-currency books with real-time reporting and a full audit trail.</description>
       <pubDate>2026-11-15T07:00:00+07:00</pubDate>
     </item>
 </channel></rss>
